@@ -20,13 +20,10 @@
     "electrDate": "2023-02-15"
   },
   "publication": {
-    "pubYear": "2023"
+    "pubYear": "2023",
+    "publisher": "Sissa Medialab"
   },
   "publisherIDs": [
-    {
-      "Identifier": "oai:pos.sissa.it:ECRS/002",
-      "attribute": "publisher-id"
-    },
     {
       "Identifier": "PoS(ECRS)002",
       "attribute": "publisher-id"

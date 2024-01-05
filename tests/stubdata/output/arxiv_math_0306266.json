@@ -27,10 +27,6 @@
   },
   "publisherIDs": [
     {
-      "Identifier": "oai:arXiv.org:math/0306266",
-      "attribute": "publisher-id"
-    },
-    {
       "Identifier": "http://arxiv.org/abs/math/0306266",
       "attribute": "publisher-id"
     },

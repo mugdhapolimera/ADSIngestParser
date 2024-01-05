@@ -43,10 +43,6 @@
   },
   "publisherIDs": [
     {
-      "Identifier": "oai:arXiv.org:1711.05739",
-      "attribute": "publisher-id"
-    },
-    {
       "Identifier": "http://arxiv.org/abs/1711.05739",
       "attribute": "publisher-id"
     }

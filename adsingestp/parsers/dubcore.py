@@ -52,14 +52,6 @@ class DublinCoreParser(BaseBeautifulSoupParser):
         self.base_metadata["ids"] = {}
         self.base_metadata["ids"]["pub-id"] = []
 
-        if self.input_header.find("identifier"):
-            self.base_metadata["ids"]["pub-id"].append(
-                {
-                    "attribute": "publisher-id",
-                    "Identifier": self.input_header.find("identifier").get_text(),
-                }
-            )
-
         if self.input_metadata.find("dc:identifier"):
             for dc_id in self.input_metadata.find_all("dc:identifier"):
                 self.base_metadata["ids"]["pub-id"].append(
@@ -100,6 +92,10 @@ class DublinCoreParser(BaseBeautifulSoupParser):
             self.base_metadata["pubdate_electronic"] = self.input_metadata.find(
                 "dc:date"
             ).get_text()
+
+    def _parse_publisher(self):
+        if self.input_metadata.find("dc:publisher"):
+            self.base_metadata["publisher"] = self.input_metadata.find("dc:publisher").get_text()
 
     def _parse_abstract(self):
         desc_array = self.input_metadata.find_all("dc:description")
@@ -152,6 +148,7 @@ class DublinCoreParser(BaseBeautifulSoupParser):
         self._parse_pubdate()
         self._parse_abstract()
         self._parse_keywords()
+        self._parse_publisher()
 
         self.base_metadata = self._entity_convert(self.base_metadata)
 
