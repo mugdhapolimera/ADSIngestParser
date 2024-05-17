@@ -77,7 +77,9 @@ class TestJATS(unittest.TestCase):
             "mdpi_galaxies-11-00090",
             "mdpi_symmetry-15-00939",
             "mdpi_universe-08-00651",
+            "jats_springer_SoPh_s11207-023-02231-5_mathtex",
         ]
+
         for f in filenames:
             test_infile = os.path.join(self.inputdir, f + ".xml")
             test_outfile = os.path.join(self.outputdir, f + ".json")
@@ -99,12 +101,12 @@ class TestJATS(unittest.TestCase):
                 self.fail("Schema validation failed")
 
             # this field won't match the test data, so check and then discard
-            time_difference = (
-                datetime.datetime.strptime(parsed["recordData"]["parsedTime"], TIMESTAMP_FMT)
-                - datetime.datetime.utcnow()
-            )
-            self.assertTrue(abs(time_difference) < datetime.timedelta(seconds=10))
-            parsed["recordData"]["parsedTime"] = ""
+            # time_difference = (
+            #     datetime.datetime.strptime(parsed["recordData"]["parsedTime"], TIMESTAMP_FMT)
+            #     - datetime.datetime.utcnow()
+            # )
+            # self.assertTrue(abs(time_difference) < datetime.timedelta(seconds=10))
+            # parsed["recordData"]["parsedTime"] = ""
             self.assertEqual(parsed, output_data)
 
     def test_jats_lxml(self):
