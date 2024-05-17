@@ -543,6 +543,12 @@ class BaseBeautifulSoupParser(IngestBase):
             for e in elements:
                 if t in self.HTML_TAGS_DANGER:
                     e.decompose()
+                elif t == "alternatives":
+                    alt_math_element = e.find_all("mml:math", [])
+                    alt_tex_element = e.find_all("tex-math", [])
+                    if alt_math_element[0] and alt_tex_element[0]:
+                        alt_tex_element[0].decompose()
+                    e.unwrap()
                 elif t in tags_keep:
                     continue
                 else:
