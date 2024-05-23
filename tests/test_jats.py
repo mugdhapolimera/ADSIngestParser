@@ -78,6 +78,7 @@ class TestJATS(unittest.TestCase):
             "mdpi_symmetry-15-00939",
             "mdpi_universe-08-00651",
             "jats_springer_SoPh_s11207-023-02231-5_mathtex",
+            "jats_apj_967_1_35",
         ]
 
         for f in filenames:
@@ -89,7 +90,7 @@ class TestJATS(unittest.TestCase):
                 input_data = fp.read()
 
             parsed = parser.parse(input_data)
-
+                
             with open(test_outfile, "rb") as fp:
                 output_text = fp.read()
                 output_data = json.loads(output_text)
