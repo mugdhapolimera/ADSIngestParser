@@ -89,41 +89,41 @@
 				</contrib>
 				<aff id="affiliation01">
 					<label>1</label>
-					<institution xlink:type="simple">Xinjiang Astronomical Observatory</institution>, CAS, 150 Science-1 Street, Urumqi 830011, 
-					<country>People's Republic of China</country>; 
+					<institution xlink:type="simple">Xinjiang Astronomical Observatory</institution>, CAS, 150 Science-1 Street, Urumqi 830011,
+					<country>People's Republic of China</country>;
 					<ext-link ext-link-type="email" id="apjad3c2bem1" xlink:type="simple">cuilang@xao.ac.cn</ext-link>
 				</aff>
 				<aff id="affiliation02">
 					<label>2</label>
-College of Astronomy and Space Science, 
-					<institution xlink:type="simple">University of Chinese Academy of Sciences</institution>, No.1 Yanqihu East Road, Beijing 101408, 
+College of Astronomy and Space Science,
+					<institution xlink:type="simple">University of Chinese Academy of Sciences</institution>, No.1 Yanqihu East Road, Beijing 101408,
 					<country>People's Republic of China</country>
 				</aff>
 				<aff id="affiliation03">
 					<label>3</label>
-					<institution xlink:type="simple">Key Laboratory of Radio Astronomy</institution>, CAS, 150 Science 1-Street, Urumqi 830011, 
+					<institution xlink:type="simple">Key Laboratory of Radio Astronomy</institution>, CAS, 150 Science 1-Street, Urumqi 830011,
 					<country>People's Republic of China</country>
 				</aff>
 				<aff id="affiliation04">
 					<label>4</label>
-					<institution xlink:type="simple">Xinjiang Key Laboratory of Radio Astrophysics</institution>, 150 Science 1-Street, Urumqi 830011, 
+					<institution xlink:type="simple">Xinjiang Key Laboratory of Radio Astrophysics</institution>, 150 Science 1-Street, Urumqi 830011,
 					<country>People's Republic of China</country>
 				</aff>
 				<aff id="affiliation05">
 					<label>5</label>
-George P. and Cynthia Woods Mitchell Institute for Fundamental Physics and Astronomy, 
-					<institution xlink:type="simple">Texas A&amp;M University</institution>, College Station, TX 77843-4242, 
+George P. and Cynthia Woods Mitchell Institute for Fundamental Physics and Astronomy,
+					<institution xlink:type="simple">Texas A&amp;M University</institution>, College Station, TX 77843-4242,
 					<country>USA</country>
 				</aff>
 				<aff id="affiliation06">
 					<label>6</label>
-School of Astronomy and Space Science, 
-					<institution xlink:type="simple">Nanjing University</institution>, Nanjing 210023, 
+School of Astronomy and Space Science,
+					<institution xlink:type="simple">Nanjing University</institution>, Nanjing 210023,
 					<country>People's Republic of China</country>
 				</aff>
 				<aff id="affiliation07">
 					<label>7</label>
-					<institution xlink:type="simple">Key Laboratory of Modern Astronomy and Astrophysics (Nanjing University)</institution>, Ministry of Education, Nanjing 210023, 
+					<institution xlink:type="simple">Key Laboratory of Modern Astronomy and Astrophysics (Nanjing University)</institution>, Ministry of Education, Nanjing 210023,
 					<country>People's Republic of China</country>
 				</aff>
 			</contrib-group>
@@ -173,7 +173,7 @@ School of Astronomy and Space Science,
 				<license xlink:href="http://creativecommons.org/licenses/by/4.0/" license-type="cc-by" xlink:type="simple">
 					<license-p>
 						<graphic xlink:href="apjad3c2blicense.eps" content-type="print" orientation="portrait" position="float" xlink:type="simple"/>
-						<graphic xlink:href="apjad3c2blicense.gif" content-type="online" orientation="portrait" position="float" xlink:type="simple"/>Original content from this work may be used under the terms of the 
+						<graphic xlink:href="apjad3c2blicense.gif" content-type="online" orientation="portrait" position="float" xlink:type="simple"/>Original content from this work may be used under the terms of the
 						<ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="uri" xlink:type="simple">Creative Commons Attribution 4.0 licence</ext-link>. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
 					</license-p>
 				</license>
@@ -182,11 +182,11 @@ School of Astronomy and Space Science,
 			<self-uri xlink:href="apj_967_1_35.epub" content-type="epub" xlink:type="simple"/>
 			<abstract>
 				<title>Abstract</title>
-				<p>Iron line spectroscopy has been one of the leading methods not only for measuring the spins of accreting black holes but also for testing fundamental physics. Basing on such a method, we present an analysis of a data set observed simultaneously by NuSTAR and NICER for the black hole binary candidate MAXI J1803-298, which shows prominent relativistic reflection features. Various 
+				<p>Iron line spectroscopy has been one of the leading methods not only for measuring the spins of accreting black holes but also for testing fundamental physics. Basing on such a method, we present an analysis of a data set observed simultaneously by NuSTAR and NICER for the black hole binary candidate MAXI J1803-298, which shows prominent relativistic reflection features. Various
 					<monospace>relxill</monospace>_
-					<monospace>nk</monospace> flavors are utilized to test the Kerr black hole hypothesis. The results obtained from our analysis provide stringent constraints on Johannsen deformation parameter 
+					<monospace>nk</monospace> flavors are utilized to test the Kerr black hole hypothesis. The results obtained from our analysis provide stringent constraints on Johannsen deformation parameter
 					<italic toggle="yes">α</italic>
-					<sub>13</sub> with the highest precise to date, namely 
+					<sub>13</sub> with the highest precise to date, namely
 					<inline-formula>
 						<tex-math>
 							<?CDATA ${\alpha }_{13}={0.023}_{-0.038}^{+0.071}$?>
@@ -216,9 +216,9 @@ School of Astronomy and Space Science,
 							</mml:msubsup>
 						</mml:math>
 						<inline-graphic xlink:href="apjad3c2bieqn1.gif" xlink:type="simple"/>
-					</inline-formula> from 
+					</inline-formula> from
 					<monospace>relxillD</monospace>_
-					<monospace>nk</monospace> and 
+					<monospace>nk</monospace> and
 					<inline-formula>
 						<tex-math>
 							<?CDATA ${\alpha }_{13}={0.006}_{-0.022}^{+0.045}$?>
@@ -248,10 +248,10 @@ School of Astronomy and Space Science,
 							</mml:msubsup>
 						</mml:math>
 						<inline-graphic xlink:href="apjad3c2bieqn2.gif" xlink:type="simple"/>
-					</inline-formula> from 
+					</inline-formula> from
 					<monospace>relxillion</monospace>_
 					<monospace>nk,</monospace> respectively, in 3
-					<italic toggle="yes">σ</italic> credible lever, where the Johannsen metric reduces to the Kerr metric when 
+					<italic toggle="yes">σ</italic> credible lever, where the Johannsen metric reduces to the Kerr metric when
 					<italic toggle="yes">α</italic>
 					<sub>13</sub> vanishes. Furthermore, we investigate the best model fit results using Akaike information criterion and assess its systematic uncertainties.
 				</p>
@@ -311,50 +311,50 @@ School of Astronomy and Space Science,
 		<sec id="apjad3c2bs1">
 			<label>1.</label>
 			<title>Introduction</title>
-			<p>Since Einstein proposed general relativity in late 1915, it has found applications across various physical phenomena and has undergone numerous tests in the weak field regime (Will 
-				<xref ref-type="bibr" rid="apjad3c2bbib54">2014</xref>). Over the decades, advancements in instruments and technology have made the testing of general relativity in strong gravitational regimes a prominent and contemporary research focus. Astrophysical black holes (BHs), which can be described by the Kerr solution (Kerr 
-				<xref ref-type="bibr" rid="apjad3c2bbib35">1963</xref>; Carter 
-				<xref ref-type="bibr" rid="apjad3c2bbib15">1971</xref>; Robinson 
+			<p>Since Einstein proposed general relativity in late 1915, it has found applications across various physical phenomena and has undergone numerous tests in the weak field regime (Will
+				<xref ref-type="bibr" rid="apjad3c2bbib54">2014</xref>). Over the decades, advancements in instruments and technology have made the testing of general relativity in strong gravitational regimes a prominent and contemporary research focus. Astrophysical black holes (BHs), which can be described by the Kerr solution (Kerr
+				<xref ref-type="bibr" rid="apjad3c2bbib35">1963</xref>; Carter
+				<xref ref-type="bibr" rid="apjad3c2bbib15">1971</xref>; Robinson
 				<xref ref-type="bibr" rid="apjad3c2bbib43">1975</xref>), serve as an ideal laboratory for probing strong gravity.
 			</p>
-			<p>The presence of an accretion disk, nearby stars, or a potential nonvanishing electric charge of the BH is typically negligible in the strong gravitational field near the event horizon (Bambi et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib11">2009</xref>; Bambi 
-				<xref ref-type="bibr" rid="apjad3c2bbib8">2018</xref>; Cardoso &amp; Pani 
-				<xref ref-type="bibr" rid="apjad3c2bbib14">2019</xref>). Conversely, certain plausible macroscopic deviations from the Kerr metric arise in the presence of quantum gravity effects (Dvali &amp; Gomez 
-				<xref ref-type="bibr" rid="apjad3c2bbib20">2013</xref>; Giddings 
-				<xref ref-type="bibr" rid="apjad3c2bbib25">2017</xref>; Giddings &amp; Psaltis 
-				<xref ref-type="bibr" rid="apjad3c2bbib26">2018</xref>), exotic matter (Herdeiro et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib28">2016</xref>; Giddings &amp; Psaltis 
-				<xref ref-type="bibr" rid="apjad3c2bbib26">2018</xref>), and various modified theories of gravity (Kleihaus et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib36">2011</xref>; Ayzenberg &amp; Yunes 
-				<xref ref-type="bibr" rid="apjad3c2bbib6">2014</xref>; Sotiriou &amp; Zhou 
+			<p>The presence of an accretion disk, nearby stars, or a potential nonvanishing electric charge of the BH is typically negligible in the strong gravitational field near the event horizon (Bambi et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib11">2009</xref>; Bambi
+				<xref ref-type="bibr" rid="apjad3c2bbib8">2018</xref>; Cardoso &amp; Pani
+				<xref ref-type="bibr" rid="apjad3c2bbib14">2019</xref>). Conversely, certain plausible macroscopic deviations from the Kerr metric arise in the presence of quantum gravity effects (Dvali &amp; Gomez
+				<xref ref-type="bibr" rid="apjad3c2bbib20">2013</xref>; Giddings
+				<xref ref-type="bibr" rid="apjad3c2bbib25">2017</xref>; Giddings &amp; Psaltis
+				<xref ref-type="bibr" rid="apjad3c2bbib26">2018</xref>), exotic matter (Herdeiro et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib28">2016</xref>; Giddings &amp; Psaltis
+				<xref ref-type="bibr" rid="apjad3c2bbib26">2018</xref>), and various modified theories of gravity (Kleihaus et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib36">2011</xref>; Ayzenberg &amp; Yunes
+				<xref ref-type="bibr" rid="apjad3c2bbib6">2014</xref>; Sotiriou &amp; Zhou
 				<xref ref-type="bibr" rid="apjad3c2bbib45">2014</xref>). Consequently, testing the Kerr metric proves to be an effective approach for exploring the strong gravitational field regime.
 			</p>
-			<p>Numerous methods for testing the Kerr hypothesis have been explored, primarily encompassing electromagnetic techniques (Johannsen 
-				<xref ref-type="bibr" rid="apjad3c2bbib33">2016</xref>; Bambi et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib10">2017</xref>), and in recent years, gravitational-wave approaches (Glampedakis &amp; Babak 
-				<xref ref-type="bibr" rid="apjad3c2bbib27">2006</xref>; Yunes &amp; Siemens 
-				<xref ref-type="bibr" rid="apjad3c2bbib57">2013</xref>; Abbott et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib1">2016</xref>; Yunes et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib58">2016</xref>). The X-ray reflection spectrum is generally used to study the relativistic effects on the inner part of the accretion disk around BHs and to understand the properties of spacetime (Bambi et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib9">2021</xref>). There are many observational constraints already published using X-ray reflection spectrum originated from the accretion disk around BHs to test the Kerr hypothesis (Cao et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib13">2018</xref>; Xu et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib56">2018</xref>; Tripathi et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib48">2019a</xref>, 
-				<xref ref-type="bibr" rid="apjad3c2bbib51">2019b</xref>, 
-				<xref ref-type="bibr" rid="apjad3c2bbib52">2019c</xref>; Abdikamalo et al. 
+			<p>Numerous methods for testing the Kerr hypothesis have been explored, primarily encompassing electromagnetic techniques (Johannsen
+				<xref ref-type="bibr" rid="apjad3c2bbib33">2016</xref>; Bambi et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib10">2017</xref>), and in recent years, gravitational-wave approaches (Glampedakis &amp; Babak
+				<xref ref-type="bibr" rid="apjad3c2bbib27">2006</xref>; Yunes &amp; Siemens
+				<xref ref-type="bibr" rid="apjad3c2bbib57">2013</xref>; Abbott et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib1">2016</xref>; Yunes et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib58">2016</xref>). The X-ray reflection spectrum is generally used to study the relativistic effects on the inner part of the accretion disk around BHs and to understand the properties of spacetime (Bambi et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib9">2021</xref>). There are many observational constraints already published using X-ray reflection spectrum originated from the accretion disk around BHs to test the Kerr hypothesis (Cao et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib13">2018</xref>; Xu et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib56">2018</xref>; Tripathi et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib48">2019a</xref>,
+				<xref ref-type="bibr" rid="apjad3c2bbib51">2019b</xref>,
+				<xref ref-type="bibr" rid="apjad3c2bbib52">2019c</xref>; Abdikamalo et al.
 				<xref ref-type="bibr" rid="apjad3c2bbib2">2019</xref>). Among these approaches, the disk–corona model is regarded as a phenomenological model describing the relationship between the accretion disk and the ionized corona in a BH system.
 			</p>
-			<p>The thermal photons emitted from the disk undergo inverse-Compton scattering within the corona, characterized by high temperatures (approximately 100 keV), and some of them are reflected back to the disk, which is the so-called reflection spectrum. The most prominent features of the reflection spectrum are often characterized by the iron 
+			<p>The thermal photons emitted from the disk undergo inverse-Compton scattering within the corona, characterized by high temperatures (approximately 100 keV), and some of them are reflected back to the disk, which is the so-called reflection spectrum. The most prominent features of the reflection spectrum are often characterized by the iron
 				<italic toggle="yes">K</italic>
-				<italic toggle="yes">α</italic> line around 6.4 keV, depending on the ionization of iron atoms, and the Compton hump peaked around 20–30 keV. In the rest frame of the gas, fluorescent emission lines display narrow profiles; however, in a strong-gravity region, the 
+				<italic toggle="yes">α</italic> line around 6.4 keV, depending on the ionization of iron atoms, and the Compton hump peaked around 20–30 keV. In the rest frame of the gas, fluorescent emission lines display narrow profiles; however, in a strong-gravity region, the
 				<italic toggle="yes">K</italic>
-				<italic toggle="yes">α</italic> line undergoes broadening due to relativistic effects, which indicates that it is one of the most potential tools that can be used to test relativistic effects in a strong-gravity region (Cao et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib13">2018</xref>; Abdikamalo et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib2">2019</xref>; Tripathi et al. 
+				<italic toggle="yes">α</italic> line undergoes broadening due to relativistic effects, which indicates that it is one of the most potential tools that can be used to test relativistic effects in a strong-gravity region (Cao et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib13">2018</xref>; Abdikamalo et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib2">2019</xref>; Tripathi et al.
 				<xref ref-type="bibr" rid="apjad3c2bbib53">2020</xref>).
 			</p>
-			<p>The 
+			<p>The
 				<monospace>relxill</monospace>_
 				<monospace>nk</monospace> model
 				<xref ref-type="fn" rid="apjad3c2bfn1">
@@ -367,9 +367,9 @@ School of Astronomy and Space Science,
 					<p>
 						<ext-link xlink:href="https://github.com/ABHModels/relxill_nk" ext-link-type="uri" xlink:type="simple">https://github.com/ABHModels/relxill_nk</ext-link>
 					</p>
-				</fn> (Bambi 
-				<xref ref-type="bibr" rid="apjad3c2bbib7">2017</xref>; Abdikamalov et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib4">2019</xref>), an extension of the 
+				</fn> (Bambi
+				<xref ref-type="bibr" rid="apjad3c2bbib7">2017</xref>; Abdikamalov et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib4">2019</xref>), an extension of the
 				<monospace>relxill</monospace> package
 				<xref ref-type="fn" rid="apjad3c2bfn2">
 					<sup>9</sup>
@@ -381,34 +381,34 @@ School of Astronomy and Space Science,
 					<p>
 						<ext-link xlink:href="http://www.sternwarte.uni-erlangen.de/~dauser/research/relxill/" ext-link-type="uri" xlink:type="simple">http://www.sternwarte.uni-erlangen.de/~dauser/research/relxill/</ext-link>
 					</p>
-				</fn> (Dauser et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib19">2013</xref>; García et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib23">2014</xref>), is a versatile tool for analyzing the reflection features of a geometrically thin and optically thick disk in non-Kerr spacetimes. The model employs a parametric BH spacetime metric, where a set of deformation parameters parameterizes deviations from the Kerr solution. The Kerr metric is recovered when all the deformation parameters vanish (Cao et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib13">2018</xref>; Abdikamalo et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib2">2019</xref>; Tripathi et al. 
+				</fn> (Dauser et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib19">2013</xref>; García et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib23">2014</xref>), is a versatile tool for analyzing the reflection features of a geometrically thin and optically thick disk in non-Kerr spacetimes. The model employs a parametric BH spacetime metric, where a set of deformation parameters parameterizes deviations from the Kerr solution. The Kerr metric is recovered when all the deformation parameters vanish (Cao et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib13">2018</xref>; Abdikamalo et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib2">2019</xref>; Tripathi et al.
 				<xref ref-type="bibr" rid="apjad3c2bbib53">2020</xref>).
 			</p>
-			<p>This paper details the spectral analysis conducted on the observational data during the outburst of the Galactic BH binary candidate MAXI J1803-298. The outburst of this BH binary candidate was first captured by the Gas Slit Camera of the Monitor of All-sky X-ray Image (MAXI) nova alert system at 19:50 UT on 2021 May 1, located at R.A. = 270.°923, decl. = −29.°804 (J2000; Serino et al. 
+			<p>This paper details the spectral analysis conducted on the observational data during the outburst of the Galactic BH binary candidate MAXI J1803-298. The outburst of this BH binary candidate was first captured by the Gas Slit Camera of the Monitor of All-sky X-ray Image (MAXI) nova alert system at 19:50 UT on 2021 May 1, located at R.A. = 270.°923, decl. = −29.°804 (J2000; Serino et al.
 				<xref ref-type="bibr" rid="apjad3c2bbib44">2021</xref>). A comprehensive multiwavelength follow-up of the discovery outburst and the timing analysis of the BH candidate MAXI J1803−298 are presented in Mata Sánchez et al. (
 				<xref ref-type="bibr" rid="apjad3c2bbib39">2022</xref>) and Zhu et al. (
 				<xref ref-type="bibr" rid="apjad3c2bbib61">2023</xref>). These findings indicate a state transition from the low/hard state to the hard intermediate state, followed by the soft intermediate state, and ultimately reaching the high/soft state. The works of Feng et al. (
 				<xref ref-type="bibr" rid="apjad3c2bbib21">2022</xref>) and Coughenour et al. (
 				<xref ref-type="bibr" rid="apjad3c2bbib18">2023</xref>) previously examined variability and reflection features, revealing a notable, relativistically broadened iron-line component in the spectrum with an extraordinarily high value of spin parameter.
 			</p>
-			<p>Based on the reflection feature from MAXI J1803-298 within a soft intermediate state, we mainly test the Kerr metric with different flavors of model 
+			<p>Based on the reflection feature from MAXI J1803-298 within a soft intermediate state, we mainly test the Kerr metric with different flavors of model
 				<monospace>relxill</monospace>_
-				<monospace>nk</monospace> and then discuss the impact of different 
+				<monospace>nk</monospace> and then discuss the impact of different
 				<monospace>relxill</monospace>_
-				<monospace>nk</monospace> flavors in fitting data from NuSTAR and NICER in this work. Stringent constraints on its parameters have been obtained, and these findings reveal no significant distinctions among different flavors of 
+				<monospace>nk</monospace> flavors in fitting data from NuSTAR and NICER in this work. Stringent constraints on its parameters have been obtained, and these findings reveal no significant distinctions among different flavors of
 				<monospace>relxill</monospace>_
 				<monospace>nk</monospace>. Subsequently, the AIC was employed to assess the congruence among diverse models for the purpose of selecting the best-fitting model.
 			</p>
-			<p>The contents of this paper are organized as follows. In Section 
-				<xref ref-type="sec" rid="apjad3c2bs2">2</xref>, we present the observations of MAXI J1803-298 and data reduction from NuSTAR and NICER. In Section 
-				<xref ref-type="sec" rid="apjad3c2bs3">3</xref>, we present our spectrum analysis with different 
-				<monospace>relxill</monospace> flavors and 
+			<p>The contents of this paper are organized as follows. In Section
+				<xref ref-type="sec" rid="apjad3c2bs2">2</xref>, we present the observations of MAXI J1803-298 and data reduction from NuSTAR and NICER. In Section
+				<xref ref-type="sec" rid="apjad3c2bs3">3</xref>, we present our spectrum analysis with different
+				<monospace>relxill</monospace> flavors and
 				<monospace>relxill</monospace>_
-				<monospace>nk</monospace> flavors. In Section 
+				<monospace>nk</monospace> flavors. In Section
 				<xref ref-type="sec" rid="apjad3c2bs4">4</xref>, we discuss our results, estimate the systematic uncertainties, and give conclusions in the end.
 			</p>
 		</sec>
@@ -418,15 +418,15 @@ School of Astronomy and Space Science,
 			<sec id="apjad3c2bs2-1">
 				<label>2.1.</label>
 				<title>Observations</title>
-				<p>MAXI J1803-298 was observed by various X-ray missions, including simultaneous observations by NuSTAR and the X-ray Timing Instrument (XTI) payload on NICER on 2021 May 23. Observation IDs and their exposure times are reported in Table 
+				<p>MAXI J1803-298 was observed by various X-ray missions, including simultaneous observations by NuSTAR and the X-ray Timing Instrument (XTI) payload on NICER on 2021 May 23. Observation IDs and their exposure times are reported in Table
 					<xref ref-type="table" rid="apjad3c2bt1">1</xref>. The focus of this work is the observation with ObsID 90702318002 from NuSTAR/(FPMA and FPMB) and ObsID 4202130110 from NICER/XTI followed by works in Feng et al. (
 					<xref ref-type="bibr" rid="apjad3c2bbib21">2022</xref>). Assuming that the Kerr solution describes the spacetime metric around the BH, Feng et al. (
 					<xref ref-type="bibr" rid="apjad3c2bbib21">2022</xref>) and Coughenour et al. (
-					<xref ref-type="bibr" rid="apjad3c2bbib18">2023</xref>) estimated the BH’s spin and well-constrained features of the reflection spectrum. We followed their works but mainly employed the 
+					<xref ref-type="bibr" rid="apjad3c2bbib18">2023</xref>) estimated the BH’s spin and well-constrained features of the reflection spectrum. We followed their works but mainly employed the
 					<monospace>relxill</monospace>_
-					<monospace>nk</monospace> with different flavors to estimate the deformation parameter 
+					<monospace>nk</monospace> with different flavors to estimate the deformation parameter
 					<italic toggle="yes">α</italic>
-					<sub>13</sub> of the Johannsen metric. The line element of the Johannsen spacetime is reported in the 
+					<sub>13</sub> of the Johannsen metric. The line element of the Johannsen spacetime is reported in the
 					<xref ref-type="sec" rid="apjad3c2bapp1">Appendix</xref>, where we also list the main properties of this BH metric.
 				</p>
 				<table-wrap id="apjad3c2bt1" orientation="portrait" position="float">
@@ -493,11 +493,11 @@ School of Astronomy and Space Science,
 							<ext-link xlink:href="https://heasarc.gsfc.nasa.gov/docs/nustar/analysis/" ext-link-type="uri" xlink:type="simple">https://heasarc.gsfc.nasa.gov/docs/nustar/analysis/</ext-link>
 						</p>
 					</fn>
-					<monospace>NUPIPELINE 0.4.9</monospace> in 
-					<monospace>HEASOFT v6.32</monospace> using the latest calibration database 
-					<monospace>CALDB v20230816</monospace>. The good time interval files are produced using 
-					<monospace>nuscreen</monospace>, and we remove some obvious variabilities in the NuSTAR light curve by the tool 
-					<monospace>fv</monospace> to preclude the impact of flare and dip events on the spectrum analysis. The source events are extracted from a circular region centered on MAXI J1803-298 with a radius of 120″. The background region is a circle of the same size taken far from the source region to avoid any contribution from the source. We use the 
+					<monospace>NUPIPELINE 0.4.9</monospace> in
+					<monospace>HEASOFT v6.32</monospace> using the latest calibration database
+					<monospace>CALDB v20230816</monospace>. The good time interval files are produced using
+					<monospace>nuscreen</monospace>, and we remove some obvious variabilities in the NuSTAR light curve by the tool
+					<monospace>fv</monospace> to preclude the impact of flare and dip events on the spectrum analysis. The source events are extracted from a circular region centered on MAXI J1803-298 with a radius of 120″. The background region is a circle of the same size taken far from the source region to avoid any contribution from the source. We use the
 					<monospace>nuproducts</monospace> to generate the spectra and other products. The FPMA and FPMB spectra are grouped to have a minimum count of 25 photons per bin for the 
 					<italic toggle="yes">χ</italic>
 					<sup>2</sup> statistics to be applicable. The NuSTAR data are modeled over the 3–55 keV band for further analysis.
@@ -513,10 +513,10 @@ School of Astronomy and Space Science,
 						<p>
 							<ext-link xlink:href="https://heasarc.gsfc.nasa.gov/docs/nicer/analysis_threads/" ext-link-type="uri" xlink:type="simple">https://heasarc.gsfc.nasa.gov/docs/nicer/analysis_threads/</ext-link>
 						</p>
-					</fn> We use the tool 
-					<monospace>nicer12</monospace> and 
-					<monospace>nibackgen3C50</monospace> to extract the source and background spectra, respectively. The response matrix and ancillary file are generated by 
-					<monospace>nicerrmf</monospace> and 
+					</fn> We use the tool
+					<monospace>nicer12</monospace> and
+					<monospace>nibackgen3C50</monospace> to extract the source and background spectra, respectively. The response matrix and ancillary file are generated by
+					<monospace>nicerrmf</monospace> and
 					<monospace>nicerarf</monospace>. In this work, the spectrum from NICER’s data is fitted over the energy band of 1.0–8.0 keV, ignoring the energy range of 1.7–2.1 keV (calibration residuals remain found in the Si band) and 2.2–2.3 keV (calibration residuals remain in Au edges), respectively. We also group the XTI spectra to have a minimum count of 25 photons per bin.
 				</p>
 			</sec>
@@ -524,10 +524,10 @@ School of Astronomy and Space Science,
 		<sec id="apjad3c2bs3">
 			<label>3.</label>
 			<title>Spectrum Analysis</title>
-			<p>Spectra are modeled using XSPEC v12.13.1 with 
+			<p>Spectra are modeled using XSPEC v12.13.1 with
 				<italic toggle="yes">χ</italic>
-				<sup>2</sup> statistics. To fit these spectra simultaneously from FPMA, FPMB, and XTI, a constant multiplicative factor was included in each model, set to 1.0 for XTI, and allowed to vary freely for FPMA and FPMB to eliminate the calibration differences in different instruments in the process of joint fit. To begin with, we fit the NuSTAR spectrum with a galactic absorbed power-law component from the corona and a thermal spectrum from the disk. The normalized residual is shown in Figure 
-				<xref ref-type="fig" rid="apjad3c2bf1">1</xref>. This residual presents a strong reflection feature with a broad iron line around 6.4 keV and a Compton hump with a peak at 20–30 keV, with 
+				<sup>2</sup> statistics. To fit these spectra simultaneously from FPMA, FPMB, and XTI, a constant multiplicative factor was included in each model, set to 1.0 for XTI, and allowed to vary freely for FPMA and FPMB to eliminate the calibration differences in different instruments in the process of joint fit. To begin with, we fit the NuSTAR spectrum with a galactic absorbed power-law component from the corona and a thermal spectrum from the disk. The normalized residual is shown in Figure
+				<xref ref-type="fig" rid="apjad3c2bf1">1</xref>. This residual presents a strong reflection feature with a broad iron line around 6.4 keV and a Compton hump with a peak at 20–30 keV, with
 				<inline-formula>
 					<tex-math>
 						<?CDATA ${\chi }_{\nu }^{2}=3127.37/2290$?>
@@ -557,7 +557,7 @@ School of Astronomy and Space Science,
 			<fig id="apjad3c2bf1" orientation="portrait" position="float">
 				<label>Figure 1.</label>
 				<caption id="apjad3c2bfc1">
-					<p>Normalized residuals for an absorbed power-law spectrum + disk blackbody spectrum (in XSPEC language, 
+					<p>Normalized residuals for an absorbed power-law spectrum + disk blackbody spectrum (in XSPEC language,
 						<monospace>tbabs</monospace>×
 						<monospace>(diskbb+powerlaw)</monospace>). Green crosses are for XTI/NICER data, red crosses are for FPMA/NuSTAR data, and blue crosses are for FPMB/NuSTAR data. Data have been rebinned for visual clarity.
 					</p>
@@ -566,22 +566,22 @@ School of Astronomy and Space Science,
 				<graphic xlink:href="apjad3c2bf1_lr.jpg" content-type="low" id="apjad3c2bf1_lr" orientation="portrait" position="float" xlink:type="simple"/>
 				<graphic xlink:href="apjad3c2bf1_hr.jpg" content-type="high" id="apjad3c2bf1_hr" orientation="portrait" position="float" xlink:type="simple"/>
 			</fig>
-			<p>To study the strong relativistic reflection composition in this source, our primary full XSPEC model involves substituting the power-law component with standard reflection models, denoted as 
-				<monospace>relxill(flavor)</monospace>, which encompasses 
-				<monospace>relxill</monospace>, 
-				<monospace>relxillCP</monospace>, 
-				<monospace>relxillp</monospace>, and 
-				<monospace>relxillpCP</monospace>. The initial model is described by 
-				<monospace>constant</monospace> × 
+			<p>To study the strong relativistic reflection composition in this source, our primary full XSPEC model involves substituting the power-law component with standard reflection models, denoted as
+				<monospace>relxill(flavor)</monospace>, which encompasses
+				<monospace>relxill</monospace>,
+				<monospace>relxillCP</monospace>,
+				<monospace>relxillp</monospace>, and
+				<monospace>relxillpCP</monospace>. The initial model is described by
+				<monospace>constant</monospace> ×
 				<monospace>tbabs</monospace> × (
 				<monospace>diskbb</monospace>+
-				<monospace>relxill(flavor)</monospace>), where the specific flavors are respectively marked as I1-I4. 
+				<monospace>relxill(flavor)</monospace>), where the specific flavors are respectively marked as I1-I4.
 				<monospace>tbabs</monospace> describes the galactic absorption and has only one parameter: column density (
 				<italic toggle="yes">N</italic>
-				<sub>H</sub>) along the line of sight. 
+				<sub>H</sub>) along the line of sight.
 				<italic toggle="yes">N</italic>
-				<sub>H</sub> is set to be free while fitting the spectra. 
-				<monospace>diskbb</monospace> describes the thermal spectrum from the accretion disk. 
+				<sub>H</sub> is set to be free while fitting the spectra.
+				<monospace>diskbb</monospace> describes the thermal spectrum from the accretion disk.
 				<monospace>relxill(flavor)</monospace> component describes the power law and reflection composition. As it is widely believed that the accretion disk approaches the ISCO between the intermediate and soft states, we assume that the inner edge of the accretion disk is at the ISCO (equal to 6
 				<italic toggle="yes">GM</italic>/
 				<italic toggle="yes">c</italic>
@@ -589,15 +589,15 @@ School of Astronomy and Space Science,
 				<italic toggle="yes">R</italic>
 				<sub>
 					<italic toggle="yes">g</italic>
-				</sub> for a Schwarzschild BH, or just 1 
+				</sub> for a Schwarzschild BH, or just 1
 				<italic toggle="yes">R</italic>
 				<sub>
 					<italic toggle="yes">g</italic>
-				</sub> for a maximally spinning Kerr BH), and the outer radius is set to 400 
+				</sub> for a maximally spinning Kerr BH), and the outer radius is set to 400
 				<italic toggle="yes">R</italic>
 				<sub>
 					<italic toggle="yes">g</italic>
-				</sub> where 
+				</sub> where
 				<italic toggle="yes">R</italic>
 				<sub>
 					<italic toggle="yes">g</italic>
@@ -605,17 +605,17 @@ School of Astronomy and Space Science,
 				<italic toggle="yes">E</italic>
 				<sub>cut</sub> = 300 keV), i.e., kTe = 100 keV. Because inclination is measured by a high value from the same and another NuSTAR’s observation from Feng et al. (
 				<xref ref-type="bibr" rid="apjad3c2bbib21">2022</xref>) and Coughenour et al. (
-				<xref ref-type="bibr" rid="apjad3c2bbib18">2023</xref>), we also left it free to vary in the same way. In the lamppost Models I3 and I4, we freeze the spin parameter to 0.998. In addition, a Fe 
+				<xref ref-type="bibr" rid="apjad3c2bbib18">2023</xref>), we also left it free to vary in the same way. In the lamppost Models I3 and I4, we freeze the spin parameter to 0.998. In addition, a Fe
 				<sc>xxvi</sc> absorption line at 7.0 keV has been detected during its intermediate state in Zhang et al. (
-				<xref ref-type="bibr" rid="apjad3c2bbib60">2024</xref>). We also added a 
+				<xref ref-type="bibr" rid="apjad3c2bbib60">2024</xref>). We also added a
 				<monospace>Gaussian</monospace> component in our Models I1–I4.
 			</p>
-			<p>After fitting the data with the model, we found the “standard” weighting scheme in XSPEC often resulted in overfitting the data, yielding a reduced 
+			<p>After fitting the data with the model, we found the “standard” weighting scheme in XSPEC often resulted in overfitting the data, yielding a reduced
 				<italic toggle="yes">χ</italic>
 				<sup>2</sup> &lt; 1. This is a known issue discussed in Galloway et al. (
-				<xref ref-type="bibr" rid="apjad3c2bbib22">2020</xref>) regarding handling the low-count bins in 
-				<monospace>XSPEC v.12</monospace>. The Churazov weighting scheme is an alternative to the standard weighting used for fitting data (Churazov et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib17">1996</xref>). It adjusts the weight by taking into account the counts in neighboring channels. This ensures that local extrema are not given disproportionate weight, leading to a smoother overall weighting. The result is a more accurate and reliable data fitting. Our best-fit results of Models I1–I4 are shown in Table 
+				<xref ref-type="bibr" rid="apjad3c2bbib22">2020</xref>) regarding handling the low-count bins in
+				<monospace>XSPEC v.12</monospace>. The Churazov weighting scheme is an alternative to the standard weighting used for fitting data (Churazov et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib17">1996</xref>). It adjusts the weight by taking into account the counts in neighboring channels. This ensures that local extrema are not given disproportionate weight, leading to a smoother overall weighting. The result is a more accurate and reliable data fitting. Our best-fit results of Models I1–I4 are shown in Table
 				<xref ref-type="table" rid="apjad3c2bt2">2</xref>, and all errors are reported at the 90% credible level.
 			</p>
 			<table-wrap id="apjad3c2bt2" orientation="portrait" position="float">
@@ -944,7 +944,7 @@ School of Astronomy and Space Science,
 									<italic toggle="yes">e</italic>
 								</sub>) (keV)
 							</td>
-							<td align="center" colspan="1" rowspan="1">Energy cutoff (or 
+							<td align="center" colspan="1" rowspan="1">Energy cutoff (or
 								<italic toggle="yes">T</italic>
 								<sub>corona</sub>)
 							</td>
@@ -1098,74 +1098,74 @@ School of Astronomy and Space Science,
 				</graphic>
 				<table-wrap-foot>
 					<p>
-						<bold>Note.</bold> Best-fit values of initial Models I1–I4: 
+						<bold>Note.</bold> Best-fit values of initial Models I1–I4:
 						<monospace>tbabs</monospace> × (
 						<monospace>diskbb</monospace>+
 						<monospace>relxill(flavor)</monospace>+
 						<monospace>gaussian</monospace>), in Xspec language (
-						<monospace>relxill</monospace>, 
-						<monospace>relxillCP</monospace>, 
-						<monospace>relxillp</monospace>, and 
-						<monospace>relxillpCP</monospace>, respectively), with errors calculated within a 90% confidence interval by 
+						<monospace>relxill</monospace>,
+						<monospace>relxillCP</monospace>,
+						<monospace>relxillp</monospace>, and
+						<monospace>relxillpCP</monospace>, respectively), with errors calculated within a 90% confidence interval by
 						<italic toggle="yes">χ</italic>
-						<sup>2</sup> statistic. The 
-						<italic toggle="yes">∗</italic> symbol indicates that the parameter is frozen in the fit. The 
+						<sup>2</sup> statistic. The
+						<italic toggle="yes">∗</italic> symbol indicates that the parameter is frozen in the fit. The
 						<sup>+</sup> symbol indicates that the parameter log
-						<italic toggle="yes">N</italic> is free. 
+						<italic toggle="yes">N</italic> is free.
 						<italic toggle="yes">R</italic>
-						<sub>in</sub> = −1 means that 
+						<sub>in</sub> = −1 means that
 						<italic toggle="yes">R</italic>
-						<sub>in</sub> is set at the ISCO radius. The radial coordinate of the outer edge of the accretion disk is fixed at 400. 
-						<italic toggle="yes">i</italic> is allowed to vary from 3° to 80°. 
+						<sub>in</sub> is set at the ISCO radius. The radial coordinate of the outer edge of the accretion disk is fixed at 400.
+						<italic toggle="yes">i</italic> is allowed to vary from 3° to 80°.
 						<italic toggle="yes">a</italic>
 						<sup>∗</sup> is allowed to vary from −0.998 to 0.998. log
 						<italic toggle="yes">N</italic> in relxillCP flavors is allowed to range from 15 to 19. When the lower/upper uncertainty is not reported, the 90% confidence level reaches the boundary (or the best fit is at the boundary).
 					</p>
 				</table-wrap-foot>
 			</table-wrap>
-			<p>We then substitute the 
-				<monospace>relxill(flavors)</monospace> model with various 
+			<p>We then substitute the
+				<monospace>relxill(flavors)</monospace> model with various
 				<monospace>relxill</monospace>_
-				<monospace>nk</monospace> flavors: the 
+				<monospace>nk</monospace> flavors: the
 				<monospace>relxill</monospace>_
-				<monospace>nk</monospace> (default model), 
+				<monospace>nk</monospace> (default model),
 				<monospace>relxillCP</monospace>_
-				<monospace>nk</monospace> (nthcomp Comptonization for the coronal spectrum), 
+				<monospace>nk</monospace> (nthcomp Comptonization for the coronal spectrum),
 				<monospace>relxillD</monospace>_
-				<monospace>nk</monospace> (variable disk electron density), and 
+				<monospace>nk</monospace> (variable disk electron density), and
 				<monospace>relxillion</monospace>_
-				<monospace>nk</monospace> (the value of the ionization parameter varies as the radial coordinate 
-				<italic toggle="yes">r</italic> increases). We conduct joint fitting on the data. The models in XSPEC language are 
-				<monospace>constant</monospace> ×  
-				<monospace>tbabs</monospace> × 
+				<monospace>nk</monospace> (the value of the ionization parameter varies as the radial coordinate
+				<italic toggle="yes">r</italic> increases). We conduct joint fitting on the data. The models in XSPEC language are
+				<monospace>constant</monospace> ×
+				<monospace>tbabs</monospace> ×
 				<monospace>(diskbb+relxill</monospace>_
-				<monospace>nk(flavor)+Gaussian)</monospace>, which are respectively marked as A1–A4 (set 
+				<monospace>nk(flavor)+Gaussian)</monospace>, which are respectively marked as A1–A4 (set
 				<italic toggle="yes">α</italic>
-				<sub>13</sub> to 0) and B1–B4 (set 
+				<sub>13</sub> to 0) and B1–B4 (set
 				<italic toggle="yes">α</italic>
-				<sub>13</sub> to free). More details of the extension of the 
+				<sub>13</sub> to free). More details of the extension of the
 				<monospace>relxill</monospace>_
 				<monospace>nk</monospace> model can be found in Abdikamalov et al. (
 				<xref ref-type="bibr" rid="apjad3c2bbib4">2019</xref>). We apply the same bounds to the emissivity profile and the break radius as we did for Models I1–I2.
 			</p>
-			<p>Within the framework of Johannsen spacetime, it is assumed that, with the exception of 
+			<p>Within the framework of Johannsen spacetime, it is assumed that, with the exception of
 				<italic toggle="yes">α</italic>
-				<sub>13</sub>, the remaining three deformation parameters, namely 
+				<sub>13</sub>, the remaining three deformation parameters, namely
 				<italic toggle="yes">α</italic>
-				<sub>22</sub>, 
+				<sub>22</sub>,
 				<italic toggle="yes">ϵ</italic>
-				<sub>3</sub>, and 
+				<sub>3</sub>, and
 				<italic toggle="yes">α</italic>
-				<sub>52</sub>, are held constant at 0 for simplicity in this work. Here, a nonzero former signifies the departure from the Kerr metric. After we free 
+				<sub>52</sub>, are held constant at 0 for simplicity in this work. Here, a nonzero former signifies the departure from the Kerr metric. After we free
 				<italic toggle="yes">α</italic>
-				<sub>13</sub>, the best-fit results from our Models B1–B4 are shown in Table 
-				<xref ref-type="table" rid="apjad3c2bt3">3</xref>, and its unfolded spectra and normalized residuals are shown in Figure 
+				<sub>13</sub>, the best-fit results from our Models B1–B4 are shown in Table
+				<xref ref-type="table" rid="apjad3c2bt3">3</xref>, and its unfolded spectra and normalized residuals are shown in Figure
 				<xref ref-type="fig" rid="apjad3c2bf2">2</xref>.
 			</p>
 			<table-wrap id="apjad3c2bt3" orientation="portrait" position="float">
 				<label>Table 3</label>
 				<caption id="apjad3c2btc3">
-					<p>Summary of the Best-fit Values for Johannsen Models A1–B6 with Only 
+					<p>Summary of the Best-fit Values for Johannsen Models A1–B6 with Only
 						<italic toggle="yes">α</italic>
 						<sub>13</sub> Set Free after the MCMC Runs
 					</p>
@@ -1986,7 +1986,7 @@ School of Astronomy and Space Science,
 								<italic toggle="yes">α</italic>
 								<sub>13</sub> = 0
 							</td>
-							<td align="center" colspan="1" rowspan="1">free 
+							<td align="center" colspan="1" rowspan="1">free
 								<italic toggle="yes">α</italic>
 								<sub>13</sub>
 							</td>
@@ -1994,7 +1994,7 @@ School of Astronomy and Space Science,
 								<italic toggle="yes">α</italic>
 								<sub>13</sub> = 0
 							</td>
-							<td align="center" colspan="1" rowspan="1">free 
+							<td align="center" colspan="1" rowspan="1">free
 								<italic toggle="yes">α</italic>
 								<sub>13</sub>
 							</td>
@@ -2002,7 +2002,7 @@ School of Astronomy and Space Science,
 								<italic toggle="yes">α</italic>
 								<sub>13</sub> = 0
 							</td>
-							<td align="center" colspan="1" rowspan="1">free 
+							<td align="center" colspan="1" rowspan="1">free
 								<italic toggle="yes">α</italic>
 								<sub>13</sub>
 							</td>
@@ -2010,7 +2010,7 @@ School of Astronomy and Space Science,
 								<italic toggle="yes">α</italic>
 								<sub>13</sub> = 0
 							</td>
-							<td align="center" colspan="1" rowspan="1">free 
+							<td align="center" colspan="1" rowspan="1">free
 								<italic toggle="yes">α</italic>
 								<sub>13</sub>
 							</td>
@@ -4761,25 +4761,25 @@ School of Astronomy and Space Science,
 				</graphic>
 				<table-wrap-foot>
 					<p>
-						<bold>Note.</bold> Best-fit Values of Models A1–B6 (includes 
+						<bold>Note.</bold> Best-fit Values of Models A1–B6 (includes
 						<monospace>relxill</monospace>_
-						<monospace>nk</monospace>, 
+						<monospace>nk</monospace>,
 						<monospace>relxillCP</monospace>_
-						<monospace>nk</monospace>, 
+						<monospace>nk</monospace>,
 						<monospace>relxillD</monospace>_
-						<monospace>nk</monospace>, and 
+						<monospace>nk</monospace>, and
 						<monospace>relxillion</monospace>_
-						<monospace>nk</monospace>). All errors determined through a 90% confidence interval after MCMC runs for the global minimum. The 
-						<italic toggle="yes">∗</italic> symbol indicates that the parameter is frozen in the fit. 
+						<monospace>nk</monospace>). All errors determined through a 90% confidence interval after MCMC runs for the global minimum. The
+						<italic toggle="yes">∗</italic> symbol indicates that the parameter is frozen in the fit.
 						<italic toggle="yes">R</italic>
-						<sub>in</sub> = −1 means that 
+						<sub>in</sub> = −1 means that
 						<italic toggle="yes">R</italic>
-						<sub>in</sub> is set at the ISCO radius. The radial coordinate of the outer edge of the accretion disk is fixed to 400. 
-						<italic toggle="yes">i</italic> is allowed to vary from 3° to 80°. 
+						<sub>in</sub> is set at the ISCO radius. The radial coordinate of the outer edge of the accretion disk is fixed to 400.
+						<italic toggle="yes">i</italic> is allowed to vary from 3° to 80°.
 						<italic toggle="yes">a</italic>
-						<sup>∗</sup> is allowed to vary from −0.998 to 0.998. The deformation parameter of 
+						<sup>∗</sup> is allowed to vary from −0.998 to 0.998. The deformation parameter of
 						<italic toggle="yes">α</italic>
-						<sub>13</sub> is allowed to vary from −1 to 1. 
+						<sub>13</sub> is allowed to vary from −1 to 1.
 						<italic toggle="yes">E</italic>
 						<sub>line</sub> in Gaussian is frozen to 7.1 keV. When the lower/upper uncertainty is not reported, the 90% confidence level reaches the boundary (or the best fit is at the boundary).
 					</p>
@@ -4788,7 +4788,7 @@ School of Astronomy and Space Science,
 			<fig id="apjad3c2bf2" orientation="portrait" position="float">
 				<label>Figure 2.</label>
 				<caption id="apjad3c2bfc2">
-					<p>The best-fit results of unfolded spectra and normalized residuals of Models B1–B4. Upper quadrants show total models (black), 
+					<p>The best-fit results of unfolded spectra and normalized residuals of Models B1–B4. Upper quadrants show total models (black),
 						<monospace>relxill</monospace>_
 						<monospace>nk</monospace> (magenta), and diskbb (yellow). For each subgraph, dashed–dotted, dotted, and dashed lines present the same model for NICER/XTI, NuSTAR/FPMA, and NuSTAR/FPMB data, respectively. Lower quadrants show normalized residuals. NICER/XTI, NuSTAR/FPMA, and NuSTAR/FPMB data are plotted in green, red, and blue, respectively. Data have been rebinned for visual clarity.
 					</p>
@@ -4811,11 +4811,11 @@ School of Astronomy and Space Science,
 						<ext-link xlink:href="https://github.com/zoghbi-a/xspec_emcee" ext-link-type="uri" xlink:type="simple">https://github.com/zoghbi-a/xspec_emcee</ext-link>
 					</p>
 				</fn> The chains were run with 40 walkers, each comprising 25000 iterations, with an initial burn-in phase of 1000 steps. Thus, a total of 1 × 10
-				<sup>6</sup> samples were obtained. The 90% confidence intervals, indicative of purely statistical uncertainties across the entire parameter chain, for the free parameters within the best-fit results of Models B1–B4 derived from the MCMC simulations, are detailed in Table 
-				<xref ref-type="table" rid="apjad3c2bt3">3</xref>. Furthermore, Figures 
-				<xref ref-type="fig" rid="apjad3c2bf3">3</xref>, 
-				<xref ref-type="fig" rid="apjad3c2bf4">4</xref>, 
-				<xref ref-type="fig" rid="apjad3c2bf5">5</xref>, and 
+				<sup>6</sup> samples were obtained. The 90% confidence intervals, indicative of purely statistical uncertainties across the entire parameter chain, for the free parameters within the best-fit results of Models B1–B4 derived from the MCMC simulations, are detailed in Table
+				<xref ref-type="table" rid="apjad3c2bt3">3</xref>. Furthermore, Figures
+				<xref ref-type="fig" rid="apjad3c2bf3">3</xref>,
+				<xref ref-type="fig" rid="apjad3c2bf4">4</xref>,
+				<xref ref-type="fig" rid="apjad3c2bf5">5</xref>, and
 				<xref ref-type="fig" rid="apjad3c2bf6">6</xref> showcase corner plots illustrating the one- and two-dimensional projections of the posterior probability distributions for the relevant free parameters corresponding to Models B1–B4, respectively, as a result of the MCMC analysis.
 			</p>
 			<fig id="apjad3c2bf3" orientation="portrait" position="float">
@@ -4874,39 +4874,39 @@ School of Astronomy and Space Science,
 		<sec id="apjad3c2bs4">
 			<label>4.</label>
 			<title>Discussion and Conclusions</title>
-			<p>After scrutinizing the spectra of MAXI J1803-298 from NuSTAR and NICER utilizing state-of-art relativistic reflection models in Section 
+			<p>After scrutinizing the spectra of MAXI J1803-298 from NuSTAR and NICER utilizing state-of-art relativistic reflection models in Section
 				<xref ref-type="sec" rid="apjad3c2bs3">3</xref>, we derived precise and accurate constraints within these models employed in the present work. Our findings and conclusions are presented below.
 			</p>
-			<p>In this work, we mainly used the 
-				<monospace>relxill</monospace> flavors and 
+			<p>In this work, we mainly used the
+				<monospace>relxill</monospace> flavors and
 				<monospace>relxill</monospace>_
-				<monospace>nk</monospace> flavors to fit the data. Our best-fit values of our employed Models I1–I4 and A1–B6 are shown in Tables 
-				<xref ref-type="table" rid="apjad3c2bt2">2</xref> and 
-				<xref ref-type="table" rid="apjad3c2bt3">3</xref>, respectively. It is essential to recognize that direct comparisons of the 
+				<monospace>nk</monospace> flavors to fit the data. Our best-fit values of our employed Models I1–I4 and A1–B6 are shown in Tables
+				<xref ref-type="table" rid="apjad3c2bt2">2</xref> and
+				<xref ref-type="table" rid="apjad3c2bt3">3</xref>, respectively. It is essential to recognize that direct comparisons of the
 				<italic toggle="yes">χ</italic>
-				<sup>2</sup> values between Models I1–I4 utilizing 
-				<monospace>relxill</monospace> flavors and Models A1–B6 employing 
+				<sup>2</sup> values between Models I1–I4 utilizing
+				<monospace>relxill</monospace> flavors and Models A1–B6 employing
 				<monospace>relxill</monospace>_
-				<monospace>nk</monospace> flavors cannot definitively ascertain the superior model due to variations in the calculation of the transfer function. As such, the minor discrepancies observed in the 
+				<monospace>nk</monospace> flavors cannot definitively ascertain the superior model due to variations in the calculation of the transfer function. As such, the minor discrepancies observed in the
 				<italic toggle="yes">χ</italic>
 				<sup>2</sup> values between these two sets of models will not impact the subsequent discussion.
 			</p>
 			<sec id="apjad3c2bs4-1">
 				<label>4.1.</label>
-				<title>Fitting with 
+				<title>Fitting with
 					<monospace>Relxill</monospace> Flavors
 				</title>
 				<p>We first compare our best-fit results of Model A with results shown in Feng et al. (
 					<xref ref-type="bibr" rid="apjad3c2bbib21">2022</xref>). Our findings showcase a relatively lower galactic-absorption coefficient∼ 3.0 × 10
 					<sup>21</sup> cm
 					<sup>−1</sup>, which aligns with results in Homan et al. (
-					<xref ref-type="bibr" rid="apjad3c2bbib29">2021</xref>). However, the best-fit values in Table 
+					<xref ref-type="bibr" rid="apjad3c2bbib29">2021</xref>). However, the best-fit values in Table
 					<xref ref-type="table" rid="apjad3c2bt2">2</xref> show a slightly higher galactic-absorption coefficient than the results in Chand et al. (
 					<xref ref-type="bibr" rid="apjad3c2bbib16">2022</xref>), which may be caused by the outflowing disk winds and the moving clouds during the outburst.
 				</p>
-				<p>In the initial Model I1–I2, the results obtained with 
-					<monospace>relxill</monospace> and 
-					<monospace>relxillCP</monospace>, which are standard models for relativistic reflection within the Kerr paradigm, incorporate emissivity that can be parameterized through an empirically defined broken power law. Our results shown in Table 
+				<p>In the initial Model I1–I2, the results obtained with
+					<monospace>relxill</monospace> and
+					<monospace>relxillCP</monospace>, which are standard models for relativistic reflection within the Kerr paradigm, incorporate emissivity that can be parameterized through an empirically defined broken power law. Our results shown in Table
 					<xref ref-type="table" rid="apjad3c2bt2">2</xref> are indicative of a BH with extremely high spin and a highly inclined accretion disk (approximately 70°). Particularly, it shows Δ
 					<italic toggle="yes">χ</italic>
 					<sup>2</sup> &gt; 45 when the density of the accretion disk is set free, denoted as Model I2
@@ -4915,11 +4915,11 @@ School of Astronomy and Space Science,
 					<sup>−3</sup>, within MAXI J1803-298, which aligns with Coughenour et al. (
 					<xref ref-type="bibr" rid="apjad3c2bbib18">2023</xref>). Thus, their fit results with a higher galactic-absorption coefficient ∼5.0 × 10
 					<sup>21</sup> cm
-					<sup>−1</sup> with only a low ionization density disk model 
+					<sup>−1</sup> with only a low ionization density disk model
 					<monospace>relxillCP</monospace> in Feng et al. (
 					<xref ref-type="bibr" rid="apjad3c2bbib21">2022</xref>) appear to be inconclusive.
 				</p>
-				<p>We subsequently incorporate lamppost Models I3 and I4, which posit a lamppost source located along the rotational axis, to evaluate the proximity of the corona to the disk, setting the spin parameter to 0.998. The results indicate that the height of the compact corona above the disk is constrained to 
+				<p>We subsequently incorporate lamppost Models I3 and I4, which posit a lamppost source located along the rotational axis, to evaluate the proximity of the corona to the disk, setting the spin parameter to 0.998. The results indicate that the height of the compact corona above the disk is constrained to
 					<italic toggle="yes">h</italic> &lt; 10.8
 					<italic toggle="yes">R</italic>
 					<sub>
@@ -4929,60 +4929,60 @@ School of Astronomy and Space Science,
 			</sec>
 			<sec id="apjad3c2bs4-2">
 				<label>4.2.</label>
-				<title>Fitting with 
+				<title>Fitting with
 					<monospace>Relxill</monospace>_
 					<monospace>nk</monospace> Flavors
 				</title>
-				<p>Afterwards, we transition to the 
+				<p>Afterwards, we transition to the
 					<monospace>relxill</monospace>_
-					<monospace>nk</monospace> flavors to investigate the correlation between deformation parameters 
+					<monospace>nk</monospace> flavors to investigate the correlation between deformation parameters
 					<italic toggle="yes">α</italic>
-					<sub>13</sub> and the spin parameter 
+					<sub>13</sub> and the spin parameter
 					<italic toggle="yes">a</italic>
-					<sup>∗</sup> based on its reflection feature. As is shown in Models B1–B4 in Table 
-					<xref ref-type="table" rid="apjad3c2bt3">3</xref>, it is evident that, when modeling the emissivity profile with a broken power law using the 
+					<sup>∗</sup> based on its reflection feature. As is shown in Models B1–B4 in Table
+					<xref ref-type="table" rid="apjad3c2bt3">3</xref>, it is evident that, when modeling the emissivity profile with a broken power law using the
 					<monospace>relxill</monospace>_
 					<monospace>nk</monospace> flavors, consistently high spin values (
 					<italic toggle="yes">a</italic>
-					<sup>∗</sup> &gt; 0.98) are observed. Additionally, there is a notable pattern of high values for the emissivity index 
+					<sup>∗</sup> &gt; 0.98) are observed. Additionally, there is a notable pattern of high values for the emissivity index
 					<italic toggle="yes">q</italic>
-					<sub>in</sub> and low values for 
+					<sub>in</sub> and low values for
 					<italic toggle="yes">q</italic>
-					<sub>out</sub>. This further supports our fit results of a compact corona near the BH modeled by Models I3–I4 in Section 
+					<sub>out</sub>. This further supports our fit results of a compact corona near the BH modeled by Models I3–I4 in Section
 					<xref ref-type="sec" rid="apjad3c2bs4-1">4.1</xref>.
 				</p>
-				<p>In Model B2 with 
+				<p>In Model B2 with
 					<monospace>relxillCP</monospace>_
-					<monospace>nk</monospace>, in which the parameter 
+					<monospace>nk</monospace>, in which the parameter
 					<italic toggle="yes">kT</italic>
 					<sub>
 						<italic toggle="yes">e</italic>
-					</sub> represents the temperature of the corona, we found a stringent constraint on the deformation parameter assuming the Johannsen spacetime (Johannsen 
-					<xref ref-type="bibr" rid="apjad3c2bbib32">2013</xref>). However, this constraint on 
+					</sub> represents the temperature of the corona, we found a stringent constraint on the deformation parameter assuming the Johannsen spacetime (Johannsen
+					<xref ref-type="bibr" rid="apjad3c2bbib32">2013</xref>). However, this constraint on
 					<italic toggle="yes">α</italic>
-					<sub>13</sub> should be excluded due to its bad parameter estimation; details are presented in Section 
+					<sub>13</sub> should be excluded due to its bad parameter estimation; details are presented in Section
 					<xref ref-type="sec" rid="apjad3c2bs4-3">4.3</xref>. In addition, since the electron density is fixed to a low value of 10
 					<sup>15</sup> cm
-					<sup>−3</sup> rather than a high disk density in the disk in Model B1 and Model B2, we employed 
+					<sup>−3</sup> rather than a high disk density in the disk in Model B1 and Model B2, we employed
 					<monospace>relxillD</monospace>_
 					<monospace>nk</monospace> for data fitting, where the parameter linked to the disk electron density, log
 					<italic toggle="yes">N</italic>, was frozen to 18 due to the high disk density we got from Model I2
-					<sup>+</sup> in Section 
+					<sup>+</sup> in Section
 					<xref ref-type="sec" rid="apjad3c2bs4-1">4.1</xref>. Notably, when the high disk density is set to 18 in Model B3, it shows Δ
 					<italic toggle="yes">χ</italic>
-					<sup>2</sup> &gt; 14, but it will not significantly change the constraint on 
+					<sup>2</sup> &gt; 14, but it will not significantly change the constraint on
 					<italic toggle="yes">α</italic>
-					<sub>13</sub>. The contours of spin versus deformation parameter 
+					<sub>13</sub>. The contours of spin versus deformation parameter
 					<italic toggle="yes">α</italic>
-					<sub>13</sub> are shown in Figure 
+					<sub>13</sub> are shown in Figure
 					<xref ref-type="fig" rid="apjad3c2bf7">7</xref>.
 				</p>
 				<fig id="apjad3c2bf7" orientation="portrait" position="float">
 					<label>Figure 7.</label>
 					<caption id="apjad3c2bfc7">
-						<p>Constraints on the spin parameter 
+						<p>Constraints on the spin parameter
 							<italic toggle="yes">a</italic>
-							<sup>∗</sup> and the deformation parameter 
+							<sup>∗</sup> and the deformation parameter
 							<italic toggle="yes">α</italic>
 							<sub>13</sub> for Models B1–B6 after the MCMC runs. The 2D plots report the 1
 							<italic toggle="yes">σ</italic>, 2
@@ -4994,13 +4994,13 @@ School of Astronomy and Space Science,
 					<graphic xlink:href="apjad3c2bf7_lr.jpg" content-type="low" id="apjad3c2bf7_lr" orientation="portrait" position="float" xlink:type="simple"/>
 					<graphic xlink:href="apjad3c2bf7_hr.jpg" content-type="high" id="apjad3c2bf7_hr" orientation="portrait" position="float" xlink:type="simple"/>
 				</fig>
-				<p>In previous 
+				<p>In previous
 					<monospace>relxill</monospace>_
-					<monospace>nk</monospace> flavors, the ionization parameter 
-					<italic toggle="yes">ξ</italic> was not considered as a variable. To address this, we also applied the 
+					<monospace>nk</monospace> flavors, the ionization parameter
+					<italic toggle="yes">ξ</italic> was not considered as a variable. To address this, we also applied the
 					<monospace>relxillion</monospace>_
-					<monospace>nk</monospace> model (Abdikamalov et al. 
-					<xref ref-type="bibr" rid="apjad3c2bbib3">2021</xref>), utilizing 
+					<monospace>nk</monospace> model (Abdikamalov et al.
+					<xref ref-type="bibr" rid="apjad3c2bbib3">2021</xref>), utilizing
 					<monospace>xillver</monospace> table for the reflection spectrum in the rest frame of the gas. In this model, the electron density is assumed to be a constant (10
 					<sup>15</sup> cm
 					<sup>−3</sup>) across the entire disk. The ionization has instead a radial profile described by a power law:
@@ -5063,41 +5063,41 @@ School of Astronomy and Space Science,
 						<graphic xlink:href="apjad3c2beqn1.gif" orientation="portrait" position="float" xlink:type="simple"/>
 					</disp-formula>
 				</p>
-				<p>For the index of 
+				<p>For the index of
 					<italic toggle="yes">α</italic>
 					<sub>
 						<italic toggle="yes">ξ</italic>
-					</sub> = 0, model 
+					</sub> = 0, model
 					<monospace>relxillion</monospace>_
-					<monospace>nk</monospace> is reduced to 
+					<monospace>nk</monospace> is reduced to
 					<monospace>relxill</monospace>_
-					<monospace>nk</monospace>. Our best-fit result from Model B4 indicates a positive value of 
+					<monospace>nk</monospace>. Our best-fit result from Model B4 indicates a positive value of
 					<italic toggle="yes">α</italic>
 					<sub>
 						<italic toggle="yes">ξ</italic>
 					</sub>, which shows the Δ
 					<italic toggle="yes">χ</italic>
-					<sup>2</sup> &gt; 80 compared with Model B1, implying that the ionization parameter decreases as the radial coordinate 
+					<sup>2</sup> &gt; 80 compared with Model B1, implying that the ionization parameter decreases as the radial coordinate
 					<italic toggle="yes">r</italic> increases within the actual disk.
 				</p>
 			</sec>
 			<sec id="apjad3c2bs4-3">
 				<label>4.3.</label>
 				<title>The Best-fit Model</title>
-				<p>Among the initial Models I1–I4 with different 
+				<p>Among the initial Models I1–I4 with different
 					<monospace>relxill</monospace> flavors, Model I2
 					<sup>+</sup> shows the best-fit results modeled by a high-density disk, approximately 10
 					<sup>18</sup> cm
-					<sup>−3</sup>. From the residuals of Models B1–B4 shown in Figure 
-					<xref ref-type="fig" rid="apjad3c2bf2">2</xref>, there are no significant differences among their fits. However, there is a slight elevation in the residuals above 30 keV among Models B1–B4. We attribute this behavior to a low count rate above 30 keV during the soft intermediate state. If we compare their 
+					<sup>−3</sup>. From the residuals of Models B1–B4 shown in Figure
+					<xref ref-type="fig" rid="apjad3c2bf2">2</xref>, there are no significant differences among their fits. However, there is a slight elevation in the residuals above 30 keV among Models B1–B4. We attribute this behavior to a low count rate above 30 keV during the soft intermediate state. If we compare their
 					<italic toggle="yes">χ</italic>
-					<sup>2</sup>, we see that Model B4 best fits MAXI J1803-298, and its value of the ionization index is near 0.5. However, comparing the minimum of 
+					<sup>2</sup>, we see that Model B4 best fits MAXI J1803-298, and its value of the ionization index is near 0.5. However, comparing the minimum of
 					<italic toggle="yes">χ</italic>
-					<sup>2</sup> of different models is not a particularly robust method to determine which model is favored by the data. AIC (Akaike 
+					<sup>2</sup> of different models is not a particularly robust method to determine which model is favored by the data. AIC (Akaike
 					<xref ref-type="bibr" rid="apjad3c2bbib5">1974</xref>), which is already applied and discussed in Mall et al. (
-					<xref ref-type="bibr" rid="apjad3c2bbib38">2022</xref>), is a more reliable method to determine the best model in this case of a relatively small size of samples (AICc) for the number of free parameters. As we already have the minimum 
+					<xref ref-type="bibr" rid="apjad3c2bbib38">2022</xref>), is a more reliable method to determine the best model in this case of a relatively small size of samples (AICc) for the number of free parameters. As we already have the minimum
 					<italic toggle="yes">χ</italic>
-					<sup>2</sup> for every model by 
+					<sup>2</sup> for every model by
 					<monospace>XSPEC</monospace>, it can calculate the AICc directly by
 					<disp-formula id="apjad3c2beqn2">
 						<label>2</label>
@@ -5186,16 +5186,16 @@ School of Astronomy and Space Science,
 							<mml:mo>,</mml:mo>
 						</mml:math>
 						<graphic xlink:href="apjad3c2beqn2.gif" orientation="portrait" position="float" xlink:type="simple"/>
-					</disp-formula>where 
+					</disp-formula>where
 					<italic toggle="yes">N</italic>
 					<sub>
 						<italic toggle="yes">p</italic>
-					</sub> is the number of free parameters and 
+					</sub> is the number of free parameters and
 					<italic toggle="yes">N</italic>
 					<sub>
 						<italic toggle="yes">b</italic>
-					</sub> is the number of bins. The values of AICc obtained from Models A1–A3 and Models B1–B4 are shown in Table 
-					<xref ref-type="table" rid="apjad3c2bt4">4</xref>. As a general criterion for AIC, models with ΔAICc &gt; 5 are considered less favored by the data, while those with ΔAICc &gt; 10 are ruled out and can be excluded from further analysis (Burnham &amp; Anderson 
+					</sub> is the number of bins. The values of AICc obtained from Models A1–A3 and Models B1–B4 are shown in Table
+					<xref ref-type="table" rid="apjad3c2bt4">4</xref>. As a general criterion for AIC, models with ΔAICc &gt; 5 are considered less favored by the data, while those with ΔAICc &gt; 10 are ruled out and can be excluded from further analysis (Burnham &amp; Anderson
 					<xref ref-type="bibr" rid="apjad3c2bbib12">2004</xref>).
 				</p>
 				<table-wrap id="apjad3c2bt4" orientation="portrait" position="float">
@@ -5313,9 +5313,9 @@ School of Astronomy and Space Science,
 					</graphic>
 				</table-wrap>
 				<p>By applying this selection criterion, we determine that among Models A1–A3, Model I2
-					<sup>+</sup>, which incorporates a high-density disk, achieves the best fit. Among Models B1–B4, the 
+					<sup>+</sup>, which incorporates a high-density disk, achieves the best fit. Among Models B1–B4, the
 					<monospace>relxillion</monospace>_
-					<monospace>nk</monospace> model distinctly outperforms the other three in terms of fit quality. Although we found a precise constraint on 
+					<monospace>nk</monospace> model distinctly outperforms the other three in terms of fit quality. Although we found a precise constraint on
 					<inline-formula>
 						<tex-math>
 							<?CDATA ${\alpha }_{13}={0.002}_{-0.015}^{+0.020}$?>
@@ -5345,12 +5345,12 @@ School of Astronomy and Space Science,
 							</mml:msubsup>
 						</mml:math>
 						<inline-graphic xlink:href="apjad3c2bieqn143.gif" xlink:type="simple"/>
-					</inline-formula> with 
+					</inline-formula> with
 					<monospace>relxillCP</monospace>_
 					<monospace>nk</monospace>, at a 3
-					<italic toggle="yes">σ</italic> confidence level, Model B2 is deemed unsuitable for consideration. This is due to its fixed corona electron temperature at 100 keV and unrealistic estimates of certain parameters, such as 
+					<italic toggle="yes">σ</italic> confidence level, Model B2 is deemed unsuitable for consideration. This is due to its fixed corona electron temperature at 100 keV and unrealistic estimates of certain parameters, such as
 					<italic toggle="yes">A</italic>
-					<sub>Fe</sub> and 
+					<sub>Fe</sub> and
 					<inline-formula>
 						<tex-math>
 							<?CDATA $\mathrm{log}\xi $?>
@@ -5360,30 +5360,30 @@ School of Astronomy and Space Science,
 							<mml:mi>ξ</mml:mi>
 						</mml:math>
 						<inline-graphic xlink:href="apjad3c2bieqn144.gif" xlink:type="simple"/>
-					</inline-formula>. Notably, when the 
+					</inline-formula>. Notably, when the
 					<italic toggle="yes">kT</italic>
 					<sub>
 						<italic toggle="yes">e</italic>
-					</sub> is allowed to vary, its best-fit value invariably maxes out at 400 keV. Consequently, the outcomes from Models A2 and B2 are excluded from our analysis, not merely because of their elevated reduced 
+					</sub> is allowed to vary, its best-fit value invariably maxes out at 400 keV. Consequently, the outcomes from Models A2 and B2 are excluded from our analysis, not merely because of their elevated reduced
 					<italic toggle="yes">χ</italic>
-					<sup>2</sup> values but also due to the low disk density values inserted. Considering the AICc values presented in Table 
-					<xref ref-type="table" rid="apjad3c2bt4">4</xref> and their plausible parameter estimates, Models B3 and B4 are affirmed as providing more reliable constraints on 
+					<sup>2</sup> values but also due to the low disk density values inserted. Considering the AICc values presented in Table
+					<xref ref-type="table" rid="apjad3c2bt4">4</xref> and their plausible parameter estimates, Models B3 and B4 are affirmed as providing more reliable constraints on
 					<italic toggle="yes">α</italic>
 					<sub>13</sub>.
 				</p>
 			</sec>
 			<sec id="apjad3c2bs4-4">
 				<label>4.4.</label>
-				<title>Constraints on 
+				<title>Constraints on
 					<italic toggle="yes">α</italic>
 					<sub>13</sub> with MAXI J1803-298
 				</title>
-				<p>The constraints on the spin versus deformation parameter plane for Models B1–B4 after MCMC runs are shown in Figure 
+				<p>The constraints on the spin versus deformation parameter plane for Models B1–B4 after MCMC runs are shown in Figure
 					<xref ref-type="fig" rid="apjad3c2bf7">7</xref> (
 					<italic toggle="yes">a</italic>
-					<sup>∗</sup> versus 
+					<sup>∗</sup> versus
 					<italic toggle="yes">α</italic>
-					<sub>13</sub>). The most precise measurements for 
+					<sub>13</sub>). The most precise measurements for
 					<italic toggle="yes">α</italic>
 					<sub>13</sub> are measured as
 					<disp-formula id="apjad3c2beqn3">
@@ -5416,7 +5416,7 @@ School of Astronomy and Space Science,
 							</mml:msubsup>
 						</mml:math>
 						<graphic xlink:href="apjad3c2beqn3.gif" orientation="portrait" position="float" xlink:type="simple"/>
-					</disp-formula>from Model B3 with 
+					</disp-formula>from Model B3 with
 					<monospace>relxillD</monospace>_
 					<monospace>nk</monospace>, and
 					<disp-formula id="apjad3c2beqn4">
@@ -5450,16 +5450,16 @@ School of Astronomy and Space Science,
 							<mml:mo>,</mml:mo>
 						</mml:math>
 						<graphic xlink:href="apjad3c2beqn4.gif" orientation="portrait" position="float" xlink:type="simple"/>
-					</disp-formula>from Model B4 with 
+					</disp-formula>from Model B4 with
 					<monospace>relxillion</monospace>_
 					<monospace>nk</monospace> in the 3
 					<italic toggle="yes">σ</italic> confidence level, respectively. These error bounds provided are purely statistical and do not include systematic errors.
 				</p>
-				<p>The most stringent constraint on 
+				<p>The most stringent constraint on
 					<italic toggle="yes">α</italic>
 					<sub>13</sub> to date has been obtained from the analysis of a NuSTAR observation of the BH in GX 339-4 in Tripathi et al. (
 					<xref ref-type="bibr" rid="apjad3c2bbib49">2021</xref>), and its 3
-					<italic toggle="yes">σ</italic> measurement of Johannsen deformation parameter on 
+					<italic toggle="yes">σ</italic> measurement of Johannsen deformation parameter on
 					<italic toggle="yes">α</italic>
 					<sub>13</sub> is
 					<disp-formula id="apjad3c2beqn5">
@@ -5496,10 +5496,10 @@ School of Astronomy and Space Science,
 						<graphic xlink:href="apjad3c2beqn5.gif" orientation="portrait" position="float" xlink:type="simple"/>
 					</disp-formula>
 				</p>
-				<p>We attribute the notable precision in determining 
+				<p>We attribute the notable precision in determining
 					<italic toggle="yes">α</italic>
 					<sub>13</sub> in this investigation to the outstanding energy resolution and extensive effective area of the NICER detector, which excels in capturing reflection features. Furthermore, our fitting process is likely unaffected by jet activities in BHXBs. Leveraging time-dependent visibility modeling of a relativistic jet, Wood et al. (
-					<xref ref-type="bibr" rid="apjad3c2bbib55">2023</xref>) deduced the ejection date for MAXI J1803-298 as MJD 59348.08, predicting a cessation on 2021 May 23, in their radio flux density light curve. This timing corresponds with the data set analyzed in our study, suggesting a significant reduction in jet activities as the system transitioned to the soft state. We argue that such a pause in jet activities could be potentially one of the key factors in enhancing the precision of our 
+					<xref ref-type="bibr" rid="apjad3c2bbib55">2023</xref>) deduced the ejection date for MAXI J1803-298 as MJD 59348.08, predicting a cessation on 2021 May 23, in their radio flux density light curve. This timing corresponds with the data set analyzed in our study, suggesting a significant reduction in jet activities as the system transitioned to the soft state. We argue that such a pause in jet activities could be potentially one of the key factors in enhancing the precision of our
 					<italic toggle="yes">α</italic>
 					<sub>13</sub> constraints.
 				</p>
@@ -5509,14 +5509,14 @@ School of Astronomy and Space Science,
 				<title>Iron Abundance</title>
 				<p>The variable iron abundance (
 					<italic toggle="yes">A</italic>
-					<sub>Fe</sub>) values in our employed Models I1–I4 and A1–B4 appear to be inconclusive; that is because the reliability of iron abundance determinations derived from the analysis of accretion disk reflection spectra is a well-known issue (Bambi et al. 
+					<sub>Fe</sub>) values in our employed Models I1–I4 and A1–B4 appear to be inconclusive; that is because the reliability of iron abundance determinations derived from the analysis of accretion disk reflection spectra is a well-known issue (Bambi et al.
 					<xref ref-type="bibr" rid="apjad3c2bbib9">2021</xref>). In particular, estimates of supersolar iron abundances become contentious in scenarios where reflection signatures are influenced by high plasma densities, as detailed by García et al. (
-					<xref ref-type="bibr" rid="apjad3c2bbib24">2018</xref>), and the omission of returning radiation could lead to an underestimation of iron abundance (Riaz et al. 
-					<xref ref-type="bibr" rid="apjad3c2bbib42">2021</xref>). This concern is pertinent to our analysis of MAXI J1803-298. To mitigate potential biases in iron abundance estimates that could impact our constraints on 
+					<xref ref-type="bibr" rid="apjad3c2bbib24">2018</xref>), and the omission of returning radiation could lead to an underestimation of iron abundance (Riaz et al.
+					<xref ref-type="bibr" rid="apjad3c2bbib42">2021</xref>). This concern is pertinent to our analysis of MAXI J1803-298. To mitigate potential biases in iron abundance estimates that could impact our constraints on
 					<italic toggle="yes">α</italic>
-					<sub>13</sub>, we incorporated Models B5 (with Fe = 1) and B6 (with Fe = 5) into our fitting process. Its constraints on the spin parameter versus 
+					<sub>13</sub>, we incorporated Models B5 (with Fe = 1) and B6 (with Fe = 5) into our fitting process. Its constraints on the spin parameter versus
 					<italic toggle="yes">α</italic>
-					<sub>13</sub> are shown in Figure 
+					<sub>13</sub> are shown in Figure
 					<xref ref-type="fig" rid="apjad3c2bf7">7</xref>, which shows no significant change to our results.
 				</p>
 			</sec>
@@ -5525,20 +5525,20 @@ School of Astronomy and Space Science,
 			<label>5.</label>
 			<title>Concluding Remarks</title>
 			<p>It is noted that the reflection models we employed are simplified in current versions; see Liu et al. (
-				<xref ref-type="bibr" rid="apjad3c2bbib37">2019</xref>) for the list of simplifications in the current version of the model. In this present work, our model assumes an infinitesimally thin disk, a simplification, whereas actual disks possess finite thickness (Taylor &amp; Reynolds 
+				<xref ref-type="bibr" rid="apjad3c2bbib37">2019</xref>) for the list of simplifications in the current version of the model. In this present work, our model assumes an infinitesimally thin disk, a simplification, whereas actual disks possess finite thickness (Taylor &amp; Reynolds
 				<xref ref-type="bibr" rid="apjad3c2bbib47">2018</xref>). To ascertain whether the disk configuration of MAXI J1803-298 aligns with a geometrically thin disk model, Jana et al. (
-				<xref ref-type="bibr" rid="apjad3c2bbib31">2022</xref>) have estimated its accretion rate to be within the range of 6%–10% 
+				<xref ref-type="bibr" rid="apjad3c2bbib31">2022</xref>) have estimated its accretion rate to be within the range of 6%–10%
 				<italic toggle="yes">L</italic>
-				<sub>Edd</sub> based on the ionization parameter, which means it is nicely in the 5%–30% range required by a Novikov–Thorne disk with an inner edge at ISCO radius (Steiner et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib46">2010</xref>). Despite our choice to position the inner edge of the accretion disk at the ISCO radius during a soft intermediate state, there might still be a discrepancy between our assumption and the actual disk configuration. The ionization parameter 
-				<italic toggle="yes">ξ</italic> is presumed to be either constant or subject to power-law decline across the disk. However, in reality, it is anticipated to exhibit a complex radial variation influenced by factors such as the X-ray flux from the corona and the disk density (Ingram et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib30">2019</xref>; Kammoun et al. 
+				<sub>Edd</sub> based on the ionization parameter, which means it is nicely in the 5%–30% range required by a Novikov–Thorne disk with an inner edge at ISCO radius (Steiner et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib46">2010</xref>). Despite our choice to position the inner edge of the accretion disk at the ISCO radius during a soft intermediate state, there might still be a discrepancy between our assumption and the actual disk configuration. The ionization parameter
+				<italic toggle="yes">ξ</italic> is presumed to be either constant or subject to power-law decline across the disk. However, in reality, it is anticipated to exhibit a complex radial variation influenced by factors such as the X-ray flux from the corona and the disk density (Ingram et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib30">2019</xref>; Kammoun et al.
 				<xref ref-type="bibr" rid="apjad3c2bbib34">2019</xref>).
 			</p>
 			<p>In this study, we employ a simplified broken power-law model to characterize the disk–corona geometry, recognizing that this represents a rudimentary approximation. In this approach, the calculation of the emissivity profile is omitted, while a consistent calculation based on the specific geometry between the corona and disk is reported by Dauser et al. (
-				<xref ref-type="bibr" rid="apjad3c2bbib19">2013</xref>). Future work could also consider the impact of returning radiation in this work to obtain a more precise parameter space (Mirzaev et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib40">2024</xref>). The launch of next-generation X-ray observatories in the coming years, such as Athena (Nandra et al. 
-				<xref ref-type="bibr" rid="apjad3c2bbib41">2013</xref>) and eXTP (Zhang et al. 
+				<xref ref-type="bibr" rid="apjad3c2bbib19">2013</xref>). Future work could also consider the impact of returning radiation in this work to obtain a more precise parameter space (Mirzaev et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib40">2024</xref>). The launch of next-generation X-ray observatories in the coming years, such as Athena (Nandra et al.
+				<xref ref-type="bibr" rid="apjad3c2bbib41">2013</xref>) and eXTP (Zhang et al.
 				<xref ref-type="bibr" rid="apjad3c2bbib59">2019</xref>), have the potential to significantly enhance our understanding of accretion processes through their improved instrumentation. Athena will incorporate innovative microcalorimeter technology to provide unprecedented energy resolution around iron emission lines. Meanwhile, eXTP will expand our ability to probe accretion physics. The capabilities of these advanced missions offer the exciting possibility of placing tighter constraints on models, thereby deepening our comprehension of these energetic phenomena.
 			</p>
 		</sec>
@@ -5552,7 +5552,7 @@ School of Astronomy and Space Science,
 			<app id="apjad3c2bapp1">
 				<label>Appendix</label>
 				<title>Appendix Information</title>
-				<p>The Johannsen metric is a phenomenological deformation from the Kerr metric and is specifically designed for testing the Kerr BH hypothesis with electromagnetic observations of BHs (Johannsen 
+				<p>The Johannsen metric is a phenomenological deformation from the Kerr metric and is specifically designed for testing the Kerr BH hypothesis with electromagnetic observations of BHs (Johannsen
 					<xref ref-type="bibr" rid="apjad3c2bbib32">2013</xref>). In Boyer–Lindquist-like coordinates, the line element is
 					<disp-formula id="apjad3c2beqn6">
 						<label>A1</label>
@@ -5883,11 +5883,11 @@ School of Astronomy and Space Science,
 							</mml:mtable>
 						</mml:math>
 						<graphic xlink:href="apjad3c2beqn6.gif" orientation="portrait" position="float" xlink:type="simple"/>
-					</disp-formula>where 
-					<italic toggle="yes">M</italic> is the BH mass and 
-					<italic toggle="yes">a</italic> = 
+					</disp-formula>where
+					<italic toggle="yes">M</italic> is the BH mass and
+					<italic toggle="yes">a</italic> =
 					<italic toggle="yes">J</italic>/
-					<italic toggle="yes">M</italic> is the BH angular momentum. 
+					<italic toggle="yes">M</italic> is the BH angular momentum.
 					<inline-formula>
 						<tex-math>
 							<?CDATA $\tilde{{\rm{\Sigma }}}={\rm{\Sigma }}+f$?>
@@ -6052,12 +6052,12 @@ School of Astronomy and Space Science,
 							</mml:mtable>
 						</mml:math>
 						<graphic xlink:href="apjad3c2beqn7.gif" orientation="portrait" position="float" xlink:type="simple"/>
-					</disp-formula>in which the functions 
-					<italic toggle="yes">f</italic>, 
+					</disp-formula>in which the functions
+					<italic toggle="yes">f</italic>,
 					<italic toggle="yes">C</italic>
-					<sub>1</sub>, 
+					<sub>1</sub>,
 					<italic toggle="yes">C</italic>
-					<sub>2</sub>, and 
+					<sub>2</sub>, and
 					<italic toggle="yes">C</italic>
 					<sub>5</sub> are defined as
 					<disp-formula id="apjad3c2beqn8">
@@ -6341,11 +6341,11 @@ School of Astronomy and Space Science,
 					<italic toggle="yes">α</italic>
 					<sub>5
 						<italic toggle="yes">n</italic>
-					</sub>} are four infinite sets of deformation parameters without constraints from the Newtonian limit and solar system experiments. In this work, we have only considered the deformation parameter 
+					</sub>} are four infinite sets of deformation parameters without constraints from the Newtonian limit and solar system experiments. In this work, we have only considered the deformation parameter
 					<italic toggle="yes">α</italic>
-					<sub>13</sub>, which has the strongest impact on the reflection spectrum, and all other deformation parameters are assumed to vanish. To work with a regular metric, some constraints are imposed on the BH spin parameter 
+					<sub>13</sub>, which has the strongest impact on the reflection spectrum, and all other deformation parameters are assumed to vanish. To work with a regular metric, some constraints are imposed on the BH spin parameter
 					<italic toggle="yes">a</italic>
-					<sub>∗</sub> and the deformation parameter 
+					<sub>∗</sub> and the deformation parameter
 					<italic toggle="yes">α</italic>
 					<sub>13</sub>
 					<disp-formula id="apjad3c2beqn9">

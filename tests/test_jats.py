@@ -90,7 +90,7 @@ class TestJATS(unittest.TestCase):
                 input_data = fp.read()
 
             parsed = parser.parse(input_data)
-                
+
             with open(test_outfile, "rb") as fp:
                 output_text = fp.read()
                 output_data = json.loads(output_text)
