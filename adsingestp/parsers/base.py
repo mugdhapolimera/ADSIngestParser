@@ -547,7 +547,8 @@ class BaseBeautifulSoupParser(IngestBase):
                     alt_math_element = e.find_all("mml:math", [])
                     alt_tex_element = e.find_all("tex-math", [])
                     if alt_math_element and alt_tex_element:
-                        alt_tex_element[0].decompose()
+                        for ee in alt_tex_element:
+                            ee.decompose()
                     if t not in tags_keep:
                         e.unwrap()
                 elif t in tags_keep:
