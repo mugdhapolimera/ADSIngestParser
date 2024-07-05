@@ -45,7 +45,7 @@
 				<bam:availableOnline
 					xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema"
 					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">2003-12-09T00:00:00.000Z
-				
+
 				</bam:availableOnline>
 				<bam:vorAvailableOnline
 					xmlns:cp="http://www.elsevier.com/xml/common/consyn-properties/schema"
@@ -87,7 +87,7 @@ H. V. A. BUSHBY, R. A. DATE and P. J. DART
 
 Guest Editors
 
-			
+
 			</dp:raw-text>
 			<dp:aggregation-type>Journals</dp:aggregation-type>
 			<dp:version-number>S350.2</dp:version-number>
