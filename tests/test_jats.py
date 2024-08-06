@@ -84,6 +84,7 @@ class TestJATS(unittest.TestCase):
             "jats_nature_roman_num_1",
             "jats_springer_roman_num_1",
             "jats_springer_Article_collab_nlm",
+            
         ]
 
         for f in filenames:
