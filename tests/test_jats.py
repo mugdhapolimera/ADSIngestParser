@@ -81,6 +81,8 @@ class TestJATS(unittest.TestCase):
             "mdpi_universe-08-00651",
             "jats_springer_SoPh_s11207-023-02231-5_mathtex",
             "jats_apj_967_1_35",
+            "jats_nature_roman_num_1",
+            "jats_springer_roman_num_1",
             "jats_springer_Article_collab_nlm",
         ]
 
