@@ -1,0 +1,298 @@
+{
+  "abstract": {
+    "textEnglish": "This paper presents a new algorithm called broadband entropy-based two-stage damage imaging (BE2DI) for the detection and imaging of defects in multi-layer plates. The method differentiates defects from either local scattering phenomena of propagating Lamb waves or locally increased vibrational activity for stimulated global plate resonances by exploiting the higher vibrational activity of full-field broadband vibration signals at defective regions and the distinct spatial behavior of defects and artifacts. Using these features, first, a candidate damage map is constructed by means of iterative thresholding based on descriptive statistics of broadband data. Afterwards, an adaptive regional damage index based on local entropy is introduced, which utilizes operational deflection shapes to process previously identified candidate regions and subsequently reveal both shallow and deep defects. BE2DI can be seen as an automated local defect resonance identification approach in the case of shallow defects. Multiple plates having various defect types with different sizes and depths are investigated. Broadband chirp signals are used to excite the plates using low-power piezoelectric actuators, and vibrational data is registered by 3D scanning laser Doppler vibrometry. The obtained results quantitatively and qualitatively demonstrate that the proposed method can effectively detect different kinds of damage, regardless of being shallow or deep."
+  },
+  "authors": [
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Electrical Engineering, University of Guilan, Rasht, Iran"
+        }
+      ],
+      "name": {
+        "given_name": "Erfan",
+        "surname": "Basiri"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Department of Electrical Engineering, University of Guilan, Rasht, Iran"
+        }
+      ],
+      "attrib": {
+        "email": "hasanzadehpak@guilan.ac.ir"
+      },
+      "name": {
+        "given_name": "Reza P.R.",
+        "surname": "Hasanzadeh"
+      }
+    },
+    {
+      "affiliation": [
+        {
+          "affPubRaw": "Mechanics of Materials and Structures, Ghent University, Ghent, Belgium"
+        }
+      ],
+      "attrib": {
+        "email": "mathias.kersemans@ugent.be"
+      },
+      "name": {
+        "given_name": "Mathias",
+        "surname": "Kersemans"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 2024 Elsevier Ltd. All rights reserved.",
+    "status": true
+  },
+  "doctype": "article",
+  "editorialHistory": {
+    "acceptedDate": "2024-02-17",
+    "receivedDates": [
+      "2023-09-19"
+    ],
+    "revisedDates": [
+      "2024-02-14"
+    ]
+  },
+  "esources": [
+    {
+      "location": "http://dx.doi.org/10.1016/j.measurement.2024.114347",
+      "source": "pub_html"
+    }
+  ],
+  "keywords": [
+    {
+      "keyString": "Multi-layer plates",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Non-destructive testing",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Operational deflection shape",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Local entropy",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Guided waves",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Laser Doppler vibrometry",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "NDT",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Nondestructive testing",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "SLDV",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Scanning laser Doppler vibrometer",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "LDR",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Local defect resonance",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "ODS",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Operational deflection shape",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "CFRP",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Carbon fiber reinforced polymers",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "PZT",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Piezoelectric transducer",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "DBR",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Defect-to-background ratio",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "RMS",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Root mean square",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "TP",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "True positive",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "FP",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "False positive",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "PCDM",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Preliminary candidate damage map",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "CDM",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Candidate damage map",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "AR-DI",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Adaptive regional damage index",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "ADI",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Adaptive damage index",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "BE2DI",
+      "keySystem": "Elsevier"
+    },
+    {
+      "keyString": "Broadband entropy-based two-stage damage imaging",
+      "keySystem": "Elsevier"
+    }
+  ],
+  "pagination": {
+    "electronicID": "114347"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1016/j.measurement.2024.114347"
+    }
+  ],
+  "pubDate": {
+    "printDate": "2024-04-00"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0263-2241",
+        "pubtype": "not specified"
+      }
+    ],
+    "pubName": "Measurement",
+    "pubYear": "2024",
+    "publisher": "Elsevier Ltd",
+    "volumeNum": "229"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "S0263-2241(24)00231-8",
+      "attribute": "PII"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "OtherXML",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<sb:reference id=\"h0005\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Ostachowicz</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Radzie\u0144ski</ce:surname> </sb:author> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>Kudela</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>50th anniversary article: Comparison studies of full wavefield signal processing for crack detection</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Strain</sb:maintitle> </sb:title> <sb:volume-nr>50</sb:volume-nr> </sb:series> <sb:issue-nr>4</sb:issue-nr> <sb:date>Jun. 2014</sb:date> </sb:issue> <sb:pages> <sb:first-page>275</sb:first-page> <sb:last-page>291</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0010\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Jurek</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Radzienski</ce:surname> </sb:author> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>Kudela</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Ostachowicz</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Non-contact excitation and focusing of guided waves in CFRP composite plate by air-coupled transducers for application in damage detection</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Procedia Struct. Integrity</sb:maintitle> </sb:title> <sb:volume-nr>13</sb:volume-nr> </sb:series> <sb:date>2018</sb:date> </sb:issue> <sb:pages> <sb:first-page>2089</sb:first-page> <sb:last-page>2094</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0015\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>E.B.</ce:given-name> <ce:surname>Flynn</ce:surname> </sb:author> <sb:author> <ce:given-name>S.Y.</ce:given-name> <ce:surname>Chong</ce:surname> </sb:author> <sb:author> <ce:given-name>G.J.</ce:given-name> <ce:surname>Jarmer</ce:surname> </sb:author> <sb:author> <ce:given-name>J.-R.</ce:given-name> <ce:surname>Lee</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Structural imaging through local wavenumber estimation of guided waves</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>NDT E Int.</sb:maintitle> </sb:title> <sb:volume-nr>59</sb:volume-nr> </sb:series> <sb:date>Oct. 2013</sb:date> </sb:issue> <sb:pages> <sb:first-page>1</sb:first-page> <sb:last-page>10</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0020\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Segers</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Hedayatrasa</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Poelman</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Van Paepegem</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Kersemans</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Self-reference broadband local wavenumber estimation (SRB-LWE) for defect assessment in composites</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>163</sb:volume-nr> </sb:series> <sb:date>Jan. 2022</sb:date> </sb:issue> <sb:article-number>108142</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0025\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Castaings</ce:surname> </sb:author> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>Cawley</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>The generation, propagation, and detection of Lamb waves in plates using air-coupled ultrasonic transducers</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>J. Acoust. Soc. Am.</sb:maintitle> </sb:title> <sb:volume-nr>100</sb:volume-nr> </sb:series> <sb:issue-nr>5</sb:issue-nr> <sb:date>Nov. 1996</sb:date> </sb:issue> <sb:pages> <sb:first-page>3070</sb:first-page> <sb:last-page>3077</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0030\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>C.T.</ce:given-name> <ce:surname>Truong</ce:surname> </sb:author> <sb:author> <ce:given-name>D.-H.</ce:given-name> <ce:surname>Kang</ce:surname> </sb:author> <sb:author> <ce:given-name>J.-R.</ce:given-name> <ce:surname>Lee</ce:surname> </sb:author> <sb:author> <ce:given-name>C.R.</ce:given-name> <ce:surname>Farrar</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Comparative study of laser doppler vibrometer and capacitive air-coupled transducer for ultrasonic propagation imager and the new development of an efficient ultrasonic wavenumber imaging algorithm</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Strain</sb:maintitle> </sb:title> <sb:volume-nr>51</sb:volume-nr> </sb:series> <sb:issue-nr>4</sb:issue-nr> <sb:date>Jun. 2015</sb:date> </sb:issue> <sb:pages> <sb:first-page>332</sb:first-page> <sb:last-page>342</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0035\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>K.</ce:given-name> <ce:surname>Yuan</ce:surname> </sb:author> <sb:author> <ce:given-name>W.D.</ce:given-name> <ce:surname>Zhu</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A novel general-purpose three-dimensional continuously scanning laser Doppler vibrometer system for full-field vibration measurement of a structure with a curved surface</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>J. Sound Vib.</sb:maintitle> </sb:title> <sb:volume-nr>540</sb:volume-nr> </sb:series> <sb:date>Dec. 2022</sb:date> </sb:issue> <sb:article-number>117274</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0040\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>Y.</ce:given-name> <ce:surname>Li</ce:surname> </sb:author> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Zhu</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Duperron</ce:surname> </sb:author> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>O\u2019Brien</ce:surname> </sb:author> <sb:author> <ce:given-name>R.</ce:given-name> <ce:surname>Sch\u00fcler</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Aasmul</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>de Melis</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Kersemans</ce:surname> </sb:author> <sb:author> <ce:given-name>R.</ce:given-name> <ce:surname>Baets</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Six-beam homodyne laser Doppler vibrometry based on silicon photonics technology</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Opt. Express</sb:maintitle> </sb:title> <sb:volume-nr>26</sb:volume-nr> </sb:series> <sb:issue-nr>3</sb:issue-nr> <sb:date>Feb. 2018</sb:date> </sb:issue> <sb:pages> <sb:first-page>3638</sb:first-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0045\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>A.</ce:given-name> <ce:surname>Ijjeh</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Ullah</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Radzienski</ce:surname> </sb:author> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>Kudela</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Deep learning super-resolution for the reconstruction of full wavefield of Lamb waves</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>186</sb:volume-nr> </sb:series> <sb:date>Mar. 2023</sb:date> </sb:issue> <sb:article-number>109878</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0050\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Sabeti</ce:surname> </sb:author> <sb:author> <ce:given-name>J.B.</ce:given-name> <ce:surname>Harley</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Spatio-temporal undersampling: Recovering ultrasonic guided wavefields from incomplete data with compressive sensing</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>140</sb:volume-nr> </sb:series> <sb:date>Jun. 2020</sb:date> </sb:issue> <sb:article-number>106694</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0055\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>Y.</ce:given-name> <ce:surname>Keshmiri Esfandabadi</ce:surname> </sb:author> <sb:author> <ce:given-name>L.</ce:given-name> <ce:surname>De Marchi</ce:surname> </sb:author> <sb:author> <ce:given-name>N.</ce:given-name> <ce:surname>Testoni</ce:surname> </sb:author> <sb:author> <ce:given-name>A.</ce:given-name> <ce:surname>Marzani</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Masetti</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Full wavefield analysis and damage imaging through compressive sensing in lamb wave inspections</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>IEEE Trans. Ultrason. Ferroelectr. Freq. Control</sb:maintitle> </sb:title> <sb:volume-nr>65</sb:volume-nr> </sb:series> <sb:issue-nr>2</sb:issue-nr> <sb:date>Feb. 2018</sb:date> </sb:issue> <sb:pages> <sb:first-page>269</sb:first-page> <sb:last-page>280</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0060\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>C.</ce:given-name> <ce:surname>Xu</ce:surname> </sb:author> <sb:author> <ce:given-name>Z.</ce:given-name> <ce:surname>Yang</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Tian</ce:surname> </sb:author> <sb:author> <ce:given-name>X.</ce:given-name> <ce:surname>Chen</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Lamb wave inspection for composite laminates using a combined method of sparse reconstruction and delay-and-sum</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Compos. Struct.</sb:maintitle> </sb:title> <sb:volume-nr>223</sb:volume-nr> </sb:series> <sb:date>Sep. 2019</sb:date> </sb:issue> <sb:article-number>110973</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0065\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>A.</ce:given-name> <ce:surname>Baltazar</ce:surname> </sb:author> <sb:author> <ce:given-name>E.</ce:given-name> <ce:surname>Rojas</ce:surname> </sb:author> <sb:author> <ce:given-name>R.</ce:given-name> <ce:surname>Mijarez</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Structural health monitoring in cylindrical structures using helical guided wave propagation</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Phys. Procedia</sb:maintitle> </sb:title> <sb:volume-nr>70</sb:volume-nr> </sb:series> <sb:date>2015</sb:date> </sb:issue> <sb:pages> <sb:first-page>686</sb:first-page> <sb:last-page>689</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0070\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>E.</ce:given-name> <ce:surname>Rojas</ce:surname> </sb:author> <sb:author> <ce:given-name>A.</ce:given-name> <ce:surname>Baltazar</ce:surname> </sb:author> <sb:author> <ce:given-name>K.J.</ce:given-name> <ce:surname>Loh</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Damage detection using the signal entropy of an ultrasonic sensor network</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Smart Mater. Struct.</sb:maintitle> </sb:title> <sb:volume-nr>24</sb:volume-nr> </sb:series> <sb:issue-nr>7</sb:issue-nr> <sb:date>Jun. 2015</sb:date> </sb:issue> <sb:article-number>075008</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0075\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>A.</ce:given-name> <ce:surname>\u017bak</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Radzie\u0144ski</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Krawczuk</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Ostachowicz</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Damage detection strategies based on propagation of guided elastic waves</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Smart Mater. Struct.</sb:maintitle> </sb:title> <sb:volume-nr>21</sb:volume-nr> </sb:series> <sb:issue-nr>3</sb:issue-nr> <sb:date>Feb. 2012</sb:date> </sb:issue> <sb:article-number>035024</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0080\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>Kudela</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Radzie\u0144ski</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Ostachowicz</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Identification of cracks in thin-walled structures by means of wavenumber filtering</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>50\u201351</sb:volume-nr> </sb:series> <sb:date>Jan. 2015</sb:date> </sb:issue> <sb:pages> <sb:first-page>456</sb:first-page> <sb:last-page>466</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0085\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Segers</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Hedayatrasa</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Poelman</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Van Paepegem</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Kersemans</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Robust and baseline-free full-field defect detection in complex composite parts through weighted broadband energy mapping of mode-removed guided waves</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>151</sb:volume-nr> </sb:series> <sb:date>Apr. 2021</sb:date> </sb:issue> <sb:article-number>107360</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0090\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Barzegar</ce:surname> </sb:author> <sb:author> <ce:given-name>D.J.</ce:given-name> <ce:surname>Pasadas</ce:surname> </sb:author> <sb:author> <ce:given-name>A.L.</ce:given-name> <ce:surname>Ribeiro</ce:surname> </sb:author> <sb:author> <ce:given-name>H.G.</ce:given-name> <ce:surname>Ramos</ce:surname> </sb:author> <sb:author> <ce:given-name>Y.</ce:given-name> <ce:surname>Lugovtsova</ce:surname> </sb:author> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Bulling</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Polar coordinate for damage imaging of adhesively bonded plates using ultrasonic guided waves and laser doppler vibrometer measurements</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>IEEE Trans. Instrum. Meas.</sb:maintitle> </sb:title> <sb:volume-nr>72</sb:volume-nr> </sb:series> <sb:date>2023</sb:date> </sb:issue> <sb:pages> <sb:first-page>1</sb:first-page> <sb:last-page>11</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0095\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>F.</ce:given-name> <ce:surname>Gao</ce:surname> </sb:author> <sb:author> <ce:given-name>Y.</ce:given-name> <ce:surname>Shao</ce:surname> </sb:author> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Hua</ce:surname> </sb:author> <sb:author> <ce:given-name>L.</ce:given-name> <ce:surname>Zeng</ce:surname> </sb:author> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Lin</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Enhanced wavefield imaging method for impact damage detection in composite laminates via laser-generated Lamb waves</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Measurement</sb:maintitle> </sb:title> <sb:volume-nr>173</sb:volume-nr> </sb:series> <sb:date>Mar. 2021</sb:date> </sb:issue> <sb:article-number>108639</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0100\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>T.</ce:given-name> <ce:surname>Kang</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Yoon</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Han</ce:surname> </sb:author> <sb:author> <ce:given-name>K.-M.</ce:given-name> <ce:surname>Kim</ce:surname> </sb:author> <sb:author> <ce:given-name>B.</ce:given-name> <ce:surname>Koo</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Selection of optimal exciting frequency and Lamb wave mode for detecting wall-thinning in plates using scanning laser Doppler vibrometer</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Measurement</sb:maintitle> </sb:title> <sb:volume-nr>200</sb:volume-nr> </sb:series> <sb:date>Aug. 2022</sb:date> </sb:issue> <sb:article-number>111676</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0105\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>A.A.</ce:given-name> <ce:surname>Ijjeh</ce:surname> </sb:author> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>Kudela</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Deep learning-based segmentation using full wavefield processing for delamination identification: A comparative study</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>168</sb:volume-nr> </sb:series> <sb:date>Apr. 2022</sb:date> </sb:issue> <sb:article-number>108671</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0110\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Ullah</ce:surname> </sb:author> <sb:author> <ce:given-name>A.A.</ce:given-name> <ce:surname>Ijjeh</ce:surname> </sb:author> <sb:author> <ce:given-name>P.</ce:given-name> <ce:surname>Kudela</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Deep learning approach for delamination identification using animation of Lamb waves</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Eng. Appl. Artif. Intel.</sb:maintitle> </sb:title> <sb:volume-nr>117</sb:volume-nr> </sb:series> <sb:date>Jan. 2023</sb:date> </sb:issue> <sb:article-number>105520</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0115\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Sha</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Radzienski</ce:surname> </sb:author> <sb:author> <ce:given-name>R.</ce:given-name> <ce:surname>Soman</ce:surname> </sb:author> <sb:author> <ce:given-name>T.</ce:given-name> <ce:surname>Wandowski</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Cao</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Ostachowicz</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Delamination imaging in laminated composite plates using 2D wavelet analysis of guided wavefields</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Smart Mater. Struct.</sb:maintitle> </sb:title> <sb:volume-nr>30</sb:volume-nr> </sb:series> <sb:issue-nr>1</sb:issue-nr> <sb:date>Nov. 2020</sb:date> </sb:issue> <sb:article-number>015001</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0120\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Zhou</ce:surname> </sb:author> <sb:author> <ce:given-name>Y.F.</ce:given-name> <ce:surname>Xu</ce:surname> </sb:author> <sb:author> <ce:given-name>J.S.</ce:given-name> <ce:surname>Kim</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Baseline-free structural damage identification for plate-like structures based on two-dimensional curvature propagating flexural waves</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>J. Sound Vib.</sb:maintitle> </sb:title> <sb:volume-nr>536</sb:volume-nr> </sb:series> <sb:date>Oct. 2022</sb:date> </sb:issue> <sb:article-number>117098</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0125\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Sha</ce:surname> </sb:author> <sb:author> <ce:given-name>H.</ce:given-name> <ce:surname>Xu</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Radzie\u0144ski</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Cao</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Ostachowicz</ce:surname> </sb:author> <sb:author> <ce:given-name>Z.</ce:given-name> <ce:surname>Su</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Guided wavefield curvature imaging of invisible damage in composite structures</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>150</sb:volume-nr> </sb:series> <sb:date>Mar. 2021</sb:date> </sb:issue> <sb:article-number>107240</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0130\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>L.H.</ce:given-name> <ce:surname>Tenek</ce:surname> </sb:author> <sb:author> <ce:given-name>E.G.</ce:given-name> <ce:surname>Henneke</ce:surname> </sb:author> <sb:author> <ce:given-name>M.D.</ce:given-name> <ce:surname>Gunzburger</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Vibration of delaminated composite plates and some applications to non-destructive testing</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Compos. Struct.</sb:maintitle> </sb:title> <sb:volume-nr>23</sb:volume-nr> </sb:series> <sb:issue-nr>3</sb:issue-nr> <sb:date>Jan. 1993</sb:date> </sb:issue> <sb:pages> <sb:first-page>253</sb:first-page> <sb:last-page>262</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0135\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>I.</ce:given-name> <ce:surname>Solodov</ce:surname> </sb:author> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Bai</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Bekgulyan</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Busse</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A local defect resonance to enhance acoustic wave-defect interaction in ultrasonic nondestructive evaluation</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Appl. Phys. Lett.</sb:maintitle> </sb:title> <sb:volume-nr>99</sb:volume-nr> </sb:series> <sb:issue-nr>21</sb:issue-nr> <sb:date>Nov. 2011</sb:date> </sb:issue> <sb:article-number>211911</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0140\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>I.</ce:given-name> <ce:surname>Solodov</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Kreutzbruck</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Local defect resonance of a through-thickness crack</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Ultrasonics</sb:maintitle> </sb:title> <sb:volume-nr>118</sb:volume-nr> </sb:series> <sb:date>Jan. 2022</sb:date> </sb:issue> <sb:article-number>106565</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0145\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Segers</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Hedayatrasa</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Poelman</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Van Paepegem</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Kersemans</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Backside delamination detection in composites through local defect resonance induced nonlinear source behavior</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>J. Sound Vib.</sb:maintitle> </sb:title> <sb:volume-nr>479</sb:volume-nr> </sb:series> <sb:date>Aug. 2020</sb:date> </sb:issue> <sb:article-number>115360</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0155\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>D.</ce:given-name> <ce:surname>Ginzburg</ce:surname> </sb:author> <sb:author> <ce:given-name>F.</ce:given-name> <ce:surname>Ciampa</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Scarselli</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Meo</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>SHM of single lap adhesive joints using subharmonic frequencies</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Smart Mater. Struct.</sb:maintitle> </sb:title> <sb:volume-nr>26</sb:volume-nr> </sb:series> <sb:issue-nr>10</sb:issue-nr> <sb:date>Sep. 2017</sb:date> </sb:issue> <sb:article-number>105018</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0160\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>G.P.</ce:given-name> <ce:surname>Malfense Fierro</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Meo</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Nonlinear elastic imaging of barely visible impact damage in composite structures using a constructive nonlinear array sweep technique</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Ultrasonics</sb:maintitle> </sb:title> <sb:volume-nr>90</sb:volume-nr> </sb:series> <sb:date>Nov. 2018</sb:date> </sb:issue> <sb:pages> <sb:first-page>125</sb:first-page> <sb:last-page>143</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0165\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>G.P.M.</ce:given-name> <ce:surname>Fierro</ce:surname> </sb:author> <sb:author> <ce:given-name>D.</ce:given-name> <ce:surname>Ginzburg</ce:surname> </sb:author> <sb:author> <ce:given-name>F.</ce:given-name> <ce:surname>Ciampa</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Meo</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Imaging of barely visible impact damage on a complex composite stiffened panel using a nonlinear ultrasound stimulated thermography approach</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>J. Nondestr. Eval.</sb:maintitle> </sb:title> <sb:volume-nr>36</sb:volume-nr> </sb:series> <sb:issue-nr>4</sb:issue-nr> <sb:date>Sep. 2017</sb:date> </sb:issue> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0170\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Roy</ce:surname> </sb:author> <sb:author> <ce:given-name>T.</ce:given-name> <ce:surname>Bose</ce:surname> </sb:author> <sb:author> <ce:given-name>K.</ce:given-name> <ce:surname>Debnath</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Detection of local defect resonance frequencies using bicoherence analysis</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>J. Sound Vib.</sb:maintitle> </sb:title> <sb:volume-nr>443</sb:volume-nr> </sb:series> <sb:date>Mar. 2019</sb:date> </sb:issue> <sb:pages> <sb:first-page>703</sb:first-page> <sb:last-page>716</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0175\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>L.</ce:given-name> <ce:surname>Wei</ce:surname> </sb:author> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Chen</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Determination of optimal probing frequency for enhancing nonlinear vibro-acoustic modulation behaviors of delaminated CFRP based on local defect resonance</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>187</sb:volume-nr> </sb:series> <sb:date>Mar. 2023</sb:date> </sb:issue> <sb:article-number>109961</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0180\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Segers</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Hedayatrasa</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Poelman</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Van Paepegem</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Kersemans</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Nonlinear elastic wave energy imaging for the detection and localization of in-sight and out-of-sight defects in composites</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Appl. Sci.</sb:maintitle> </sb:title> <sb:volume-nr>10</sb:volume-nr> </sb:series> <sb:issue-nr>11</sb:issue-nr> <sb:date>Jun. 2020</sb:date> </sb:issue> <sb:pages> <sb:first-page>3924</sb:first-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0185\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Segers</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Hedayatrasa</ce:surname> </sb:author> <sb:author> <ce:given-name>E.</ce:given-name> <ce:surname>Verboven</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Poelman</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Van Paepegem</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Kersemans</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Efficient automated extraction of local defect resonance parameters in fiber reinforced polymers using data compression and iterative amplitude thresholding</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>J. Sound Vib.</sb:maintitle> </sb:title> <sb:volume-nr>463</sb:volume-nr> </sb:series> <sb:date>Dec. 2019</sb:date> </sb:issue> <sb:article-number>114958</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0190\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.</ce:given-name> <ce:surname>Segers</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Hedayatrasa</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Poelman</ce:surname> </sb:author> <sb:author> <ce:given-name>W.</ce:given-name> <ce:surname>Van Paepegem</ce:surname> </sb:author> <sb:author> <ce:given-name>M.</ce:given-name> <ce:surname>Kersemans</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Probing the limits of full-field linear local defect resonance identification for deep defect detection</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Ultrasonics</sb:maintitle> </sb:title> <sb:volume-nr>105</sb:volume-nr> </sb:series> <sb:date>Jul. 2020</sb:date> </sb:issue> <sb:article-number>106130</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0195\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>Z.</ce:given-name> <ce:surname>Lan</ce:surname> </sb:author> <sb:author> <ce:given-name>O.</ce:given-name> <ce:surname>Saito</ce:surname> </sb:author> <sb:author> <ce:given-name>F.</ce:given-name> <ce:surname>Yu</ce:surname> </sb:author> <sb:author> <ce:given-name>Y.</ce:given-name> <ce:surname>Okabe</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Impact damage detection in woven CFRP laminates based on a local defect resonance technique with laser ultrasonics</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>207</sb:volume-nr> </sb:series> <sb:date>Jan. 2024</sb:date> </sb:issue> <sb:article-number>110929</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0200\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>K.</ce:given-name> <ce:surname>Feng</ce:surname> </sb:author> <sb:author> <ce:given-name>Q.</ce:given-name> <ce:surname>Zhao</ce:surname> </sb:author> <sb:author> <ce:given-name>Z.</ce:given-name> <ce:surname>Li</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Baseline-free damage identification method for lattice sandwich structures based on operational deflection shapes</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Res. Nondestr. Eval.</sb:maintitle> </sb:title> <sb:volume-nr>32</sb:volume-nr> </sb:series> <sb:issue-nr>3\u20134</sb:issue-nr> <sb:date>Jul. 2021</sb:date> </sb:issue> <sb:pages> <sb:first-page>147</sb:first-page> <sb:last-page>159</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0205\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>J.E.</ce:given-name> <ce:surname>Michaels</ce:surname> </sb:author> <sb:author> <ce:given-name>T.E.</ce:given-name> <ce:surname>Michaels</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Guided wave signal processing and image fusion for in situ damage localization in plates</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Wave Motion</sb:maintitle> </sb:title> <sb:volume-nr>44</sb:volume-nr> </sb:series> <sb:issue-nr>6</sb:issue-nr> <sb:date>Jun. 2007</sb:date> </sb:issue> <sb:pages> <sb:first-page>482</sb:first-page> <sb:last-page>492</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0210\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>K.</ce:given-name> <ce:surname>Yang</ce:surname> </sb:author> <sb:author> <ce:given-name>S.</ce:given-name> <ce:surname>Kim</ce:surname> </sb:author> <sb:author> <ce:given-name>J.B.</ce:given-name> <ce:surname>Harley</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Unsupervised long-term damage detection in an uncontrolled environment through optimal autoencoder</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>Mech. Syst. Sig. Process.</sb:maintitle> </sb:title> <sb:volume-nr>199</sb:volume-nr> </sb:series> <sb:date>Sep. 2023</sb:date> </sb:issue> <sb:article-number>110473</sb:article-number> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0215\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>Z.K.</ce:given-name> <ce:surname>Peng</ce:surname> </sb:author> <sb:author> <ce:given-name>G.</ce:given-name> <ce:surname>Meng</ce:surname> </sb:author> <sb:author> <ce:given-name>F.L.</ce:given-name> <ce:surname>Chu</ce:surname> </sb:author> <sb:author> <ce:given-name>Z.Q.</ce:given-name> <ce:surname>Lang</ce:surname> </sb:author> <sb:author> <ce:given-name>W.M.</ce:given-name> <ce:surname>Zhang</ce:surname> </sb:author> <sb:author> <ce:given-name>Y.</ce:given-name> <ce:surname>Yang</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Polynomial Chirplet Transform with Application to Instantaneous Frequency Estimation</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>IEEE Trans. Instrum. Meas.</sb:maintitle> </sb:title> <sb:volume-nr>60</sb:volume-nr> </sb:series> <sb:issue-nr>9</sb:issue-nr> <sb:date>Sep. 2011</sb:date> </sb:issue> <sb:pages> <sb:first-page>3222</sb:first-page> <sb:last-page>3229</sb:last-page> </sb:pages> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0220\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>R.C.</ce:given-name> <ce:surname>Gonzalez</ce:surname> </sb:author> <sb:author> <ce:given-name>R.E.</ce:given-name> <ce:surname>Woods</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>Digital Image Processing</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:book> <sb:edition>3rd ed.</sb:edition> <sb:date>2008</sb:date> <sb:publisher> <sb:name>Pearson</sb:name> <sb:location>Hoboken, NJ, USA</sb:location> </sb:publisher> </sb:book> </sb:host> </sb:reference>",
+    "<sb:reference id=\"h0225\"> <sb:contribution langtype=\"en\"> <sb:authors> <sb:author> <ce:given-name>N.</ce:given-name> <ce:surname>Otsu</ce:surname> </sb:author> </sb:authors> <sb:title> <sb:maintitle>A threshold selection method from Gray-Level histograms</sb:maintitle> </sb:title> </sb:contribution> <sb:host> <sb:issue> <sb:series> <sb:title> <sb:maintitle>IEEE Trans. Syst. Man Cybern.</sb:maintitle> </sb:title> <sb:volume-nr>9</sb:volume-nr> </sb:series> <sb:issue-nr>1</sb:issue-nr> <sb:date>Jan. 1979</sb:date> </sb:issue> <sb:pages> <sb:first-page>62</sb:first-page> <sb:last-page>66</sb:last-page> </sb:pages> </sb:host> </sb:reference>"
+  ],
+  "title": {
+    "textEnglish": "Damage imaging in plates by evaluating local entropy in guided wavefield data"
+  }
+}
