@@ -2,7 +2,7 @@ import logging
 import re
 from collections import OrderedDict
 from copy import copy
-
+import pdb
 import validators
 from ordered_set import OrderedSet
 
@@ -614,6 +614,7 @@ class JATSParser(BaseBeautifulSoupParser):
                         title_fn_list.append(title_fn_dict.get(key, None))
                     dx.decompose()
                 art_title = self._detag(title, self.HTML_TAGSET["title"]).strip()
+                pdb.set_trace()
                 title_notes = []
                 if title_fn_list:
                     title_notes.extend(title_fn_list)

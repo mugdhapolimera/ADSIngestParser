@@ -83,18 +83,24 @@ class TestJATS(unittest.TestCase):
             # "jats_apj_967_1_35",
             # "jats_nature_roman_num_1",
             # "jats_springer_roman_num_1",
-            "jats_springer_Article_collab_nlm",
+            # "jats_springer_Article_collab_nlm",
+            "jats_springer_badmarkup_1",
         ]
 
         for f in filenames:
             test_infile = os.path.join(self.inputdir, f + ".xml")
             test_outfile = os.path.join(self.outputdir, f + ".json")
+            test_outfile_tmp = os.path.join(self.outputdir, f + "_tmp.json")
             parser = jats.JATSParser()
 
             with open(test_infile, "rb") as fp:
                 input_data = fp.read()
 
             parsed = parser.parse(input_data)
+
+            with open(test_outfile_tmp, "w") as fp:
+                parsed["recordData"]["parsedTime"] = ""
+                json.dump(parsed,fp, indent = 2, sort_keys=True)
 
             with open(test_outfile, "rb") as fp:
                 output_text = fp.read()
