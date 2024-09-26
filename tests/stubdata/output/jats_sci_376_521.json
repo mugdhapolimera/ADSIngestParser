@@ -71,7 +71,12 @@
     }
   ],
   "pubDate": {
-    "electrDate": "2022-04-07",
+    "otherDate": [
+      {
+        "otherDateType": "first_release",
+        "otherDateValue": "2022-04-07"
+      }
+    ],
     "printDate": "2022-04-29"
   },
   "publication": {

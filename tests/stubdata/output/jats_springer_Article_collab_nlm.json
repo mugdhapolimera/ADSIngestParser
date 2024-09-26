@@ -2256,7 +2256,13 @@
     }
   ],
   "pubDate": {
-    "electrDate": "2024-12-00"
+    "electrDate": "2024-05-30",
+    "otherDate": [
+      {
+        "otherDateType": "collection",
+        "otherDateValue": "2024-12-00"
+      }
+    ]
   },
   "publication": {
     "ISSN": [

@@ -28275,7 +28275,13 @@
     }
   ],
   "pubDate": {
-    "electrDate": "2023-07-00"
+    "electrDate": "2023-07-14",
+    "otherDate": [
+      {
+        "otherDateType": "collection",
+        "otherDateValue": "2023-07-00"
+      }
+    ]
   },
   "publication": {
     "ISSN": [

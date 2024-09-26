@@ -86,6 +86,7 @@ class TestJATS(unittest.TestCase):
             "jats_springer_Article_collab_nlm",
             "jats_springer_badmarkup_1",
             "jats_aps_native_authors_1",
+            "jats_nature_article_pubdatetype_1",
         ]
 
         for f in filenames:
@@ -97,6 +98,10 @@ class TestJATS(unittest.TestCase):
                 input_data = fp.read()
 
             parsed = parser.parse(input_data)
+
+            # with open(test_outfile, "w") as fp:
+            #     parsed["recordData"]["parsedTime"] = ""
+            #     json.dump(parsed,fp, indent = 2, sort_keys=True)
 
             with open(test_outfile, "rb") as fp:
                 output_text = fp.read()

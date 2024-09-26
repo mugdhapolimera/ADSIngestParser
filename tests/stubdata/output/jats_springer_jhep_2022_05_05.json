@@ -61377,7 +61377,13 @@
     }
   ],
   "pubDate": {
-    "electrDate": "2022-05-00"
+    "electrDate": "2022-05-02",
+    "otherDate": [
+      {
+        "otherDateType": "collection",
+        "otherDateValue": "2022-05-00"
+      }
+    ]
   },
   "publication": {
     "ISSN": [
