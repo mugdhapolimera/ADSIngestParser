@@ -964,7 +964,8 @@ class JATSParser(BaseBeautifulSoupParser):
                 license_text = p.find("license-p")
                 if license_text:
                     self.base_metadata.setdefault("openAccess", {}).setdefault(
-                        "license", license_text.get_text()
+                        "license",
+                        self._detag(license_text.get_text(), self.HTML_TAGSET["license"]).strip(),
                     )
                     license_uri = license_text.find("ext-link")
                     if license_uri:
