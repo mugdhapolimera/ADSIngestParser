@@ -938,7 +938,7 @@ class JATSParser(BaseBeautifulSoupParser):
             ) and (date_type == "pub" or date_type == ""):
                 self.base_metadata["pubdate_print"] = pubdate
 
-            elif (
+            if (
                 pub_format == "electronic"
                 or pub_type == "epub"
                 or (pub_type == "" and pub_format == "")
