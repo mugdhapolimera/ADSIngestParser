@@ -143,36 +143,12 @@
             {
               "affID": "0000 0000 9339 3042",
               "affIDType": "ISNI"
-            },
-            {
-              "affID": "https://ror.org/018rbtf37",
-              "affIDType": "ROR"
-            },
-            {
-              "affID": "grid.413109.e",
-              "affIDType": "GRID"
-            },
-            {
-              "affID": "0000 0000 9735 6249",
-              "affIDType": "ISNI"
             }
           ],
           "affPubRaw": "College of Environmental Sciences, Liaoning University, 110036, Shenyang, People\u2019s Republic of China"
         },
         {
           "affPubID": [
-            {
-              "affID": "https://ror.org/03xpwj629",
-              "affIDType": "ROR"
-            },
-            {
-              "affID": "grid.411356.4",
-              "affIDType": "GRID"
-            },
-            {
-              "affID": "0000 0000 9339 3042",
-              "affIDType": "ISNI"
-            },
             {
               "affID": "https://ror.org/018rbtf37",
               "affIDType": "ROR"
