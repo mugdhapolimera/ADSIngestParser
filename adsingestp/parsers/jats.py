@@ -929,6 +929,7 @@ class JATSParser(BaseBeautifulSoupParser):
             pub_format = d.get("publication-format", "")
             pub_type = d.get("pub-type", "")
             date_type = d.get("date-type", "")
+            accepted_date_types = ["pub", "", "first_release"]
             pubdate = self._get_date(d)
             if (
                 pub_format == "print"
@@ -942,7 +943,7 @@ class JATSParser(BaseBeautifulSoupParser):
                 pub_format == "electronic"
                 or pub_type == "epub"
                 or (pub_type == "" and pub_format == "")
-            ) and (date_type == "pub" or date_type == ""):
+            ) and (date_type in accepted_date_types):
                 self.base_metadata["pubdate_electronic"] = pubdate
 
             elif (date_type != "pub") and (date_type != ""):
