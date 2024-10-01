@@ -511,7 +511,7 @@ class BaseBeautifulSoupParser(IngestBase):
         "license": HTML_TAGS_MATH + HTML_TAGS_HTML + ["a", "pre", "br"],
     }
 
-    HTML_TAGS_DANGER = ["php", "script", "css", "?index"]
+    HTML_TAGS_DANGER = ["php", "script", "css"]
 
     def __init__(self):
         super(IngestBase, self).__init__()
