@@ -215,8 +215,6 @@ class CrossrefParser(BaseBeautifulSoupParser):
 
     def _parse_title_abstract(self):
         # Only parse title for non book series metadata
-        # import pdb
-        # pdb.set_trace()
         if self.record_meta.find("titles") and self.record_meta.find("titles").find("title"):
             title = self.record_meta.find("titles", recursive=False).find("title").get_text()
             if not title:

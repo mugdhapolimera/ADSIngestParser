@@ -43,7 +43,6 @@ class TestCrossref(unittest.TestCase):
             "crossref_book_chapter_10.1016_B978-0-12-037311-6.50008-9",
         ]
         for f in filenames:
-            print(f)
             test_infile = os.path.join(self.inputdir, f + ".xml")
             test_outfile = os.path.join(self.outputdir, f + ".json")
 
