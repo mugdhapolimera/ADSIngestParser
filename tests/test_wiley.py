@@ -27,6 +27,7 @@ class TestWiley(unittest.TestCase):
             "wiley_swe_21103",
             "wiley_subsup_1",
             "wiley_subsup_2",
+            "wiley_missing_open_attr",
         ]
         for f in filenames:
             test_infile = os.path.join(self.inputdir, f + ".xml")
