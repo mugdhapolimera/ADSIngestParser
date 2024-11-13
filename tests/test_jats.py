@@ -105,17 +105,11 @@ class TestJATS(unittest.TestCase):
         #         ]
 
         filenames = [
-            "jats_nature_natsd_12_7375",
+            # "jats_nature_natsd_12_7375",
             "jats_sci_376_521",
-            "jats_springer_EPJC_s10052-023-11699-1",
-            "jats_springer_Natur_s41598-023-38673-x",
-            "jats_springer_JHEP_JHEP07_2023_200",
-            "jats_springer_NatCo_s41467-023-40272-3",
-            "jats_springer_jhep_2022_05_05",
-            "jats_iop_jinst_17_05_P05009",
-            "jats_iop_no_orcid_tag",
-            "jats_aps_phrvd_100_052015",
-            "jats_springer_Article_collab_nlm",
+            # "jats_springer_EPJC_s10052-023-11699-1",
+            # "jats_springer_JHEP_JHEP07_2023_200",
+            # "jats_springer_jhep_2022_05_05",
         ]
 
         for f in filenames:

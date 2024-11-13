@@ -536,8 +536,10 @@ class JATSAffils(object):
 
                     # Check if author is a duplicate of a collaboration
                     if auth["surname"] == "" and auth["collab"]:
-                        # delete email info for collabs
+                        # delete email and correspondence info for collabs
                         auth["email"] = []
+                        auth["xemail"] = []
+                        auth["corresp"] = False
                         # if the collab is already in author list, skip
                         if auth in authors_out:
                             continue
