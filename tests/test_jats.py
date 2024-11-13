@@ -115,10 +115,6 @@ class TestJATS(unittest.TestCase):
 
             parsed = parser.parse(input_data)
 
-            with open(test_outfile, "w") as fp:
-                parsed["recordData"]["parsedTime"] = ""
-                json.dump(parsed, fp, indent=2, sort_keys=True)
-
             with open(test_outfile, "rb") as fp:
                 output_text = fp.read()
                 output_data = json.loads(output_text)
@@ -130,12 +126,12 @@ class TestJATS(unittest.TestCase):
                 self.fail("Schema validation failed")
 
             # this field won't match the test data, so check and then discard
-            # time_difference = (
-            #     datetime.datetime.strptime(parsed["recordData"]["parsedTime"], TIMESTAMP_FMT)
-            #     - datetime.datetime.utcnow()
-            # )
-            # self.assertTrue(abs(time_difference) < datetime.timedelta(seconds=10))
-            # parsed["recordData"]["parsedTime"] = ""
+            time_difference = (
+                datetime.datetime.strptime(parsed["recordData"]["parsedTime"], TIMESTAMP_FMT)
+                - datetime.datetime.utcnow()
+            )
+            self.assertTrue(abs(time_difference) < datetime.timedelta(seconds=10))
+            parsed["recordData"]["parsedTime"] = ""
             self.assertEqual(parsed, output_data)
 
     def test_jats_lxml(self):
