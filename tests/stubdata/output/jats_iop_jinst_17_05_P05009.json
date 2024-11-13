@@ -12,6 +12,15 @@
       }
     },
     {
+      "attrib": {
+        "collab": true,
+        "email": "garcia@llr.in2p3.fr"
+      },
+      "name": {
+        "collab": "The LHCb collaboration"
+      }
+    },
+    {
       "affiliation": [
         {
           "affPubRaw": "Nikhef National Institute for Subatomic Physics, Amsterdam, Netherlands"

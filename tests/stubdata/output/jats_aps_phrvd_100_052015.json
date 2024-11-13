@@ -5970,6 +5970,19 @@
     "license": "Published by the American Physical Society under the terms of the Creative Commons Attribution 4.0 International license. Further distribution of this work must maintain attribution to the author(s) and the published article\u2019s title, journal citation, and DOI. Funded by SCOAP3.",
     "licenseURL": "https://creativecommons.org/licenses/by/4.0/"
   },
+  "otherContributor": [
+    {
+      "contrib": {
+        "attrib": {
+          "collab": true
+        },
+        "name": {
+          "collab": "(BESIII Collaboration)"
+        }
+      },
+      "role": "collaboration"
+    }
+  ],
   "pagination": {
     "electronicID": "052015",
     "pageCount": "7"

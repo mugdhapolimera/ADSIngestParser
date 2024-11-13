@@ -8,7 +8,16 @@
         "collab": true
       },
       "name": {
-        "collab": "The Fermi-LAT Collaboration*\u2020"
+        "collab": "The Fermi-LAT Collaboration"
+      }
+    },
+    {
+      "attrib": {
+        "collab": true,
+        "email": "matthew.kerr@gmail.com"
+      },
+      "name": {
+        "collab": "The Fermi-LAT Collaboration"
       }
     }
   ],
