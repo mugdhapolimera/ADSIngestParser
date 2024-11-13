@@ -107,7 +107,6 @@ class TestJATS(unittest.TestCase):
         for f in filenames:
             test_infile = os.path.join(self.inputdir, f + ".xml")
             test_outfile = os.path.join(self.outputdir, f + ".json")
-            print(test_infile)
             parser = jats.JATSParser()
 
             with open(test_infile, "rb") as fp:

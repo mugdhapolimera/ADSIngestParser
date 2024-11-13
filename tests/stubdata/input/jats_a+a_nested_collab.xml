@@ -2046,12 +2046,12 @@
 			<aff id="AFF1">
 				<label>1</label>
 				<addr-line>
-					<institution>Institut de Recherche en Astrophysique et Planétologie (IRAP), Université de Toulouse, CNRS, UPS, CNES</institution>, 
+					<institution>Institut de Recherche en Astrophysique et Planétologie (IRAP), Université de Toulouse, CNRS, UPS, CNES</institution>,
 
-					<named-content content-type="street">14 Av. Edouard Belin</named-content>, 
+					<named-content content-type="street">14 Av. Edouard Belin</named-content>,
 
 					<named-content content-type="postcode">31400</named-content>
-					<named-content content-type="city">Toulouse</named-content>, 
+					<named-content content-type="city">Toulouse</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2059,10 +2059,10 @@
 			<aff id="AFF2">
 				<label>2</label>
 				<addr-line>
-					<institution>Université Paris-Saclay, CNRS/IN2P3, IJCLab</institution>, 
+					<institution>Université Paris-Saclay, CNRS/IN2P3, IJCLab</institution>,
 
 					<named-content content-type="postcode">91405</named-content>
-					<named-content content-type="city">Orsay</named-content>, 
+					<named-content content-type="city">Orsay</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2070,13 +2070,13 @@
 			<aff id="AFF3">
 				<label>3</label>
 				<addr-line>
-					<institution>School of Mathematics and Physics, University of Surrey</institution>, 
+					<institution>School of Mathematics and Physics, University of Surrey</institution>,
 
-					<named-content content-type="city">Guildford</named-content>, 
+					<named-content content-type="city">Guildford</named-content>,
 
-					<named-content content-type="state">Surrey</named-content>, 
+					<named-content content-type="state">Surrey</named-content>,
 
-					<named-content content-type="postcode">GU2 7XH</named-content>, 
+					<named-content content-type="postcode">GU2 7XH</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -2084,12 +2084,12 @@
 			<aff id="AFF4">
 				<label>4</label>
 				<addr-line>
-					<institution>INAF-Osservatorio Astronomico di Brera</institution>, 
+					<institution>INAF-Osservatorio Astronomico di Brera</institution>,
 
-					<named-content content-type="street">Via Brera 28</named-content>, 
+					<named-content content-type="street">Via Brera 28</named-content>,
 
 					<named-content content-type="postcode">20122</named-content>
-					<named-content content-type="city">Milano</named-content>, 
+					<named-content content-type="city">Milano</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2097,12 +2097,12 @@
 			<aff id="AFF5">
 				<label>5</label>
 				<addr-line>
-					<institution>INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna</institution>, 
+					<institution>INAF-Osservatorio di Astrofisica e Scienza dello Spazio di Bologna</institution>,
 
-					<named-content content-type="street">Via Piero Gobetti 93/3</named-content>, 
+					<named-content content-type="street">Via Piero Gobetti 93/3</named-content>,
 
 					<named-content content-type="postcode">40129</named-content>
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2110,10 +2110,10 @@
 			<aff id="AFF6">
 				<label>6</label>
 				<addr-line>
-					<institution>Université Paris-Saclay, Université Paris Cité, CEA, CNRS, AIM</institution>, 
+					<institution>Université Paris-Saclay, Université Paris Cité, CEA, CNRS, AIM</institution>,
 
 					<named-content content-type="postcode">91191</named-content>
-					<named-content content-type="city">Gif-sur-Yvette</named-content>, 
+					<named-content content-type="city">Gif-sur-Yvette</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2121,12 +2121,12 @@
 			<aff id="AFF7">
 				<label>7</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica e Astronomia, Università di Bologna</institution>, 
+					<institution>Dipartimento di Fisica e Astronomia, Università di Bologna</institution>,
 
-					<named-content content-type="street">Via Gobetti 93/2</named-content>, 
+					<named-content content-type="street">Via Gobetti 93/2</named-content>,
 
 					<named-content content-type="postcode">40129</named-content>
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2134,12 +2134,12 @@
 			<aff id="AFF8">
 				<label>8</label>
 				<addr-line>
-					<institution>INFN-Sezione di Bologna</institution>, 
+					<institution>INFN-Sezione di Bologna</institution>,
 
-					<named-content content-type="street">Viale Berti Pichat 6/2</named-content>, 
+					<named-content content-type="street">Viale Berti Pichat 6/2</named-content>,
 
 					<named-content content-type="postcode">40127</named-content>
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2147,12 +2147,12 @@
 			<aff id="AFF9">
 				<label>9</label>
 				<addr-line>
-					<institution>Max Planck Institute for Extraterrestrial Physics</institution>, 
+					<institution>Max Planck Institute for Extraterrestrial Physics</institution>,
 
-					<named-content content-type="street">Giessenbachstr. 1</named-content>, 
+					<named-content content-type="street">Giessenbachstr. 1</named-content>,
 
 					<named-content content-type="postcode">85748</named-content>
-					<named-content content-type="city">Garching</named-content>, 
+					<named-content content-type="city">Garching</named-content>,
 
 					<country>Germany</country>
 				</addr-line>
@@ -2160,12 +2160,12 @@
 			<aff id="AFF10">
 				<label>10</label>
 				<addr-line>
-					<institution>INAF-Osservatorio Astrofisico di Torino</institution>, 
+					<institution>INAF-Osservatorio Astrofisico di Torino</institution>,
 
-					<named-content content-type="street">Via Osservatorio 20</named-content>, 
+					<named-content content-type="street">Via Osservatorio 20</named-content>,
 
 					<named-content content-type="postcode">10025</named-content>
-					<named-content content-type="city">Pino Torinese (TO)</named-content>, 
+					<named-content content-type="city">Pino Torinese (TO)</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2173,13 +2173,13 @@
 			<aff id="AFF11">
 				<label>11</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica, Università di Genova</institution>, 
+					<institution>Dipartimento di Fisica, Università di Genova</institution>,
 
-					<named-content content-type="street">Via Dodecaneso 33</named-content>, 
+					<named-content content-type="street">Via Dodecaneso 33</named-content>,
 
-					<named-content content-type="postcode">16146</named-content>, 
+					<named-content content-type="postcode">16146</named-content>,
 
-					<named-content content-type="city">Genova</named-content>, 
+					<named-content content-type="city">Genova</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2187,12 +2187,12 @@
 			<aff id="AFF12">
 				<label>12</label>
 				<addr-line>
-					<institution>INFN-Sezione di Genova</institution>, 
+					<institution>INFN-Sezione di Genova</institution>,
 
-					<named-content content-type="street">Via Dodecaneso 33</named-content>, 
+					<named-content content-type="street">Via Dodecaneso 33</named-content>,
 
 					<named-content content-type="postcode">16146</named-content>
-					<named-content content-type="city">Genova</named-content>, 
+					<named-content content-type="city">Genova</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2200,12 +2200,12 @@
 			<aff id="AFF13">
 				<label>13</label>
 				<addr-line>
-					<institution>Department of Physics “E. Pancini”, University Federico II</institution>, 
+					<institution>Department of Physics “E. Pancini”, University Federico II</institution>,
 
-					<named-content content-type="street">Via Cinthia 6</named-content>, 
+					<named-content content-type="street">Via Cinthia 6</named-content>,
 
 					<named-content content-type="postcode">80126</named-content>
-					<named-content content-type="city">Napoli</named-content>, 
+					<named-content content-type="city">Napoli</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2213,12 +2213,12 @@
 			<aff id="AFF14">
 				<label>14</label>
 				<addr-line>
-					<institution>INAF-Osservatorio Astronomico di Capodimonte</institution>, 
+					<institution>INAF-Osservatorio Astronomico di Capodimonte</institution>,
 
-					<named-content content-type="street">Via Moiariello 16</named-content>, 
+					<named-content content-type="street">Via Moiariello 16</named-content>,
 
 					<named-content content-type="postcode">80131</named-content>
-					<named-content content-type="city">Napoli</named-content>, 
+					<named-content content-type="city">Napoli</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2226,12 +2226,12 @@
 			<aff id="AFF15">
 				<label>15</label>
 				<addr-line>
-					<institution>INFN section of Naples</institution>, 
+					<institution>INFN section of Naples</institution>,
 
-					<named-content content-type="street">Via Cinthia 6</named-content>, 
+					<named-content content-type="street">Via Cinthia 6</named-content>,
 
 					<named-content content-type="postcode">80126</named-content>
-					<named-content content-type="city">Napoli</named-content>, 
+					<named-content content-type="city">Napoli</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2239,12 +2239,12 @@
 			<aff id="AFF16">
 				<label>16</label>
 				<addr-line>
-					<institution>Instituto de Astrofísica e Ciências do Espaço, Universidade do Porto, CAUP</institution>, 
+					<institution>Instituto de Astrofísica e Ciências do Espaço, Universidade do Porto, CAUP</institution>,
 
-					<named-content content-type="street">Rua das Estrelas</named-content>, 
+					<named-content content-type="street">Rua das Estrelas</named-content>,
 
 					<named-content content-type="postcode">PT4150-762</named-content>
-					<named-content content-type="city">Porto</named-content>, 
+					<named-content content-type="city">Porto</named-content>,
 
 					<country>Portugal</country>
 				</addr-line>
@@ -2252,12 +2252,12 @@
 			<aff id="AFF17">
 				<label>17</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica, Università degli Studi di Torino</institution>, 
+					<institution>Dipartimento di Fisica, Università degli Studi di Torino</institution>,
 
-					<named-content content-type="street">Via P. Giuria 1</named-content>, 
+					<named-content content-type="street">Via P. Giuria 1</named-content>,
 
 					<named-content content-type="postcode">10125</named-content>
-					<named-content content-type="city">Torino</named-content>, 
+					<named-content content-type="city">Torino</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2265,12 +2265,12 @@
 			<aff id="AFF18">
 				<label>18</label>
 				<addr-line>
-					<institution>INFN-Sezione di Torino</institution>, 
+					<institution>INFN-Sezione di Torino</institution>,
 
-					<named-content content-type="street">Via P. Giuria 1</named-content>, 
+					<named-content content-type="street">Via P. Giuria 1</named-content>,
 
 					<named-content content-type="postcode">10125</named-content>
-					<named-content content-type="city">Torino</named-content>, 
+					<named-content content-type="city">Torino</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2278,12 +2278,12 @@
 			<aff id="AFF19">
 				<label>19</label>
 				<addr-line>
-					<institution>Institut de Física d’Altes Energies (IFAE), The Barcelona Institute of Science and Technology</institution>, 
+					<institution>Institut de Física d’Altes Energies (IFAE), The Barcelona Institute of Science and Technology</institution>,
 
-					<named-content content-type="street">Campus UAB</named-content>, 
+					<named-content content-type="street">Campus UAB</named-content>,
 
 					<named-content content-type="postcode">08193</named-content>
-					<named-content content-type="city">Bellaterra (Barcelona)</named-content>, 
+					<named-content content-type="city">Bellaterra (Barcelona)</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -2291,12 +2291,12 @@
 			<aff id="AFF20">
 				<label>20</label>
 				<addr-line>
-					<institution>Port d’Informació Científica</institution>, 
+					<institution>Port d’Informació Científica</institution>,
 
-					<named-content content-type="street">Campus UAB, C. Albareda s/n</named-content>, 
+					<named-content content-type="street">Campus UAB, C. Albareda s/n</named-content>,
 
 					<named-content content-type="postcode">08193</named-content>
-					<named-content content-type="city">Bellaterra (Barcelona)</named-content>, 
+					<named-content content-type="city">Bellaterra (Barcelona)</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -2304,10 +2304,10 @@
 			<aff id="AFF21">
 				<label>21</label>
 				<addr-line>
-					<institution>Institute for Theoretical Particle Physics and Cosmology (TTK), RWTH Aachen University</institution>, 
+					<institution>Institute for Theoretical Particle Physics and Cosmology (TTK), RWTH Aachen University</institution>,
 
 					<named-content content-type="postcode">52056</named-content>
-					<named-content content-type="city">Aachen</named-content>, 
+					<named-content content-type="city">Aachen</named-content>,
 
 					<country>Germany</country>
 				</addr-line>
@@ -2315,12 +2315,12 @@
 			<aff id="AFF22">
 				<label>22</label>
 				<addr-line>
-					<institution>INAF-Osservatorio Astronomico di Roma</institution>, 
+					<institution>INAF-Osservatorio Astronomico di Roma</institution>,
 
-					<named-content content-type="street">Via Frascati 33</named-content>, 
+					<named-content content-type="street">Via Frascati 33</named-content>,
 
 					<named-content content-type="postcode">00078</named-content>
-					<named-content content-type="city">Monteporzio Catone</named-content>, 
+					<named-content content-type="city">Monteporzio Catone</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2328,12 +2328,12 @@
 			<aff id="AFF23">
 				<label>23</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica e Astronomia “Augusto Righi” - Alma Mater Studiorum Università di Bologna</institution>, 
+					<institution>Dipartimento di Fisica e Astronomia “Augusto Righi” - Alma Mater Studiorum Università di Bologna</institution>,
 
-					<named-content content-type="street">Viale Berti Pichat 6/2</named-content>, 
+					<named-content content-type="street">Viale Berti Pichat 6/2</named-content>,
 
 					<named-content content-type="postcode">40127</named-content>
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2341,12 +2341,12 @@
 			<aff id="AFF24">
 				<label>24</label>
 				<addr-line>
-					<institution>Institute for Astronomy, University of Edinburgh</institution>, 
+					<institution>Institute for Astronomy, University of Edinburgh</institution>,
 
-					<named-content content-type="street">Royal Observatory, Blackford Hill</named-content>, 
+					<named-content content-type="street">Royal Observatory, Blackford Hill</named-content>,
 
 					<named-content content-type="city">Edinburgh</named-content>
-					<named-content content-type="postcode">EH9 3HJ</named-content>, 
+					<named-content content-type="postcode">EH9 3HJ</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -2354,12 +2354,12 @@
 			<aff id="AFF25">
 				<label>25</label>
 				<addr-line>
-					<institution>Jodrell Bank Centre for Astrophysics, Department of Physics and Astronomy, University of Manchester</institution>, 
+					<institution>Jodrell Bank Centre for Astrophysics, Department of Physics and Astronomy, University of Manchester</institution>,
 
-					<named-content content-type="street">Oxford Road</named-content>, 
+					<named-content content-type="street">Oxford Road</named-content>,
 
 					<named-content content-type="city">Manchester</named-content>
-					<named-content content-type="postcode">M13 9PL</named-content>, 
+					<named-content content-type="postcode">M13 9PL</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -2367,12 +2367,12 @@
 			<aff id="AFF26">
 				<label>26</label>
 				<addr-line>
-					<institution>European Space Agency/ESRIN</institution>, 
+					<institution>European Space Agency/ESRIN</institution>,
 
-					<named-content content-type="street">Largo Galileo Galilei 1</named-content>, 
+					<named-content content-type="street">Largo Galileo Galilei 1</named-content>,
 
 					<named-content content-type="postcode">00044</named-content>
-					<named-content content-type="city">Frascati, Roma</named-content>, 
+					<named-content content-type="city">Frascati, Roma</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2380,14 +2380,14 @@
 			<aff id="AFF27">
 				<label>27</label>
 				<addr-line>
-					<institution>ESAC/ESA, Camino Bajo del Castillo</institution>, 
+					<institution>ESAC/ESA, Camino Bajo del Castillo</institution>,
 
-					<named-content content-type="street">s/n., Urb. Villafranca del Castillo</named-content>, 
+					<named-content content-type="street">s/n., Urb. Villafranca del Castillo</named-content>,
 
 					<named-content content-type="postcode">28692</named-content>
-					<named-content content-type="street">Villanueva de la Cañada</named-content>, 
+					<named-content content-type="street">Villanueva de la Cañada</named-content>,
 
-					<named-content content-type="city">Madrid</named-content>, 
+					<named-content content-type="city">Madrid</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -2395,12 +2395,12 @@
 			<aff id="AFF28">
 				<label>28</label>
 				<addr-line>
-					<institution>Université Claude Bernard Lyon 1</institution>, 
+					<institution>Université Claude Bernard Lyon 1</institution>,
 
-					<named-content content-type="street">CNRS/IN2P3, IP2I Lyon, UMR 5822</named-content>, 
+					<named-content content-type="street">CNRS/IN2P3, IP2I Lyon, UMR 5822</named-content>,
 
 					<named-content content-type="postcode">69100</named-content>
-					<named-content content-type="city">Villeurbanne</named-content>, 
+					<named-content content-type="city">Villeurbanne</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2408,12 +2408,12 @@
 			<aff id="AFF29">
 				<label>29</label>
 				<addr-line>
-					<institution>Institute of Physics, Laboratory of Astrophysics, Ecole Polytechnique Fédérale de Lausanne (EPFL)</institution>, 
+					<institution>Institute of Physics, Laboratory of Astrophysics, Ecole Polytechnique Fédérale de Lausanne (EPFL)</institution>,
 
-					<named-content content-type="street">Observatoire de Sauverny</named-content>, 
+					<named-content content-type="street">Observatoire de Sauverny</named-content>,
 
 					<named-content content-type="postcode">1290</named-content>
-					<named-content content-type="city">Versoix</named-content>, 
+					<named-content content-type="city">Versoix</named-content>,
 
 					<country>Switzerland</country>
 				</addr-line>
@@ -2421,12 +2421,12 @@
 			<aff id="AFF30">
 				<label>30</label>
 				<addr-line>
-					<institution>UCB Lyon 1</institution>, 
+					<institution>UCB Lyon 1</institution>,
 
-					<named-content content-type="street">CNRS/IN2P3, IUF, IP2I Lyon, 4 rue Enrico Fermi</named-content>, 
+					<named-content content-type="street">CNRS/IN2P3, IUF, IP2I Lyon, 4 rue Enrico Fermi</named-content>,
 
 					<named-content content-type="postcode">69622</named-content>
-					<named-content content-type="city">Villeurbanne</named-content>, 
+					<named-content content-type="city">Villeurbanne</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2434,12 +2434,12 @@
 			<aff id="AFF31">
 				<label>31</label>
 				<addr-line>
-					<institution>Departamento de Física, Faculdade de Ciências, Universidade de Lisboa</institution>, 
+					<institution>Departamento de Física, Faculdade de Ciências, Universidade de Lisboa</institution>,
 
-					<named-content content-type="street">Edifício C8, Campo Grande</named-content>, 
+					<named-content content-type="street">Edifício C8, Campo Grande</named-content>,
 
 					<named-content content-type="postcode">PT1749-016</named-content>
-					<named-content content-type="city">Lisboa</named-content>, 
+					<named-content content-type="city">Lisboa</named-content>,
 
 					<country>Portugal</country>
 				</addr-line>
@@ -2447,12 +2447,12 @@
 			<aff id="AFF32">
 				<label>32</label>
 				<addr-line>
-					<institution>Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciên- cias, Universidade de Lisboa</institution>, 
+					<institution>Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciên- cias, Universidade de Lisboa</institution>,
 
-					<named-content content-type="street">Campo Grande</named-content>, 
+					<named-content content-type="street">Campo Grande</named-content>,
 
 					<named-content content-type="postcode">1749-016</named-content>
-					<named-content content-type="city">Lisboa</named-content>, 
+					<named-content content-type="city">Lisboa</named-content>,
 
 					<country>Portugal</country>
 				</addr-line>
@@ -2460,12 +2460,12 @@
 			<aff id="AFF33">
 				<label>33</label>
 				<addr-line>
-					<institution>Department of Astronomy, University of Geneva</institution>, 
+					<institution>Department of Astronomy, University of Geneva</institution>,
 
-					<named-content content-type="street">ch. d’Ecogia 16</named-content>, 
+					<named-content content-type="street">ch. d’Ecogia 16</named-content>,
 
 					<named-content content-type="postcode">1290</named-content>
-					<named-content content-type="city">Versoix</named-content>, 
+					<named-content content-type="city">Versoix</named-content>,
 
 					<country>Switzerland</country>
 				</addr-line>
@@ -2473,12 +2473,12 @@
 			<aff id="AFF34">
 				<label>34</label>
 				<addr-line>
-					<institution>INAF-Istituto di Astrofisica e Planetologia Spaziali</institution>, 
+					<institution>INAF-Istituto di Astrofisica e Planetologia Spaziali</institution>,
 
-					<named-content content-type="street">via del Fosso del Cavaliere, 100</named-content>, 
+					<named-content content-type="street">via del Fosso del Cavaliere, 100</named-content>,
 
 					<named-content content-type="postcode">00100</named-content>
-					<named-content content-type="city">Roma</named-content>, 
+					<named-content content-type="city">Roma</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2486,10 +2486,10 @@
 			<aff id="AFF35">
 				<label>35</label>
 				<addr-line>
-					<institution>Université Paris-Saclay, CNRS, Institut d’astrophysique spatiale</institution>, 
+					<institution>Université Paris-Saclay, CNRS, Institut d’astrophysique spatiale</institution>,
 
 					<named-content content-type="postcode">91405</named-content>
-					<named-content content-type="city">Orsay</named-content>, 
+					<named-content content-type="city">Orsay</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2497,12 +2497,12 @@
 			<aff id="AFF36">
 				<label>36</label>
 				<addr-line>
-					<institution>INFN-Padova</institution>, 
+					<institution>INFN-Padova</institution>,
 
-					<named-content content-type="street">Via Marzolo 8</named-content>, 
+					<named-content content-type="street">Via Marzolo 8</named-content>,
 
 					<named-content content-type="postcode">35131</named-content>
-					<named-content content-type="city">Padova</named-content>, 
+					<named-content content-type="city">Padova</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2510,12 +2510,12 @@
 			<aff id="AFF37">
 				<label>37</label>
 				<addr-line>
-					<institution>INAF-Osservatorio Astronomico di Trieste</institution>, 
+					<institution>INAF-Osservatorio Astronomico di Trieste</institution>,
 
-					<named-content content-type="street">Via G. B. Tiepolo 11</named-content>, 
+					<named-content content-type="street">Via G. B. Tiepolo 11</named-content>,
 
 					<named-content content-type="postcode">34143</named-content>
-					<named-content content-type="city">Trieste</named-content>, 
+					<named-content content-type="city">Trieste</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2523,9 +2523,9 @@
 			<aff id="AFF38">
 				<label>38</label>
 				<addr-line>
-					<institution>Aix-Marseille Université, CNRS/IN2P3, CPPM</institution>, 
+					<institution>Aix-Marseille Université, CNRS/IN2P3, CPPM</institution>,
 
-					<named-content content-type="city">Marseille</named-content>, 
+					<named-content content-type="city">Marseille</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2533,12 +2533,12 @@
 			<aff id="AFF39">
 				<label>39</label>
 				<addr-line>
-					<institution>Istituto Nazionale di Fisica Nucleare</institution>, 
+					<institution>Istituto Nazionale di Fisica Nucleare</institution>,
 
-					<named-content content-type="street">Sezione di Bologna, Via Irnerio 46</named-content>, 
+					<named-content content-type="street">Sezione di Bologna, Via Irnerio 46</named-content>,
 
 					<named-content content-type="postcode">40126</named-content>
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2546,12 +2546,12 @@
 			<aff id="AFF40">
 				<label>40</label>
 				<addr-line>
-					<institution>INAF-Osservatorio Astronomico di Padova</institution>, 
+					<institution>INAF-Osservatorio Astronomico di Padova</institution>,
 
-					<named-content content-type="street">Via dell’Osservatorio 5</named-content>, 
+					<named-content content-type="street">Via dell’Osservatorio 5</named-content>,
 
 					<named-content content-type="postcode">35122</named-content>
-					<named-content content-type="city">Padova</named-content>, 
+					<named-content content-type="city">Padova</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2559,12 +2559,12 @@
 			<aff id="AFF41">
 				<label>41</label>
 				<addr-line>
-					<institution>Universitäts-Sternwarte München, Fakultät für Physik, Ludwig-Maximilians-Universität München</institution>, 
+					<institution>Universitäts-Sternwarte München, Fakultät für Physik, Ludwig-Maximilians-Universität München</institution>,
 
-					<named-content content-type="street">Scheinerstrasse 1</named-content>, 
+					<named-content content-type="street">Scheinerstrasse 1</named-content>,
 
 					<named-content content-type="postcode">81679</named-content>
-					<named-content content-type="city">München</named-content>, 
+					<named-content content-type="city">München</named-content>,
 
 					<country>Germany</country>
 				</addr-line>
@@ -2572,13 +2572,13 @@
 			<aff id="AFF42">
 				<label>42</label>
 				<addr-line>
-					<institution>Institute of Theoretical Astrophysics, University of Oslo</institution>, 
+					<institution>Institute of Theoretical Astrophysics, University of Oslo</institution>,
 
 					<named-content content-type="postbox">PO Box 1029</named-content>
-					<named-content content-type="street">Blindern</named-content>, 
+					<named-content content-type="street">Blindern</named-content>,
 
 					<named-content content-type="postcode">0315</named-content>
-					<named-content content-type="city">Oslo</named-content>, 
+					<named-content content-type="city">Oslo</named-content>,
 
 					<country>Norway</country>
 				</addr-line>
@@ -2586,15 +2586,15 @@
 			<aff id="AFF43">
 				<label>43</label>
 				<addr-line>
-					<institution>Jet Propulsion Laboratory, California Institute of Technology</institution>, 
+					<institution>Jet Propulsion Laboratory, California Institute of Technology</institution>,
 
-					<named-content content-type="street">4800 Oak Grove Drive</named-content>, 
+					<named-content content-type="street">4800 Oak Grove Drive</named-content>,
 
-					<named-content content-type="city">Pasadena</named-content>, 
+					<named-content content-type="city">Pasadena</named-content>,
 
-					<named-content content-type="state">CA</named-content>, 
+					<named-content content-type="state">CA</named-content>,
 
-					<named-content content-type="postcode">91109</named-content>, 
+					<named-content content-type="postcode">91109</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -2602,11 +2602,11 @@
 			<aff id="AFF44">
 				<label>44</label>
 				<addr-line>
-					<institution>Department of Physics, Lancaster University</institution>, 
+					<institution>Department of Physics, Lancaster University</institution>,
 
-					<named-content content-type="city">Lancaster</named-content>, 
+					<named-content content-type="city">Lancaster</named-content>,
 
-					<named-content content-type="postcode">LA1 4YB</named-content>, 
+					<named-content content-type="postcode">LA1 4YB</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -2614,12 +2614,12 @@
 			<aff id="AFF45">
 				<label>45</label>
 				<addr-line>
-					<institution>Felix Hormuth Engineering</institution>, 
+					<institution>Felix Hormuth Engineering</institution>,
 
-					<named-content content-type="street">Goethestr. 17</named-content>, 
+					<named-content content-type="street">Goethestr. 17</named-content>,
 
 					<named-content content-type="postcode">69181</named-content>
-					<named-content content-type="city">Leimen</named-content>, 
+					<named-content content-type="city">Leimen</named-content>,
 
 					<country>Germany</country>
 				</addr-line>
@@ -2627,10 +2627,10 @@
 			<aff id="AFF46">
 				<label>46</label>
 				<addr-line>
-					<institution>Technical University of Denmark</institution>, 
+					<institution>Technical University of Denmark</institution>,
 
 					<named-content content-type="street">Elektrovej 327, 2800 Kgs.</named-content>
-					<named-content content-type="city">Lyngby</named-content>, 
+					<named-content content-type="city">Lyngby</named-content>,
 
 					<country>Denmark</country>
 				</addr-line>
@@ -2638,7 +2638,7 @@
 			<aff id="AFF47">
 				<label>47</label>
 				<addr-line>
-					<institution>Cosmic Dawn Center (DAWN)</institution>, 
+					<institution>Cosmic Dawn Center (DAWN)</institution>,
 
 					<country>Denmark</country>
 				</addr-line>
@@ -2646,12 +2646,12 @@
 			<aff id="AFF48">
 				<label>48</label>
 				<addr-line>
-					<institution>Institut d’Astrophysique de Paris</institution>, 
+					<institution>Institut d’Astrophysique de Paris</institution>,
 
-					<named-content content-type="street">UMR 7095, CNRS, and Sorbonne Université, 98 bis boulevard Arago</named-content>, 
+					<named-content content-type="street">UMR 7095, CNRS, and Sorbonne Université, 98 bis boulevard Arago</named-content>,
 
 					<named-content content-type="postcode">75014</named-content>
-					<named-content content-type="city">Paris</named-content>, 
+					<named-content content-type="city">Paris</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2659,12 +2659,12 @@
 			<aff id="AFF49">
 				<label>49</label>
 				<addr-line>
-					<institution>Max-Planck-Institut für Astronomie</institution>, 
+					<institution>Max-Planck-Institut für Astronomie</institution>,
 
-					<named-content content-type="street">Königstuhl 17</named-content>, 
+					<named-content content-type="street">Königstuhl 17</named-content>,
 
 					<named-content content-type="postcode">69117</named-content>
-					<named-content content-type="city">Heidelberg</named-content>, 
+					<named-content content-type="city">Heidelberg</named-content>,
 
 					<country>Germany</country>
 				</addr-line>
@@ -2672,9 +2672,9 @@
 			<aff id="AFF50">
 				<label>50</label>
 				<addr-line>
-					<institution>Department of Physics and Helsinki Institute of Physics</institution>, 
+					<institution>Department of Physics and Helsinki Institute of Physics</institution>,
 
-					<named-content content-type="street">Gustaf Hällströmin katu 2, 00014 University of Helsinki</named-content>, 
+					<named-content content-type="street">Gustaf Hällströmin katu 2, 00014 University of Helsinki</named-content>,
 
 					<country>Finland</country>
 				</addr-line>
@@ -2682,10 +2682,10 @@
 			<aff id="AFF51">
 				<label>51</label>
 				<addr-line>
-					<institution>AIM, CEA, CNRS, Université Paris-Saclay, Université de Paris</institution>, 
+					<institution>AIM, CEA, CNRS, Université Paris-Saclay, Université de Paris</institution>,
 
 					<named-content content-type="postcode">91191</named-content>
-					<named-content content-type="city">Gif-sur-Yvette</named-content>, 
+					<named-content content-type="city">Gif-sur-Yvette</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2693,12 +2693,12 @@
 			<aff id="AFF52">
 				<label>52</label>
 				<addr-line>
-					<institution>Université de Genève, Département de Physique Théorique and Centre for Astroparticle Physics</institution>, 
+					<institution>Université de Genève, Département de Physique Théorique and Centre for Astroparticle Physics</institution>,
 
-					<named-content content-type="street">24 quai Ernest-Ansermet</named-content>, 
+					<named-content content-type="street">24 quai Ernest-Ansermet</named-content>,
 
 					<named-content content-type="postcode">1211</named-content>
-					<named-content content-type="city">Genève 4</named-content>, 
+					<named-content content-type="city">Genève 4</named-content>,
 
 					<country>Switzerland</country>
 				</addr-line>
@@ -2706,12 +2706,12 @@
 			<aff id="AFF53">
 				<label>53</label>
 				<addr-line>
-					<institution>Department of Physics</institution>, 
+					<institution>Department of Physics</institution>,
 
-					<named-content content-type="postbox">P.O. Box 64</named-content>, 
+					<named-content content-type="postbox">P.O. Box 64</named-content>,
 
 					<named-content content-type="postcode">00014</named-content>
-					<named-content content-type="street">University of Helsinki</named-content>, 
+					<named-content content-type="street">University of Helsinki</named-content>,
 
 					<country>Finland</country>
 				</addr-line>
@@ -2719,11 +2719,11 @@
 			<aff id="AFF54">
 				<label>54</label>
 				<addr-line>
-					<institution>Helsinki Institute of Physics</institution>, 
+					<institution>Helsinki Institute of Physics</institution>,
 
-					<named-content content-type="street">Gustaf Hällströmin katu 2, University of Helsinki</named-content>, 
+					<named-content content-type="street">Gustaf Hällströmin katu 2, University of Helsinki</named-content>,
 
-					<named-content content-type="city">Helsinki</named-content>, 
+					<named-content content-type="city">Helsinki</named-content>,
 
 					<country>Finland</country>
 				</addr-line>
@@ -2731,12 +2731,12 @@
 			<aff id="AFF55">
 				<label>55</label>
 				<addr-line>
-					<institution>NOVA optical infrared instrumentation group at ASTRON</institution>, 
+					<institution>NOVA optical infrared instrumentation group at ASTRON</institution>,
 
-					<named-content content-type="street">Oude Hoogeveensedijk 4</named-content>, 
+					<named-content content-type="street">Oude Hoogeveensedijk 4</named-content>,
 
 					<named-content content-type="postcode">7991PD</named-content>
-					<named-content content-type="city">Dwingeloo</named-content>, 
+					<named-content content-type="city">Dwingeloo</named-content>,
 
 					<country>The Netherlands</country>
 				</addr-line>
@@ -2744,12 +2744,12 @@
 			<aff id="AFF56">
 				<label>56</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica “Aldo Pontremoli”, Università degli Studi di Milano</institution>, 
+					<institution>Dipartimento di Fisica “Aldo Pontremoli”, Università degli Studi di Milano</institution>,
 
-					<named-content content-type="street">Via Celoria 16</named-content>, 
+					<named-content content-type="street">Via Celoria 16</named-content>,
 
 					<named-content content-type="postcode">20133</named-content>
-					<named-content content-type="city">Milano</named-content>, 
+					<named-content content-type="city">Milano</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2757,12 +2757,12 @@
 			<aff id="AFF57">
 				<label>57</label>
 				<addr-line>
-					<institution>INAF-IASF Milano</institution>, 
+					<institution>INAF-IASF Milano</institution>,
 
-					<named-content content-type="street">Via Alfonso Corti 12</named-content>, 
+					<named-content content-type="street">Via Alfonso Corti 12</named-content>,
 
 					<named-content content-type="postcode">20133</named-content>
-					<named-content content-type="city">Milano</named-content>, 
+					<named-content content-type="city">Milano</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2770,12 +2770,12 @@
 			<aff id="AFF58">
 				<label>58</label>
 				<addr-line>
-					<institution>INFN-Sezione di Milano</institution>, 
+					<institution>INFN-Sezione di Milano</institution>,
 
-					<named-content content-type="street">Via Celoria 16</named-content>, 
+					<named-content content-type="street">Via Celoria 16</named-content>,
 
 					<named-content content-type="postcode">20133</named-content>
-					<named-content content-type="city">Milano</named-content>, 
+					<named-content content-type="city">Milano</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2783,12 +2783,12 @@
 			<aff id="AFF59">
 				<label>59</label>
 				<addr-line>
-					<institution>Universität Bonn, Argelander-Institut für Astronomie</institution>, 
+					<institution>Universität Bonn, Argelander-Institut für Astronomie</institution>,
 
-					<named-content content-type="street">Auf dem Hügel 71</named-content>, 
+					<named-content content-type="street">Auf dem Hügel 71</named-content>,
 
 					<named-content content-type="postcode">53121</named-content>
-					<named-content content-type="city">Bonn</named-content>, 
+					<named-content content-type="city">Bonn</named-content>,
 
 					<country>Germany</country>
 				</addr-line>
@@ -2796,9 +2796,9 @@
 			<aff id="AFF60">
 				<label>60</label>
 				<addr-line>
-					<institution>Aix-Marseille Université, CNRS, CNES, LAM</institution>, 
+					<institution>Aix-Marseille Université, CNRS, CNES, LAM</institution>,
 
-					<named-content content-type="city">Marseille</named-content>, 
+					<named-content content-type="city">Marseille</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2806,12 +2806,12 @@
 			<aff id="AFF61">
 				<label>61</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica e Astronomia “Augusto Righi” - Alma Mater Studiorum Università di Bologna</institution>, 
+					<institution>Dipartimento di Fisica e Astronomia “Augusto Righi” - Alma Mater Studiorum Università di Bologna</institution>,
 
-					<named-content content-type="street">via Piero Gobetti 93/2</named-content>, 
+					<named-content content-type="street">via Piero Gobetti 93/2</named-content>,
 
 					<named-content content-type="postcode">40129</named-content>
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2819,11 +2819,11 @@
 			<aff id="AFF62">
 				<label>62</label>
 				<addr-line>
-					<institution>Department of Physics, Centre for Extragalactic Astronomy, Durham University</institution>, 
+					<institution>Department of Physics, Centre for Extragalactic Astronomy, Durham University</institution>,
 
-					<named-content content-type="street">South Road</named-content>, 
+					<named-content content-type="street">South Road</named-content>,
 
-					<named-content content-type="postcode">DH1 3LE</named-content>, 
+					<named-content content-type="postcode">DH1 3LE</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -2831,12 +2831,12 @@
 			<aff id="AFF63">
 				<label>63</label>
 				<addr-line>
-					<institution>Université Côte d’Azur, Observatoire de la Côte d’Azur, CNRS, Laboratoire Lagrange</institution>, 
+					<institution>Université Côte d’Azur, Observatoire de la Côte d’Azur, CNRS, Laboratoire Lagrange</institution>,
 
-					<named-content content-type="street">Bd de l’Observatoire, CS 34229</named-content>, 
+					<named-content content-type="street">Bd de l’Observatoire, CS 34229</named-content>,
 
 					<named-content content-type="postcode">06304</named-content>
-					<named-content content-type="city">Nice cedex 4</named-content>, 
+					<named-content content-type="city">Nice cedex 4</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2844,12 +2844,12 @@
 			<aff id="AFF64">
 				<label>64</label>
 				<addr-line>
-					<institution>Université Paris Cité, CNRS</institution>, 
+					<institution>Université Paris Cité, CNRS</institution>,
 
-					<named-content content-type="street">Astroparticule et Cosmologie</named-content>, 
+					<named-content content-type="street">Astroparticule et Cosmologie</named-content>,
 
 					<named-content content-type="postcode">75013</named-content>
-					<named-content content-type="city">Paris</named-content>, 
+					<named-content content-type="city">Paris</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2857,12 +2857,12 @@
 			<aff id="AFF65">
 				<label>65</label>
 				<addr-line>
-					<institution>Institut d’Astrophysique de Paris</institution>, 
+					<institution>Institut d’Astrophysique de Paris</institution>,
 
-					<named-content content-type="street">98bis Boulevard Arago</named-content>, 
+					<named-content content-type="street">98bis Boulevard Arago</named-content>,
 
 					<named-content content-type="postcode">75014</named-content>
-					<named-content content-type="city">Paris</named-content>, 
+					<named-content content-type="city">Paris</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2870,12 +2870,12 @@
 			<aff id="AFF66">
 				<label>66</label>
 				<addr-line>
-					<institution>European Space Agency/ESTEC</institution>, 
+					<institution>European Space Agency/ESTEC</institution>,
 
-					<named-content content-type="street">Keplerlaan 1</named-content>, 
+					<named-content content-type="street">Keplerlaan 1</named-content>,
 
 					<named-content content-type="postcode">2201 AZ</named-content>
-					<named-content content-type="city">Noordwijk</named-content>, 
+					<named-content content-type="city">Noordwijk</named-content>,
 
 					<country>The Netherlands</country>
 				</addr-line>
@@ -2883,13 +2883,13 @@
 			<aff id="AFF67">
 				<label>67</label>
 				<addr-line>
-					<institution>School of Mathematics, Statistics and Physics, Newcastle University</institution>, 
+					<institution>School of Mathematics, Statistics and Physics, Newcastle University</institution>,
 
-					<named-content content-type="street">Herschel Building</named-content>, 
+					<named-content content-type="street">Herschel Building</named-content>,
 
-					<named-content content-type="city">Newcastle-upon-Tyne</named-content>, 
+					<named-content content-type="city">Newcastle-upon-Tyne</named-content>,
 
-					<named-content content-type="postcode">NE1 7RU</named-content>, 
+					<named-content content-type="postcode">NE1 7RU</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -2897,11 +2897,11 @@
 			<aff id="AFF68">
 				<label>68</label>
 				<addr-line>
-					<institution>Department of Physics, Institute for Computational Cosmology, Durham University</institution>, 
+					<institution>Department of Physics, Institute for Computational Cosmology, Durham University</institution>,
 
-					<named-content content-type="street">South Road</named-content>, 
+					<named-content content-type="street">South Road</named-content>,
 
-					<named-content content-type="postcode">DH1 3LE</named-content>, 
+					<named-content content-type="postcode">DH1 3LE</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -2909,12 +2909,12 @@
 			<aff id="AFF69">
 				<label>69</label>
 				<addr-line>
-					<institution>Department of Physics and Astronomy, University of Aarhus</institution>, 
+					<institution>Department of Physics and Astronomy, University of Aarhus</institution>,
 
-					<named-content content-type="street">Ny Munkegade 120</named-content>, 
+					<named-content content-type="street">Ny Munkegade 120</named-content>,
 
 					<named-content content-type="postcode">8000</named-content>
-					<named-content content-type="city">Aarhus C</named-content>, 
+					<named-content content-type="city">Aarhus C</named-content>,
 
 					<country>Denmark</country>
 				</addr-line>
@@ -2922,12 +2922,12 @@
 			<aff id="AFF70">
 				<label>70</label>
 				<addr-line>
-					<institution>Waterloo Centre for Astrophysics, University of Waterloo</institution>, 
+					<institution>Waterloo Centre for Astrophysics, University of Waterloo</institution>,
 
-					<named-content content-type="city">Waterloo</named-content>, 
+					<named-content content-type="city">Waterloo</named-content>,
 
 					<named-content content-type="state">Ontario</named-content>
-					<named-content content-type="postcode">N2L 3G1</named-content>, 
+					<named-content content-type="postcode">N2L 3G1</named-content>,
 
 					<country>Canada</country>
 				</addr-line>
@@ -2935,12 +2935,12 @@
 			<aff id="AFF71">
 				<label>71</label>
 				<addr-line>
-					<institution>Department of Physics and Astronomy, University of Waterloo</institution>, 
+					<institution>Department of Physics and Astronomy, University of Waterloo</institution>,
 
-					<named-content content-type="city">Waterloo</named-content>, 
+					<named-content content-type="city">Waterloo</named-content>,
 
 					<named-content content-type="state">Ontario</named-content>
-					<named-content content-type="postcode">N2L 3G1</named-content>, 
+					<named-content content-type="postcode">N2L 3G1</named-content>,
 
 					<country>Canada</country>
 				</addr-line>
@@ -2948,12 +2948,12 @@
 			<aff id="AFF72">
 				<label>72</label>
 				<addr-line>
-					<institution>Perimeter Institute for Theoretical Physics</institution>, 
+					<institution>Perimeter Institute for Theoretical Physics</institution>,
 
-					<named-content content-type="city">Waterloo</named-content>, 
+					<named-content content-type="city">Waterloo</named-content>,
 
 					<named-content content-type="state">Ontario</named-content>
-					<named-content content-type="postcode">N2L 2Y5</named-content>, 
+					<named-content content-type="postcode">N2L 2Y5</named-content>,
 
 					<country>Canada</country>
 				</addr-line>
@@ -2961,12 +2961,12 @@
 			<aff id="AFF73">
 				<label>73</label>
 				<addr-line>
-					<institution>Space Science Data Center, Italian Space Agency</institution>, 
+					<institution>Space Science Data Center, Italian Space Agency</institution>,
 
-					<named-content content-type="street">via del Politecnico snc</named-content>, 
+					<named-content content-type="street">via del Politecnico snc</named-content>,
 
 					<named-content content-type="postcode">00133</named-content>
-					<named-content content-type="city">Roma</named-content>, 
+					<named-content content-type="city">Roma</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -2974,12 +2974,12 @@
 			<aff id="AFF74">
 				<label>74</label>
 				<addr-line>
-					<institution>Centre National d’Etudes Spatiales – Centre spatial de Toulouse</institution>, 
+					<institution>Centre National d’Etudes Spatiales – Centre spatial de Toulouse</institution>,
 
-					<named-content content-type="street">18 avenue Edouard Belin</named-content>, 
+					<named-content content-type="street">18 avenue Edouard Belin</named-content>,
 
 					<named-content content-type="postcode">31401</named-content>
-					<named-content content-type="city">Toulouse Cedex 9</named-content>, 
+					<named-content content-type="city">Toulouse Cedex 9</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -2987,13 +2987,13 @@
 			<aff id="AFF75">
 				<label>75</label>
 				<addr-line>
-					<institution>Institute of Space Science</institution>, 
+					<institution>Institute of Space Science</institution>,
 
-					<named-content content-type="street">Str. Atomistilor, nr. 409 Măgurele</named-content>, 
+					<named-content content-type="street">Str. Atomistilor, nr. 409 Măgurele</named-content>,
 
-					<named-content content-type="city">Ilfov</named-content>, 
+					<named-content content-type="city">Ilfov</named-content>,
 
-					<named-content content-type="postcode">077125</named-content>, 
+					<named-content content-type="postcode">077125</named-content>,
 
 					<country>Romania</country>
 				</addr-line>
@@ -3001,15 +3001,15 @@
 			<aff id="AFF76">
 				<label>76</label>
 				<addr-line>
-					<institution>Instituto de Astrofísica de Canarias</institution>, 
+					<institution>Instituto de Astrofísica de Canarias</institution>,
 
-					<named-content content-type="street">Calle Vía Láctea s/n</named-content>, 
+					<named-content content-type="street">Calle Vía Láctea s/n</named-content>,
 
-					<named-content content-type="postcode">38204</named-content>, 
+					<named-content content-type="postcode">38204</named-content>,
 
-					<named-content content-type="city">San Cristóbal de La Laguna</named-content>, 
+					<named-content content-type="city">San Cristóbal de La Laguna</named-content>,
 
-					<named-content content-type="state">Tenerife</named-content>, 
+					<named-content content-type="state">Tenerife</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3017,13 +3017,13 @@
 			<aff id="AFF77">
 				<label>77</label>
 				<addr-line>
-					<institution>Departamento de Astrofísica, Universidad de La Laguna</institution>, 
+					<institution>Departamento de Astrofísica, Universidad de La Laguna</institution>,
 
-					<named-content content-type="postcode">38206</named-content>, 
+					<named-content content-type="postcode">38206</named-content>,
 
-					<named-content content-type="city">La Laguna</named-content>, 
+					<named-content content-type="city">La Laguna</named-content>,
 
-					<named-content content-type="state">Tenerife</named-content>, 
+					<named-content content-type="state">Tenerife</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3031,12 +3031,12 @@
 			<aff id="AFF78">
 				<label>78</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica e Astronomia “G. Galilei”, Università di Padova</institution>, 
+					<institution>Dipartimento di Fisica e Astronomia “G. Galilei”, Università di Padova</institution>,
 
-					<named-content content-type="street">Via Marzolo 8</named-content>, 
+					<named-content content-type="street">Via Marzolo 8</named-content>,
 
 					<named-content content-type="postcode">35131</named-content>
-					<named-content content-type="city">Padova</named-content>, 
+					<named-content content-type="city">Padova</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3044,11 +3044,11 @@
 			<aff id="AFF79">
 				<label>79</label>
 				<addr-line>
-					<institution>Departamento de Física, FCFM, Universidad de Chile</institution>, 
+					<institution>Departamento de Física, FCFM, Universidad de Chile</institution>,
 
-					<named-content content-type="street">Blanco Encalada 2008</named-content>, 
+					<named-content content-type="street">Blanco Encalada 2008</named-content>,
 
-					<named-content content-type="city">Santiago</named-content>, 
+					<named-content content-type="city">Santiago</named-content>,
 
 					<country>Chile</country>
 				</addr-line>
@@ -3056,12 +3056,12 @@
 			<aff id="AFF80">
 				<label>80</label>
 				<addr-line>
-					<institution>Institut d’Estudis Espacials de Catalunya (IEEC), Edifici RDIT</institution>, 
+					<institution>Institut d’Estudis Espacials de Catalunya (IEEC), Edifici RDIT</institution>,
 
-					<named-content content-type="street">Campus UPC</named-content>, 
+					<named-content content-type="street">Campus UPC</named-content>,
 
 					<named-content content-type="postcode">08860</named-content>
-					<named-content content-type="city">Castelldefels, Barcelona</named-content>, 
+					<named-content content-type="city">Castelldefels, Barcelona</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3069,12 +3069,12 @@
 			<aff id="AFF81">
 				<label>81</label>
 				<addr-line>
-					<institution>Institute of Space Sciences (ICE, CSIC)</institution>, 
+					<institution>Institute of Space Sciences (ICE, CSIC)</institution>,
 
-					<named-content content-type="street">Campus UAB, Carrer de Can Magrans, s/n</named-content>, 
+					<named-content content-type="street">Campus UAB, Carrer de Can Magrans, s/n</named-content>,
 
 					<named-content content-type="postcode">08193</named-content>
-					<named-content content-type="city">Barcelona</named-content>, 
+					<named-content content-type="city">Barcelona</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3082,11 +3082,11 @@
 			<aff id="AFF82">
 				<label>82</label>
 				<addr-line>
-					<institution>Satlantis, University Science Park</institution>, 
+					<institution>Satlantis, University Science Park</institution>,
 
-					<named-content content-type="street">Sede Bld 48940</named-content>, 
+					<named-content content-type="street">Sede Bld 48940</named-content>,
 
-					<named-content content-type="city">Leioa-Bilbao</named-content>, 
+					<named-content content-type="city">Leioa-Bilbao</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3094,12 +3094,12 @@
 			<aff id="AFF83">
 				<label>83</label>
 				<addr-line>
-					<institution>Centro de Investigaciones Energéticas, Medioambientales y Tec- nológicas (CIEMAT)</institution>, 
+					<institution>Centro de Investigaciones Energéticas, Medioambientales y Tec- nológicas (CIEMAT)</institution>,
 
-					<named-content content-type="street">Avenida Complutense 40</named-content>, 
+					<named-content content-type="street">Avenida Complutense 40</named-content>,
 
 					<named-content content-type="postcode">28040</named-content>
-					<named-content content-type="city">Madrid</named-content>, 
+					<named-content content-type="city">Madrid</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3107,12 +3107,12 @@
 			<aff id="AFF84">
 				<label>84</label>
 				<addr-line>
-					<institution>Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciên- cias, Universidade de Lisboa</institution>, 
+					<institution>Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciên- cias, Universidade de Lisboa</institution>,
 
-					<named-content content-type="street">Tapada da Ajuda</named-content>, 
+					<named-content content-type="street">Tapada da Ajuda</named-content>,
 
 					<named-content content-type="postcode">1349-018</named-content>
-					<named-content content-type="city">Lisboa</named-content>, 
+					<named-content content-type="city">Lisboa</named-content>,
 
 					<country>Portugal</country>
 				</addr-line>
@@ -3120,12 +3120,12 @@
 			<aff id="AFF85">
 				<label>85</label>
 				<addr-line>
-					<institution>Universidad Politécnica de Cartagena, Departamento de Electrónica y Tecnología de Computadoras</institution>, 
+					<institution>Universidad Politécnica de Cartagena, Departamento de Electrónica y Tecnología de Computadoras</institution>,
 
-					<named-content content-type="street">Plaza del Hospital 1</named-content>, 
+					<named-content content-type="street">Plaza del Hospital 1</named-content>,
 
 					<named-content content-type="postcode">30202</named-content>
-					<named-content content-type="city">Cartagena</named-content>, 
+					<named-content content-type="city">Cartagena</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3133,12 +3133,12 @@
 			<aff id="AFF86">
 				<label>86</label>
 				<addr-line>
-					<institution>Kapteyn Astronomical Institute, University of Groningen</institution>, 
+					<institution>Kapteyn Astronomical Institute, University of Groningen</institution>,
 
-					<named-content content-type="postbox">PO Box 800</named-content>, 
+					<named-content content-type="postbox">PO Box 800</named-content>,
 
 					<named-content content-type="postcode">9700 AV</named-content>
-					<named-content content-type="city">Groningen</named-content>, 
+					<named-content content-type="city">Groningen</named-content>,
 
 					<country>The Netherlands</country>
 				</addr-line>
@@ -3146,12 +3146,12 @@
 			<aff id="AFF87">
 				<label>87</label>
 				<addr-line>
-					<institution>INFN-Bologna</institution>, 
+					<institution>INFN-Bologna</institution>,
 
-					<named-content content-type="street">Via Irnerio 46</named-content>, 
+					<named-content content-type="street">Via Irnerio 46</named-content>,
 
 					<named-content content-type="postcode">40126</named-content>
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3159,12 +3159,12 @@
 			<aff id="AFF88">
 				<label>88</label>
 				<addr-line>
-					<institution>Infrared Processing and Analysis Center, California Institute of Technology</institution>, 
+					<institution>Infrared Processing and Analysis Center, California Institute of Technology</institution>,
 
-					<named-content content-type="city">Pasadena</named-content>, 
+					<named-content content-type="city">Pasadena</named-content>,
 
 					<named-content content-type="state">CA</named-content>
-					<named-content content-type="postcode">91125</named-content>, 
+					<named-content content-type="postcode">91125</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -3172,12 +3172,12 @@
 			<aff id="AFF89">
 				<label>89</label>
 				<addr-line>
-					<institution>IFPU, Institute for Fundamental Physics of the Universe</institution>, 
+					<institution>IFPU, Institute for Fundamental Physics of the Universe</institution>,
 
-					<named-content content-type="street">via Beirut 2</named-content>, 
+					<named-content content-type="street">via Beirut 2</named-content>,
 
 					<named-content content-type="postcode">34151</named-content>
-					<named-content content-type="city">Trieste</named-content>, 
+					<named-content content-type="city">Trieste</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3185,12 +3185,12 @@
 			<aff id="AFF90">
 				<label>90</label>
 				<addr-line>
-					<institution>INAF, Istituto di Radioastronomia</institution>, 
+					<institution>INAF, Istituto di Radioastronomia</institution>,
 
-					<named-content content-type="street">Via Piero Gobetti 101</named-content>, 
+					<named-content content-type="street">Via Piero Gobetti 101</named-content>,
 
 					<named-content content-type="postcode">40129</named-content>
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3198,11 +3198,11 @@
 			<aff id="AFF91">
 				<label>91</label>
 				<addr-line>
-					<institution>Centre de Calcul de l’IN2P3/CNRS</institution>, 
+					<institution>Centre de Calcul de l’IN2P3/CNRS</institution>,
 
 					<named-content content-type="street">21 avenue Pierre de Coubertin</named-content>
 					<named-content content-type="postcode">69627</named-content>
-					<named-content content-type="city">Villeurbanne Cedex</named-content>, 
+					<named-content content-type="city">Villeurbanne Cedex</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -3210,12 +3210,12 @@
 			<aff id="AFF92">
 				<label>92</label>
 				<addr-line>
-					<institution>INFN-Sezione di Roma, Piazzale Aldo Moro</institution>, 
+					<institution>INFN-Sezione di Roma, Piazzale Aldo Moro</institution>,
 
-					<named-content content-type="street">2 - c/o Dipartimento di Fisica, Edificio G. Marconi</named-content>, 
+					<named-content content-type="street">2 - c/o Dipartimento di Fisica, Edificio G. Marconi</named-content>,
 
 					<named-content content-type="postcode">00185</named-content>
-					<named-content content-type="city">Roma</named-content>, 
+					<named-content content-type="city">Roma</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3223,12 +3223,12 @@
 			<aff id="AFF93">
 				<label>93</label>
 				<addr-line>
-					<institution>Institut für Theoretische Physik, University of Heidelberg</institution>, 
+					<institution>Institut für Theoretische Physik, University of Heidelberg</institution>,
 
-					<named-content content-type="street">Philosophenweg 16</named-content>, 
+					<named-content content-type="street">Philosophenweg 16</named-content>,
 
 					<named-content content-type="postcode">69120</named-content>
-					<named-content content-type="city">Heidelberg</named-content>, 
+					<named-content content-type="city">Heidelberg</named-content>,
 
 					<country>Germany</country>
 				</addr-line>
@@ -3236,9 +3236,9 @@
 			<aff id="AFF94">
 				<label>94</label>
 				<addr-line>
-					<institution>Université St Joseph; Faculty of Sciences</institution>, 
+					<institution>Université St Joseph; Faculty of Sciences</institution>,
 
-					<named-content content-type="city">Beirut</named-content>, 
+					<named-content content-type="city">Beirut</named-content>,
 
 					<country>Lebanon</country>
 				</addr-line>
@@ -3246,12 +3246,12 @@
 			<aff id="AFF95">
 				<label>95</label>
 				<addr-line>
-					<institution>Junia, EPA department</institution>, 
+					<institution>Junia, EPA department</institution>,
 
-					<named-content content-type="street">41 Bd Vauban</named-content>, 
+					<named-content content-type="street">41 Bd Vauban</named-content>,
 
 					<named-content content-type="postcode">59800</named-content>
-					<named-content content-type="city">Lille</named-content>, 
+					<named-content content-type="city">Lille</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -3259,12 +3259,12 @@
 			<aff id="AFF96">
 				<label>96</label>
 				<addr-line>
-					<institution>SISSA, International School for Advanced Studies</institution>, 
+					<institution>SISSA, International School for Advanced Studies</institution>,
 
-					<named-content content-type="street">Via Bonomea 265</named-content>, 
+					<named-content content-type="street">Via Bonomea 265</named-content>,
 
 					<named-content content-type="postcode">34136</named-content>
-					<named-content content-type="city">Trieste TS</named-content>, 
+					<named-content content-type="city">Trieste TS</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3272,12 +3272,12 @@
 			<aff id="AFF97">
 				<label>97</label>
 				<addr-line>
-					<institution>INFN, Sezione di Trieste</institution>, 
+					<institution>INFN, Sezione di Trieste</institution>,
 
-					<named-content content-type="street">Via Valerio 2</named-content>, 
+					<named-content content-type="street">Via Valerio 2</named-content>,
 
 					<named-content content-type="postcode">34127</named-content>
-					<named-content content-type="city">Trieste TS</named-content>, 
+					<named-content content-type="city">Trieste TS</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3285,11 +3285,11 @@
 			<aff id="AFF98">
 				<label>98</label>
 				<addr-line>
-					<institution>ICSC - Centro Nazionale di Ricerca in High Performance Computing</institution>, 
+					<institution>ICSC - Centro Nazionale di Ricerca in High Performance Computing</institution>,
 
-					<named-content content-type="street">Big Data e Quantum Computing, Via Magnanelli 2</named-content>, 
+					<named-content content-type="street">Big Data e Quantum Computing, Via Magnanelli 2</named-content>,
 
-					<named-content content-type="city">Bologna</named-content>, 
+					<named-content content-type="city">Bologna</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3297,12 +3297,12 @@
 			<aff id="AFF99">
 				<label>99</label>
 				<addr-line>
-					<institution>Instituto de Física Teórica UAM-CSIC</institution>, 
+					<institution>Instituto de Física Teórica UAM-CSIC</institution>,
 
-					<named-content content-type="street">Campus de Cantoblanco</named-content>, 
+					<named-content content-type="street">Campus de Cantoblanco</named-content>,
 
 					<named-content content-type="postcode">28049</named-content>
-					<named-content content-type="city">Madrid</named-content>, 
+					<named-content content-type="city">Madrid</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3310,14 +3310,14 @@
 			<aff id="AFF100">
 				<label>100</label>
 				<addr-line>
-					<institution>CERCA/ISO, Department of Physics, Case Western Reserve University</institution>, 
+					<institution>CERCA/ISO, Department of Physics, Case Western Reserve University</institution>,
 
-					<named-content content-type="street">10900 Euclid Avenue</named-content>, 
+					<named-content content-type="street">10900 Euclid Avenue</named-content>,
 
-					<named-content content-type="city">Cleveland</named-content>, 
+					<named-content content-type="city">Cleveland</named-content>,
 
 					<named-content content-type="state">OH</named-content>
-					<named-content content-type="postcode">44106</named-content>, 
+					<named-content content-type="postcode">44106</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -3325,10 +3325,10 @@
 			<aff id="AFF101">
 				<label>101</label>
 				<addr-line>
-					<institution>Laboratoire Univers et Théorie, Observatoire de Paris, Université PSL, Université Paris Cité, CNRS</institution>, 
+					<institution>Laboratoire Univers et Théorie, Observatoire de Paris, Université PSL, Université Paris Cité, CNRS</institution>,
 
 					<named-content content-type="postcode">92190</named-content>
-					<named-content content-type="city">Meudon</named-content>, 
+					<named-content content-type="city">Meudon</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -3336,12 +3336,12 @@
 			<aff id="AFF102">
 				<label>102</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica e Scienze della Terra, Università degli Studi di Ferrara</institution>, 
+					<institution>Dipartimento di Fisica e Scienze della Terra, Università degli Studi di Ferrara</institution>,
 
-					<named-content content-type="street">Via Giuseppe Saragat 1</named-content>, 
+					<named-content content-type="street">Via Giuseppe Saragat 1</named-content>,
 
 					<named-content content-type="postcode">44122</named-content>
-					<named-content content-type="city">Ferrara</named-content>, 
+					<named-content content-type="city">Ferrara</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3349,12 +3349,12 @@
 			<aff id="AFF103">
 				<label>103</label>
 				<addr-line>
-					<institution>Istituto Nazionale di Fisica Nucleare, Sezione di Ferrara</institution>, 
+					<institution>Istituto Nazionale di Fisica Nucleare, Sezione di Ferrara</institution>,
 
-					<named-content content-type="street">Via Giuseppe Saragat 1</named-content>, 
+					<named-content content-type="street">Via Giuseppe Saragat 1</named-content>,
 
 					<named-content content-type="postcode">44122</named-content>
-					<named-content content-type="city">Ferrara</named-content>, 
+					<named-content content-type="city">Ferrara</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3362,10 +3362,10 @@
 			<aff id="AFF104">
 				<label>104</label>
 				<addr-line>
-					<institution>Kavli Institute for the Physics and Mathematics of the Universe (WPI), University of Tokyo</institution>, 
+					<institution>Kavli Institute for the Physics and Mathematics of the Universe (WPI), University of Tokyo</institution>,
 
 					<named-content content-type="city">Kashiwa, Chiba</named-content>
-					<named-content content-type="postcode">277-8583</named-content>, 
+					<named-content content-type="postcode">277-8583</named-content>,
 
 					<country>Japan</country>
 				</addr-line>
@@ -3373,12 +3373,12 @@
 			<aff id="AFF105">
 				<label>105</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica - Sezione di Astronomia, Università di Trieste</institution>, 
+					<institution>Dipartimento di Fisica - Sezione di Astronomia, Università di Trieste</institution>,
 
-					<named-content content-type="street">Via Tiepolo 11</named-content>, 
+					<named-content content-type="street">Via Tiepolo 11</named-content>,
 
 					<named-content content-type="postcode">34131</named-content>
-					<named-content content-type="city">Trieste</named-content>, 
+					<named-content content-type="city">Trieste</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3386,14 +3386,14 @@
 			<aff id="AFF106">
 				<label>106</label>
 				<addr-line>
-					<institution>Minnesota Institute for Astrophysics, University of Minnesota</institution>, 
+					<institution>Minnesota Institute for Astrophysics, University of Minnesota</institution>,
 
-					<named-content content-type="street">116 Church St SE</named-content>, 
+					<named-content content-type="street">116 Church St SE</named-content>,
 
-					<named-content content-type="city">Minneapolis</named-content>, 
+					<named-content content-type="city">Minneapolis</named-content>,
 
 					<named-content content-type="state">MN</named-content>
-					<named-content content-type="postcode">55455</named-content>, 
+					<named-content content-type="postcode">55455</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -3401,12 +3401,12 @@
 			<aff id="AFF107">
 				<label>107</label>
 				<addr-line>
-					<institution>Institute Lorentz, Leiden University</institution>, 
+					<institution>Institute Lorentz, Leiden University</institution>,
 
-					<named-content content-type="street">Niels Bohrweg 2</named-content>, 
+					<named-content content-type="street">Niels Bohrweg 2</named-content>,
 
 					<named-content content-type="postcode">2333 CA</named-content>
-					<named-content content-type="city">Leiden</named-content>, 
+					<named-content content-type="city">Leiden</named-content>,
 
 					<country>The Netherlands</country>
 				</addr-line>
@@ -3414,14 +3414,14 @@
 			<aff id="AFF108">
 				<label>108</label>
 				<addr-line>
-					<institution>Institute for Astronomy, University of Hawaii</institution>, 
+					<institution>Institute for Astronomy, University of Hawaii</institution>,
 
-					<named-content content-type="street">2680 Woodlawn Drive</named-content>, 
+					<named-content content-type="street">2680 Woodlawn Drive</named-content>,
 
-					<named-content content-type="city">Honolulu</named-content>, 
+					<named-content content-type="city">Honolulu</named-content>,
 
 					<named-content content-type="state">HI</named-content>
-					<named-content content-type="postcode">96822</named-content>, 
+					<named-content content-type="postcode">96822</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -3429,11 +3429,11 @@
 			<aff id="AFF109">
 				<label>109</label>
 				<addr-line>
-					<institution>Department of Physics &amp; Astronomy, University of California Irvine</institution>, 
+					<institution>Department of Physics &amp; Astronomy, University of California Irvine</institution>,
 
 					<named-content content-type="city">Irvine</named-content>
 					<named-content content-type="state">CA</named-content>
-					<named-content content-type="postcode">92697</named-content>, 
+					<named-content content-type="postcode">92697</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -3441,13 +3441,13 @@
 			<aff id="AFF110">
 				<label>110</label>
 				<addr-line>
-					<institution>Department of Astronomy &amp; Physics and Institute for Computational Astrophysics, Saint Mary’s University</institution>, 
+					<institution>Department of Astronomy &amp; Physics and Institute for Computational Astrophysics, Saint Mary’s University</institution>,
 
-					<named-content content-type="street">923 Robie Street, Halifax</named-content>, 
+					<named-content content-type="street">923 Robie Street, Halifax</named-content>,
 
-					<named-content content-type="city">Nova Scotia</named-content>, 
+					<named-content content-type="city">Nova Scotia</named-content>,
 
-					<named-content content-type="postcode">B3H 3C3</named-content>, 
+					<named-content content-type="postcode">B3H 3C3</named-content>,
 
 					<country>Canada</country>
 				</addr-line>
@@ -3455,14 +3455,14 @@
 			<aff id="AFF111">
 				<label>111</label>
 				<addr-line>
-					<institution>Departamento Física Aplicada, Universidad Politécnica de Cartagena</institution>, 
+					<institution>Departamento Física Aplicada, Universidad Politécnica de Cartagena</institution>,
 
-					<named-content content-type="street">Campus Muralla del Mar</named-content>, 
+					<named-content content-type="street">Campus Muralla del Mar</named-content>,
 
 					<named-content content-type="postcode">30202</named-content>
-					<named-content content-type="city">Cartagena</named-content>, 
+					<named-content content-type="city">Cartagena</named-content>,
 
-					<named-content content-type="state">Murcia</named-content>, 
+					<named-content content-type="state">Murcia</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3470,12 +3470,12 @@
 			<aff id="AFF112">
 				<label>112</label>
 				<addr-line>
-					<institution>Department of Physics, Oxford University</institution>, 
+					<institution>Department of Physics, Oxford University</institution>,
 
-					<named-content content-type="street">Keble Road</named-content>, 
+					<named-content content-type="street">Keble Road</named-content>,
 
 					<named-content content-type="city">Oxford</named-content>
-					<named-content content-type="postcode">OX1 3RH</named-content>, 
+					<named-content content-type="postcode">OX1 3RH</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -3483,10 +3483,10 @@
 			<aff id="AFF113">
 				<label>113</label>
 				<addr-line>
-					<institution>Institute of Cosmology and Gravitation, University of Portsmouth</institution>, 
+					<institution>Institute of Cosmology and Gravitation, University of Portsmouth</institution>,
 
 					<named-content content-type="city">Portsmouth</named-content>
-					<named-content content-type="postcode">PO1 3FX</named-content>, 
+					<named-content content-type="postcode">PO1 3FX</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -3494,12 +3494,12 @@
 			<aff id="AFF114">
 				<label>114</label>
 				<addr-line>
-					<institution>Department of Computer Science, Aalto University</institution>, 
+					<institution>Department of Computer Science, Aalto University</institution>,
 
-					<named-content content-type="postbox">PO Box 15400</named-content>, 
+					<named-content content-type="postbox">PO Box 15400</named-content>,
 
 					<named-content content-type="city">Espoo</named-content>
-					<named-content content-type="postcode">00 076</named-content>, 
+					<named-content content-type="postcode">00 076</named-content>,
 
 					<country>Finland</country>
 				</addr-line>
@@ -3507,10 +3507,10 @@
 			<aff id="AFF115">
 				<label>115</label>
 				<addr-line>
-					<institution>Ruhr University Bochum, Faculty of Physics and Astronomy, Astronomical Institute (AIRUB), German Centre for Cosmological Lensing (GCCL)</institution>, 
+					<institution>Ruhr University Bochum, Faculty of Physics and Astronomy, Astronomical Institute (AIRUB), German Centre for Cosmological Lensing (GCCL)</institution>,
 
 					<named-content content-type="postcode">44780</named-content>
-					<named-content content-type="city">Bochum</named-content>, 
+					<named-content content-type="city">Bochum</named-content>,
 
 					<country>Germany</country>
 				</addr-line>
@@ -3518,12 +3518,12 @@
 			<aff id="AFF116">
 				<label>116</label>
 				<addr-line>
-					<institution>Univ. Grenoble Alpes, CNRS, Grenoble INP, LPSC-IN2P3</institution>, 
+					<institution>Univ. Grenoble Alpes, CNRS, Grenoble INP, LPSC-IN2P3</institution>,
 
-					<named-content content-type="street">53 Avenue des Martyrs</named-content>, 
+					<named-content content-type="street">53 Avenue des Martyrs</named-content>,
 
 					<named-content content-type="postcode">38000</named-content>
-					<named-content content-type="city">Grenoble</named-content>, 
+					<named-content content-type="city">Grenoble</named-content>,
 
 					<country>France</country>
 				</addr-line>
@@ -3531,9 +3531,9 @@
 			<aff id="AFF117">
 				<label>117</label>
 				<addr-line>
-					<institution>Department of Physics and Astronomy</institution>, 
+					<institution>Department of Physics and Astronomy</institution>,
 
-					<named-content content-type="street">Vesilinnantie 5, 20014 University of Turku</named-content>, 
+					<named-content content-type="street">Vesilinnantie 5, 20014 University of Turku</named-content>,
 
 					<country>Finland</country>
 				</addr-line>
@@ -3541,12 +3541,12 @@
 			<aff id="AFF118">
 				<label>118</label>
 				<addr-line>
-					<institution>Serco for European Space Agency (ESA)</institution>, 
+					<institution>Serco for European Space Agency (ESA)</institution>,
 
-					<named-content content-type="street">Camino bajo del Castillo, s/n, Urbanizacion Villafranca del Castillo, Villanueva de la Cañada</named-content>, 
+					<named-content content-type="street">Camino bajo del Castillo, s/n, Urbanizacion Villafranca del Castillo, Villanueva de la Cañada</named-content>,
 
 					<named-content content-type="postcode">28692</named-content>
-					<named-content content-type="city">Madrid</named-content>, 
+					<named-content content-type="city">Madrid</named-content>,
 
 					<country>Spain</country>
 				</addr-line>
@@ -3554,9 +3554,9 @@
 			<aff id="AFF119">
 				<label>119</label>
 				<addr-line>
-					<institution>ARC Centre of Excellence for Dark Matter Particle Physics</institution>, 
+					<institution>ARC Centre of Excellence for Dark Matter Particle Physics</institution>,
 
-					<named-content content-type="city">Melbourne</named-content>, 
+					<named-content content-type="city">Melbourne</named-content>,
 
 					<country>Australia</country>
 				</addr-line>
@@ -3564,10 +3564,10 @@
 			<aff id="AFF120">
 				<label>120</label>
 				<addr-line>
-					<institution>Centre for Astrophysics &amp; Supercomputing, Swinburne University of Technology</institution>, 
+					<institution>Centre for Astrophysics &amp; Supercomputing, Swinburne University of Technology</institution>,
 
 					<named-content content-type="city">Victoria</named-content>
-					<named-content content-type="postcode">3122</named-content>, 
+					<named-content content-type="postcode">3122</named-content>,
 
 					<country>Australia</country>
 				</addr-line>
@@ -3575,12 +3575,12 @@
 			<aff id="AFF121">
 				<label>121</label>
 				<addr-line>
-					<institution>School of Physics and Astronomy, Queen Mary University of London</institution>, 
+					<institution>School of Physics and Astronomy, Queen Mary University of London</institution>,
 
-					<named-content content-type="street">Mile End Road</named-content>, 
+					<named-content content-type="street">Mile End Road</named-content>,
 
 					<named-content content-type="city">London</named-content>
-					<named-content content-type="postcode">E1 4NS</named-content>, 
+					<named-content content-type="postcode">E1 4NS</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -3588,12 +3588,12 @@
 			<aff id="AFF122">
 				<label>122</label>
 				<addr-line>
-					<institution>Department of Physics and Astronomy, University of the Western Cape</institution>, 
+					<institution>Department of Physics and Astronomy, University of the Western Cape</institution>,
 
-					<named-content content-type="street">Bellville</named-content>, 
+					<named-content content-type="street">Bellville</named-content>,
 
 					<named-content content-type="city">Cape Town</named-content>
-					<named-content content-type="postcode">7535</named-content>, 
+					<named-content content-type="postcode">7535</named-content>,
 
 					<country>South Africa</country>
 				</addr-line>
@@ -3601,9 +3601,9 @@
 			<aff id="AFF123">
 				<label>123</label>
 				<addr-line>
-					<institution>ICTP South American Institute for Fundamental Research, Instituto de Física Teórica, Universidade Estadual Paulista</institution>, 
+					<institution>ICTP South American Institute for Fundamental Research, Instituto de Física Teórica, Universidade Estadual Paulista</institution>,
 
-					<named-content content-type="city">São Paulo</named-content>, 
+					<named-content content-type="city">São Paulo</named-content>,
 
 					<country>Brazil</country>
 				</addr-line>
@@ -3611,10 +3611,10 @@
 			<aff id="AFF124">
 				<label>124</label>
 				<addr-line>
-					<institution>Oskar Klein Centre for Cosmoparticle Physics, Department of Physics, Stockholm University</institution>, 
+					<institution>Oskar Klein Centre for Cosmoparticle Physics, Department of Physics, Stockholm University</institution>,
 
 					<named-content content-type="city">Stockholm</named-content>
-					<named-content content-type="postcode">106 91</named-content>, 
+					<named-content content-type="postcode">106 91</named-content>,
 
 					<country>Sweden</country>
 				</addr-line>
@@ -3622,10 +3622,10 @@
 			<aff id="AFF125">
 				<label>125</label>
 				<addr-line>
-					<institution>Astrophysics Group, Blackett Laboratory, Imperial College London</institution>, 
+					<institution>Astrophysics Group, Blackett Laboratory, Imperial College London</institution>,
 
 					<named-content content-type="city">London</named-content>
-					<named-content content-type="postcode">SW7 2AZ</named-content>, 
+					<named-content content-type="postcode">SW7 2AZ</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -3633,12 +3633,12 @@
 			<aff id="AFF126">
 				<label>126</label>
 				<addr-line>
-					<institution>INAF-Osservatorio Astrofisico di Arcetri</institution>, 
+					<institution>INAF-Osservatorio Astrofisico di Arcetri</institution>,
 
-					<named-content content-type="street">Largo E. Fermi 5</named-content>, 
+					<named-content content-type="street">Largo E. Fermi 5</named-content>,
 
 					<named-content content-type="postcode">50125</named-content>
-					<named-content content-type="city">Firenze</named-content>, 
+					<named-content content-type="city">Firenze</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3646,12 +3646,12 @@
 			<aff id="AFF127">
 				<label>127</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica, Sapienza Università di Roma</institution>, 
+					<institution>Dipartimento di Fisica, Sapienza Università di Roma</institution>,
 
-					<named-content content-type="street">Piazzale Aldo Moro 2</named-content>, 
+					<named-content content-type="street">Piazzale Aldo Moro 2</named-content>,
 
 					<named-content content-type="postcode">00185</named-content>
-					<named-content content-type="city">Roma</named-content>, 
+					<named-content content-type="city">Roma</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3659,12 +3659,12 @@
 			<aff id="AFF128">
 				<label>128</label>
 				<addr-line>
-					<institution>Centro de Astrofísica da Universidade do Porto</institution>, 
+					<institution>Centro de Astrofísica da Universidade do Porto</institution>,
 
-					<named-content content-type="street">Rua das Estrelas</named-content>, 
+					<named-content content-type="street">Rua das Estrelas</named-content>,
 
 					<named-content content-type="postcode">4150-762</named-content>
-					<named-content content-type="city">Porto</named-content>, 
+					<named-content content-type="city">Porto</named-content>,
 
 					<country>Portugal</country>
 				</addr-line>
@@ -3672,11 +3672,11 @@
 			<aff id="AFF129">
 				<label>129</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica, Università di Roma Tor Vergata</institution>, 
+					<institution>Dipartimento di Fisica, Università di Roma Tor Vergata</institution>,
 
-					<named-content content-type="street">Via della Ricerca Scientifica 1</named-content>, 
+					<named-content content-type="street">Via della Ricerca Scientifica 1</named-content>,
 
-					<named-content content-type="city">Roma</named-content>, 
+					<named-content content-type="city">Roma</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3684,11 +3684,11 @@
 			<aff id="AFF130">
 				<label>130</label>
 				<addr-line>
-					<institution>INFN</institution>, 
+					<institution>INFN</institution>,
 
-					<named-content content-type="street">Sezione di Roma 2, Via della Ricerca Scientifica 1</named-content>, 
+					<named-content content-type="street">Sezione di Roma 2, Via della Ricerca Scientifica 1</named-content>,
 
-					<named-content content-type="city">Roma</named-content>, 
+					<named-content content-type="city">Roma</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3696,12 +3696,12 @@
 			<aff id="AFF131">
 				<label>131</label>
 				<addr-line>
-					<institution>Institute of Astronomy, University of Cambridge</institution>, 
+					<institution>Institute of Astronomy, University of Cambridge</institution>,
 
-					<named-content content-type="street">Madingley Road</named-content>, 
+					<named-content content-type="street">Madingley Road</named-content>,
 
 					<named-content content-type="city">Cambridge</named-content>
-					<named-content content-type="postcode">CB3 0HA</named-content>, 
+					<named-content content-type="postcode">CB3 0HA</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -3709,12 +3709,12 @@
 			<aff id="AFF132">
 				<label>132</label>
 				<addr-line>
-					<institution>Department of Astrophysics, University of Zurich</institution>, 
+					<institution>Department of Astrophysics, University of Zurich</institution>,
 
-					<named-content content-type="street">Winterthur-erstrasse 190</named-content>, 
+					<named-content content-type="street">Winterthur-erstrasse 190</named-content>,
 
 					<named-content content-type="postcode">8057</named-content>
-					<named-content content-type="city">Zurich</named-content>, 
+					<named-content content-type="city">Zurich</named-content>,
 
 					<country>Switzerland</country>
 				</addr-line>
@@ -3722,12 +3722,12 @@
 			<aff id="AFF133">
 				<label>133</label>
 				<addr-line>
-					<institution>Dipartimento di Fisica, Università degli studi di Genova, and INFN-Sezione di Genova</institution>, 
+					<institution>Dipartimento di Fisica, Università degli studi di Genova, and INFN-Sezione di Genova</institution>,
 
-					<named-content content-type="street">via Dodecaneso 33</named-content>, 
+					<named-content content-type="street">via Dodecaneso 33</named-content>,
 
 					<named-content content-type="postcode">16146</named-content>
-					<named-content content-type="city">Genova</named-content>, 
+					<named-content content-type="city">Genova</named-content>,
 
 					<country>Italy</country>
 				</addr-line>
@@ -3735,12 +3735,12 @@
 			<aff id="AFF134">
 				<label>134</label>
 				<addr-line>
-					<institution>Theoretical astrophysics, Department of Physics and Astronomy, Uppsala University</institution>, 
+					<institution>Theoretical astrophysics, Department of Physics and Astronomy, Uppsala University</institution>,
 
-					<named-content content-type="postbox">Box 515</named-content>, 
+					<named-content content-type="postbox">Box 515</named-content>,
 
 					<named-content content-type="postcode">751 20</named-content>
-					<named-content content-type="city">Uppsala</named-content>, 
+					<named-content content-type="city">Uppsala</named-content>,
 
 					<country>Sweden</country>
 				</addr-line>
@@ -3748,12 +3748,12 @@
 			<aff id="AFF135">
 				<label>135</label>
 				<addr-line>
-					<institution>Department of Physics and Astronomy, University College London</institution>, 
+					<institution>Department of Physics and Astronomy, University College London</institution>,
 
-					<named-content content-type="street">Gower Street</named-content>, 
+					<named-content content-type="street">Gower Street</named-content>,
 
 					<named-content content-type="city">London</named-content>
-					<named-content content-type="postcode">WC1E 6BT</named-content>, 
+					<named-content content-type="postcode">WC1E 6BT</named-content>,
 
 					<country>UK</country>
 				</addr-line>
@@ -3761,12 +3761,12 @@
 			<aff id="AFF136">
 				<label>136</label>
 				<addr-line>
-					<institution>Department of Astrophysical Sciences, Peyton Hall, Princeton University</institution>, 
+					<institution>Department of Astrophysical Sciences, Peyton Hall, Princeton University</institution>,
 
-					<named-content content-type="city">Princeton</named-content>, 
+					<named-content content-type="city">Princeton</named-content>,
 
 					<named-content content-type="state">NJ</named-content>
-					<named-content content-type="postcode">08544</named-content>, 
+					<named-content content-type="postcode">08544</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -3774,12 +3774,12 @@
 			<aff id="AFF137">
 				<label>137</label>
 				<addr-line>
-					<institution>Niels Bohr Institute, University of Copenhagen</institution>, 
+					<institution>Niels Bohr Institute, University of Copenhagen</institution>,
 
-					<named-content content-type="street">Jagtvej 128</named-content>, 
+					<named-content content-type="street">Jagtvej 128</named-content>,
 
 					<named-content content-type="postcode">2200</named-content>
-					<named-content content-type="city">Copenhagen</named-content>, 
+					<named-content content-type="city">Copenhagen</named-content>,
 
 					<country>Denmark</country>
 				</addr-line>
@@ -3787,12 +3787,12 @@
 			<aff id="AFF138">
 				<label>138</label>
 				<addr-line>
-					<institution>Center for Cosmology and Particle Physics, Department of Physics, New York University</institution>, 
+					<institution>Center for Cosmology and Particle Physics, Department of Physics, New York University</institution>,
 
-					<named-content content-type="city">New York</named-content>, 
+					<named-content content-type="city">New York</named-content>,
 
 					<named-content content-type="state">NY</named-content>
-					<named-content content-type="postcode">10003</named-content>, 
+					<named-content content-type="postcode">10003</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -3800,15 +3800,15 @@
 			<aff id="AFF139">
 				<label>139</label>
 				<addr-line>
-					<institution>Center for Computational Astrophysics, Flatiron Institute</institution>, 
+					<institution>Center for Computational Astrophysics, Flatiron Institute</institution>,
 
-					<named-content content-type="street">162 5th Avenue</named-content>, 
+					<named-content content-type="street">162 5th Avenue</named-content>,
 
-					<named-content content-type="postcode">10010</named-content>, 
+					<named-content content-type="postcode">10010</named-content>,
 
-					<named-content content-type="city">New York</named-content>, 
+					<named-content content-type="city">New York</named-content>,
 
-					<named-content content-type="state">NY</named-content>, 
+					<named-content content-type="state">NY</named-content>,
 
 					<country>USA</country>
 				</addr-line>
@@ -3816,7 +3816,7 @@
 			<author-notes>
 				<fn id="FN1">
 					<label>★</label>
-					<p>Corresponding author; 
+					<p>Corresponding author;
 						<email>alain.blanchard@irap.omp.eu</email>
 					</p>
 				</fn>
@@ -3855,12 +3855,12 @@
 				<copyright-year>2024</copyright-year>
 				<copyright-holder>The Authors</copyright-holder>
 				<license license-type="open-access">
-					<license-p content-type="cc-by-4.0">Open Access article, 
+					<license-p content-type="cc-by-4.0">Open Access article,
 						<ext-link ext-link-type="uri" xlink:href="https://www.edpsciences.org/en/">published by EDP Sciences</ext-link>, under the terms of the Creative Commons Attribution License (
 						<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0">https://creativecommons.org/licenses/by/4.0</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
 					</license-p>
-					<license-p content-type="oa-funding-note" specific-use="s2o">This article is published in open access under the 
-						<ext-link ext-link-type="uri" xlink:href="https://www.aanda.org/subscribe-to-open-faqs">Subscribe to Open model</ext-link>. 
+					<license-p content-type="oa-funding-note" specific-use="s2o">This article is published in open access under the
+						<ext-link ext-link-type="uri" xlink:href="https://www.aanda.org/subscribe-to-open-faqs">Subscribe to Open model</ext-link>.
 						<ext-link ext-link-type="email" xlink:href="mailto:subscribers@edpsciences.org">Subscribe to A&amp;A</ext-link> to support open access publication.
 					</license-p>
 				</license>
@@ -3869,10 +3869,10 @@
 			<self-uri content-type="full_html" xlink:href="https://www.aanda.org/articles/aa/full_html/2024/10/aa50368-24/aa50368-24.html"/>
 			<self-uri content-type="pdf" xlink:href="https://www.aanda.org/articles/aa/pdf/2024/10/aa50368-24.pdf"/>
 			<abstract xml:lang="en">
-				<p>Future data provided by the 
-					<italic>Euclid</italic> mission will allow us to better understand the cosmic history of the Universe. A metric of its performance is the figure-of-merit (FoM) of dark energy, usually estimated with Fisher forecasts. The expected FoM has previously been estimated taking into account the two main probes of 
-					<italic>Euclid</italic>, namely the three-dimensional clustering of the spectroscopic galaxy sample, and the so-called 3×2pt signal from the photometric sample (i.e., the weak lensing signal, the galaxy clustering, and their cross-correlation). So far, these two probes have been treated as independent. In this paper, we introduce a new observable given by the ratio of the (angular) two-point correlation function of galaxies from the two surveys. For identical (normalised) selection functions, this observable is unaffected by sampling noise, and its variance is solely controlled by Poisson noise. We present forecasts for 
-					<italic>Euclid</italic> where this multi-tracer method is applied and is particularly relevant because the two surveys will cover the same area of the sky. This method allows for the exploitation of the combination of the spectroscopic and photometric samples. When the correlation between this new observable and the other probes is not taken into account, a significant gain is obtained in the FoM, as well as in the constraints on other cosmological parameters. The benefit is more pronounced for a commonly investigated modified gravity model, namely the 
+				<p>Future data provided by the
+					<italic>Euclid</italic> mission will allow us to better understand the cosmic history of the Universe. A metric of its performance is the figure-of-merit (FoM) of dark energy, usually estimated with Fisher forecasts. The expected FoM has previously been estimated taking into account the two main probes of
+					<italic>Euclid</italic>, namely the three-dimensional clustering of the spectroscopic galaxy sample, and the so-called 3×2pt signal from the photometric sample (i.e., the weak lensing signal, the galaxy clustering, and their cross-correlation). So far, these two probes have been treated as independent. In this paper, we introduce a new observable given by the ratio of the (angular) two-point correlation function of galaxies from the two surveys. For identical (normalised) selection functions, this observable is unaffected by sampling noise, and its variance is solely controlled by Poisson noise. We present forecasts for
+					<italic>Euclid</italic> where this multi-tracer method is applied and is particularly relevant because the two surveys will cover the same area of the sky. This method allows for the exploitation of the combination of the spectroscopic and photometric samples. When the correlation between this new observable and the other probes is not taken into account, a significant gain is obtained in the FoM, as well as in the constraints on other cosmological parameters. The benefit is more pronounced for a commonly investigated modified gravity model, namely the
 					<italic>γ</italic> parametrisation of the growth factor. However, the correlation between the different probes is found to be significant and hence the actual gain is uncertain. We present various strategies for circumventing this issue and still extract useful information from the new observable.
 				</p>
 			</abstract>
@@ -3928,8 +3928,8 @@
 	<back>
 		<ack>
 			<title>Acknowledgements</title>
-			<p>S. I. thanks the Centre national d’études spatiales (CNES) which supports his postdoctoral research contract. The Euclid Consortium acknowledges the European Space Agency and a number of agencies and institutes that have supported the development of 
-				<italic>Euclid</italic>, in particular the Academy of Finland, the Agenzia Spaziale Italiana, the Belgian Science Policy, the Canadian Euclid Consortium, the French Centre National d’Etudes Spatiales, the Deutsches Zentrum für Luft- und Raumfahrt, the Danish Space Research Institute, the Fundação para a Ciência e a Tecnologia, the Ministerio de Ciencia e Innovación, the National Aeronautics and Space Administration, the National Astronomical Observatory of Japan, the Netherlandse Onder-zoekschool Voor Astronomie, the Norwegian Space Agency, the Romanian Space Agency, the State Secretariat for Education, Research and Innovation (SERI) at the Swiss Space Office (SSO), and the United Kingdom Space Agency. A complete and detailed list is available on the 
+			<p>S. I. thanks the Centre national d’études spatiales (CNES) which supports his postdoctoral research contract. The Euclid Consortium acknowledges the European Space Agency and a number of agencies and institutes that have supported the development of
+				<italic>Euclid</italic>, in particular the Academy of Finland, the Agenzia Spaziale Italiana, the Belgian Science Policy, the Canadian Euclid Consortium, the French Centre National d’Etudes Spatiales, the Deutsches Zentrum für Luft- und Raumfahrt, the Danish Space Research Institute, the Fundação para a Ciência e a Tecnologia, the Ministerio de Ciencia e Innovación, the National Aeronautics and Space Administration, the National Astronomical Observatory of Japan, the Netherlandse Onder-zoekschool Voor Astronomie, the Norwegian Space Agency, the Romanian Space Agency, the State Secretariat for Education, Research and Innovation (SERI) at the Swiss Space Office (SSO), and the United Kingdom Space Agency. A complete and detailed list is available on the
 				<italic>Euclid</italic> web site (
 				<ext-link ext-link-type="uri" xlink:href="http://www.euclid-ec.org">http://www.euclid-ec.org</ext-link>)..
 			</p>
@@ -3939,62 +3939,62 @@
 			<ref id="R1">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Abbott</surname>, 
+						<surname>Abbott</surname>,
 						<given-names>T. M. C.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Aguena</surname>, 
+						<surname>Aguena</surname>,
 						<given-names>M.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Alarcon</surname>, 
+						<surname>Alarcon</surname>,
 						<given-names>A.</given-names>
-					</string-name>, et al. 
-					<year>2022</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>105</volume>, 
+					</string-name>, et al.
+					<year>2022</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>105</volume>,
 					<fpage>023520</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R2">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Abramo</surname>, 
+						<surname>Abramo</surname>,
 						<given-names>L. R.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Dinarte Ferri</surname>, 
+						<surname>Dinarte Ferri</surname>,
 						<given-names>J. V.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Tashiro</surname>, 
+						<surname>Tashiro</surname>,
 						<given-names>I. L.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Loureiro</surname>, 
+						<surname>Loureiro</surname>,
 						<given-names>A.</given-names>
 					</string-name>
-					<year>2022</year>, 
-					<source>J. Cosmology Astropart. Phys.</source>, 
-					<volume>8</volume>, 
+					<year>2022</year>,
+					<source>J. Cosmology Astropart. Phys.</source>,
+					<volume>8</volume>,
 					<fpage>073</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R3">
 				<mixed-citation publication-type="web">
 					<string-name>
-						<surname>Albrecht</surname>, 
+						<surname>Albrecht</surname>,
 						<given-names>A.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Bernstein</surname>, 
+						<surname>Bernstein</surname>,
 						<given-names>G.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Cahn</surname>, 
+						<surname>Cahn</surname>,
 						<given-names>R.</given-names>
-					</string-name>, et al. 
-					<year>2006</year>, 
+					</string-name>, et al.
+					<year>2006</year>,
 					<source>arXiv e-prints</source> [
 					<ext-link ext-link-type="uri" xlink:href="https://arxiv.org/abs/astro-ph/0609591">arXiv:astro-ph/0609591</ext-link>]
 				</mixed-citation>
@@ -4002,144 +4002,144 @@
 			<ref id="R4">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Alcock</surname>, 
+						<surname>Alcock</surname>,
 						<given-names>C.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Paczynski</surname>, 
+						<surname>Paczynski</surname>,
 						<given-names>B.</given-names>
 					</string-name>
-					<year>1979</year>, 
-					<source>Nature</source>, 
-					<volume>281</volume>, 
+					<year>1979</year>,
+					<source>Nature</source>,
+					<volume>281</volume>,
 					<fpage>358</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R5">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Alimi</surname>, 
+						<surname>Alimi</surname>,
 						<given-names>J. M.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Valls-Gabaud</surname>, 
+						<surname>Valls-Gabaud</surname>,
 						<given-names>D.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Blanchard</surname>, 
+						<surname>Blanchard</surname>,
 						<given-names>A.</given-names>
 					</string-name>
-					<year>1988</year>, 
-					<source>A&amp;A</source>, 
-					<volume>206</volume>, 
+					<year>1988</year>,
+					<source>A&amp;A</source>,
+					<volume>206</volume>,
 					<fpage>L11</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R6">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Amendola</surname>, 
+						<surname>Amendola</surname>,
 						<given-names>L.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Appleby</surname>, 
+						<surname>Appleby</surname>,
 						<given-names>S.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Avgoustidis</surname>, 
+						<surname>Avgoustidis</surname>,
 						<given-names>A.</given-names>
-					</string-name>, et al. 
-					<year>2018</year>, 
-					<source>Liv. Rev. Relativ.</source>, 
-					<volume>21</volume>, 
+					</string-name>, et al.
+					<year>2018</year>,
+					<source>Liv. Rev. Relativ.</source>,
+					<volume>21</volume>,
 					<fpage>2</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R7">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Aubourg</surname>, 
+						<surname>Aubourg</surname>,
 						<given-names>É.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Bailey</surname>, 
+						<surname>Bailey</surname>,
 						<given-names>S.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Bautista</surname>, 
+						<surname>Bautista</surname>,
 						<given-names>J. E.</given-names>
-					</string-name>, et al. 
-					<year>2015</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>92</volume>, 
+					</string-name>, et al.
+					<year>2015</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>92</volume>,
 					<fpage>123516</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R8">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Blanchard</surname>, 
+						<surname>Blanchard</surname>,
 						<given-names>A.</given-names>
 					</string-name>
-					<year>2022</year>, 
-					<source>Universe</source>, 
-					<volume>8</volume>, 
+					<year>2022</year>,
+					<source>Universe</source>,
+					<volume>8</volume>,
 					<fpage>479</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R9">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Chevallier</surname>, 
+						<surname>Chevallier</surname>,
 						<given-names>M.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Polarski</surname>, 
+						<surname>Polarski</surname>,
 						<given-names>D.</given-names>
 					</string-name>
-					<year>2001</year>, 
-					<source>Int. J. Mod. Phys.</source>, 
-					<volume>D10</volume>, 
+					<year>2001</year>,
+					<source>Int. J. Mod. Phys.</source>,
+					<volume>D10</volume>,
 					<fpage>213</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R10">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Cropper</surname>, 
+						<surname>Cropper</surname>,
 						<given-names>M.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Pottinger</surname>, 
+						<surname>Pottinger</surname>,
 						<given-names>S.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Azzollini</surname>, 
+						<surname>Azzollini</surname>,
 						<given-names>R.</given-names>
-					</string-name>, et al. 
-					<year>2018</year>, 
-					<source>SPIE</source>, 
-					<volume>10698</volume>, 
+					</string-name>, et al.
+					<year>2018</year>,
+					<source>SPIE</source>,
+					<volume>10698</volume>,
 					<fpage>709</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R11">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Eisenstein</surname>, 
+						<surname>Eisenstein</surname>,
 						<given-names>D. J.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Zehavi</surname>, 
+						<surname>Zehavi</surname>,
 						<given-names>I.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Hogg</surname>, 
+						<surname>Hogg</surname>,
 						<given-names>D. W.</given-names>
-					</string-name>, et al. 
-					<year>2005</year>, 
-					<source>ApJ</source>, 
-					<volume>633</volume>, 
+					</string-name>, et al.
+					<year>2005</year>,
+					<source>ApJ</source>,
+					<volume>633</volume>,
 					<fpage>560</fpage>
 				</mixed-citation>
 			</ref>
@@ -4147,12 +4147,12 @@
 				<mixed-citation publication-type="journal">
 					<collab>Euclid Collaboration</collab> (
 					<string-name>
-						<surname>Blanchard</surname>, 
+						<surname>Blanchard</surname>,
 						<given-names>A.</given-names>
-					</string-name>, et al.) 
-					<year>2020</year>, 
-					<source>A&amp;A</source>, 
-					<volume>642</volume>, 
+					</string-name>, et al.)
+					<year>2020</year>,
+					<source>A&amp;A</source>,
+					<volume>642</volume>,
 					<fpage>A191</fpage>
 				</mixed-citation>
 			</ref>
@@ -4160,10 +4160,10 @@
 				<mixed-citation publication-type="web">
 					<collab>Euclid Collaboration</collab> (
 					<string-name>
-						<surname>Cropper</surname>, 
+						<surname>Cropper</surname>,
 						<given-names>M.</given-names>
-					</string-name>, et al.) 
-					<year>2024</year>a, 
+					</string-name>, et al.)
+					<year>2024</year>a,
 					<source>A&amp;A</source>, submitted [
 					<ext-link ext-link-type="uri" xlink:href="https://arxiv.org/abs/2405.13492">arXiv:2405.13492</ext-link>]
 				</mixed-citation>
@@ -4172,11 +4172,11 @@
 				<mixed-citation publication-type="web">
 					<collab>Euclid Collaboration</collab> (
 					<string-name>
-						<surname>Jahnke</surname>, 
+						<surname>Jahnke</surname>,
 						<given-names>K.</given-names>
-					</string-name>, et al.) 
-					<year>2024</year>b, 
-					<source>A&amp;A</source>, in press, 
+					</string-name>, et al.)
+					<year>2024</year>b,
+					<source>A&amp;A</source>, in press,
 					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1051/0004-6361/202450786">https://doi.org/10.1051/0004-6361/202450786</ext-link>
 				</mixed-citation>
 			</ref>
@@ -4184,129 +4184,129 @@
 				<mixed-citation publication-type="web">
 					<collab>Euclid Collaboration</collab> (
 					<string-name>
-						<surname>Mellier</surname>, 
+						<surname>Mellier</surname>,
 						<given-names>Y.</given-names>
-					</string-name>, et al.) 
-					<year>2024</year>c, 
-					<source>A&amp;A</source>, in press, 
+					</string-name>, et al.)
+					<year>2024</year>c,
+					<source>A&amp;A</source>, in press,
 					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1051/0004-6361/202450010">https://doi.org/10.1051/0004-6361/202450010</ext-link>
 				</mixed-citation>
 			</ref>
 			<ref id="R16">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Hamaus</surname>, 
+						<surname>Hamaus</surname>,
 						<given-names>N.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Seljak</surname>, 
+						<surname>Seljak</surname>,
 						<given-names>U.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Desjacques</surname>, 
+						<surname>Desjacques</surname>,
 						<given-names>V.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Smith</surname>, 
+						<surname>Smith</surname>,
 						<given-names>R. E.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Baldauf</surname>, 
+						<surname>Baldauf</surname>,
 						<given-names>T.</given-names>
 					</string-name>
-					<year>2010</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>82</volume>, 
+					<year>2010</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>82</volume>,
 					<fpage>043515</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R17">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Heymans</surname>, 
+						<surname>Heymans</surname>,
 						<given-names>C.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Tröster</surname>, 
+						<surname>Tröster</surname>,
 						<given-names>T.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Asgari</surname>, 
+						<surname>Asgari</surname>,
 						<given-names>M.</given-names>
-					</string-name>, et al. 
-					<year>2021</year>, 
-					<source>A&amp;A</source>, 
-					<volume>646</volume>, 
+					</string-name>, et al.
+					<year>2021</year>,
+					<source>A&amp;A</source>,
+					<volume>646</volume>,
 					<fpage>A140</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R18">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Hu</surname>, 
+						<surname>Hu</surname>,
 						<given-names>W.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Sawicki</surname>, 
+						<surname>Sawicki</surname>,
 						<given-names>I.</given-names>
 					</string-name>
-					<year>2007</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>76</volume>, 
+					<year>2007</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>76</volume>,
 					<fpage>104043</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R19">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Kilbinger</surname>, 
+						<surname>Kilbinger</surname>,
 						<given-names>M.</given-names>
 					</string-name>
-					<year>2015</year>, 
-					<source>Rep. Prog. Phys.</source>, 
-					<volume>78</volume>, 
+					<year>2015</year>,
+					<source>Rep. Prog. Phys.</source>,
+					<volume>78</volume>,
 					<fpage>086901</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R20">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Lahav</surname>, 
+						<surname>Lahav</surname>,
 						<given-names>O.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Lilje</surname>, 
+						<surname>Lilje</surname>,
 						<given-names>P. ?.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Primack</surname>, 
+						<surname>Primack</surname>,
 						<given-names>J. R.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Rees</surname>, 
+						<surname>Rees</surname>,
 						<given-names>M. J.</given-names>
 					</string-name>
-					<year>1991</year>, 
-					<source>MNRAS</source>, 
-					<volume>251</volume>, 
+					<year>1991</year>,
+					<source>MNRAS</source>,
+					<volume>251</volume>,
 					<fpage>128</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R21">
 				<mixed-citation publication-type="web">
 					<string-name>
-						<surname>Laureijs</surname>, 
+						<surname>Laureijs</surname>,
 						<given-names>R.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Amiaux</surname>, 
+						<surname>Amiaux</surname>,
 						<given-names>J.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Arduini</surname>, 
+						<surname>Arduini</surname>,
 						<given-names>S.</given-names>
-					</string-name>, et al. 
-					<year>2011</year>, 
+					</string-name>, et al.
+					<year>2011</year>,
 					<source>arXiv e-prints</source> [
 					<ext-link ext-link-type="uri" xlink:href="https://arxiv.org/abs/1110.3193">arXiv:1110.3193</ext-link>]
 				</mixed-citation>
@@ -4314,10 +4314,10 @@
 			<ref id="R22">
 				<mixed-citation publication-type="web">
 					<string-name>
-						<surname>Lesgourgues</surname>, 
+						<surname>Lesgourgues</surname>,
 						<given-names>J.</given-names>
 					</string-name>
-					<year>2011</year>, 
+					<year>2011</year>,
 					<source>arXiv e-prints</source> [
 					<ext-link ext-link-type="uri" xlink:href="https://arxiv.org/abs/1104.2932">arXiv:1104.2932</ext-link>]
 				</mixed-citation>
@@ -4325,86 +4325,86 @@
 			<ref id="R23">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Lewis</surname>, 
+						<surname>Lewis</surname>,
 						<given-names>A.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Challinor</surname>, 
+						<surname>Challinor</surname>,
 						<given-names>A.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Lasenby</surname>, 
+						<surname>Lasenby</surname>,
 						<given-names>A.</given-names>
 					</string-name>
-					<year>2000</year>, 
-					<source>ApJ</source>, 
-					<volume>538</volume>, 
+					<year>2000</year>,
+					<source>ApJ</source>,
+					<volume>538</volume>,
 					<fpage>473</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R24">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Linder</surname>, 
+						<surname>Linder</surname>,
 						<given-names>E. V.</given-names>
 					</string-name>
-					<year>2003</year>, 
-					<source>Phys. Rev. Lett.</source>, 
-					<volume>90</volume>, 
+					<year>2003</year>,
+					<source>Phys. Rev. Lett.</source>,
+					<volume>90</volume>,
 					<fpage>091301</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R25">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Linder</surname>, 
+						<surname>Linder</surname>,
 						<given-names>E. V.</given-names>
 					</string-name>
-					<year>2005</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>72</volume>, 
+					<year>2005</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>72</volume>,
 					<fpage>043529</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R26">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>LoVerde</surname>, 
+						<surname>LoVerde</surname>,
 						<given-names>M.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Afshordi</surname>, 
+						<surname>Afshordi</surname>,
 						<given-names>N.</given-names>
 					</string-name>
-					<year>2008</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>78</volume>, 
+					<year>2008</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>78</volume>,
 					<fpage>123506</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R27">
 				<mixed-citation publication-type="web">
 					<string-name>
-						<surname>Ly</surname>, 
+						<surname>Ly</surname>,
 						<given-names>A.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Marsman</surname>, 
+						<surname>Marsman</surname>,
 						<given-names>M.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Verhagen</surname>, 
+						<surname>Verhagen</surname>,
 						<given-names>J.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Grasman</surname>, 
+						<surname>Grasman</surname>,
 						<given-names>R.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Wagenmakers</surname>, 
+						<surname>Wagenmakers</surname>,
 						<given-names>E.-J.</given-names>
 					</string-name>
-					<year>2017</year>, 
+					<year>2017</year>,
 					<source>arXiv e-prints</source> [
 					<ext-link ext-link-type="uri" xlink:href="https://arxiv.org/abs/1705.01064">arXiv: 1705.01064</ext-link>]
 				</mixed-citation>
@@ -4412,304 +4412,304 @@
 			<ref id="R28">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Maciaszek</surname>, 
+						<surname>Maciaszek</surname>,
 						<given-names>T.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Ealet</surname>, 
+						<surname>Ealet</surname>,
 						<given-names>A.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Gillard</surname>, 
+						<surname>Gillard</surname>,
 						<given-names>W.</given-names>
-					</string-name>, et al. 
-					<year>2022</year>, 
-					<source>SPIE Conf. Ser.</source>, 
-					<volume>12180</volume>, 
+					</string-name>, et al.
+					<year>2022</year>,
+					<source>SPIE Conf. Ser.</source>,
+					<volume>12180</volume>,
 					<fpage>121801K</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R29">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>McDonald</surname>, 
+						<surname>McDonald</surname>,
 						<given-names>P.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Seljak</surname>, 
+						<surname>Seljak</surname>,
 						<given-names>U.</given-names>
 					</string-name>
-					<year>2009</year>, 
-					<source>J. Cosmology Astropart. Phys.</source>, 
-					<volume>10</volume>, 
+					<year>2009</year>,
+					<source>J. Cosmology Astropart. Phys.</source>,
+					<volume>10</volume>,
 					<fpage>007</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R30">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Passaglia</surname>, 
+						<surname>Passaglia</surname>,
 						<given-names>S.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Manzotti</surname>, 
+						<surname>Manzotti</surname>,
 						<given-names>A.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Dodelson</surname>, 
+						<surname>Dodelson</surname>,
 						<given-names>S.</given-names>
 					</string-name>
-					<year>2017</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>95</volume>, 
+					<year>2017</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>95</volume>,
 					<fpage>123508</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R31">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Percival</surname>, 
+						<surname>Percival</surname>,
 						<given-names>W. J.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>White</surname>, 
+						<surname>White</surname>,
 						<given-names>M.</given-names>
 					</string-name>
-					<year>2009</year>, 
-					<source>MNRAS</source>, 
-					<volume>393</volume>, 
+					<year>2009</year>,
+					<source>MNRAS</source>,
+					<volume>393</volume>,
 					<fpage>297</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R32">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Pozzetti</surname>, 
+						<surname>Pozzetti</surname>,
 						<given-names>L.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Hirata</surname>, 
+						<surname>Hirata</surname>,
 						<given-names>C. M.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Geach</surname>, 
+						<surname>Geach</surname>,
 						<given-names>J. E.</given-names>
-					</string-name>, et al. 
-					<year>2016</year>, 
-					<source>A&amp;A</source>, 
-					<volume>590</volume>, 
+					</string-name>, et al.
+					<year>2016</year>,
+					<source>A&amp;A</source>,
+					<volume>590</volume>,
 					<fpage>A3</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R33">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Seljak</surname>, 
+						<surname>Seljak</surname>,
 						<given-names>U.</given-names>
 					</string-name>
-					<year>2009</year>, 
-					<source>Phys. Rev. Lett.</source>, 
-					<volume>102</volume>, 
+					<year>2009</year>,
+					<source>Phys. Rev. Lett.</source>,
+					<volume>102</volume>,
 					<fpage>021302</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R34">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Seljak</surname>, 
+						<surname>Seljak</surname>,
 						<given-names>U.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Hamaus</surname>, 
+						<surname>Hamaus</surname>,
 						<given-names>N.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Desjacques</surname>, 
+						<surname>Desjacques</surname>,
 						<given-names>V.</given-names>
 					</string-name>
-					<year>2009</year>, 
-					<source>Phys. Rev. Lett.</source>, 
-					<volume>103</volume>, 
+					<year>2009</year>,
+					<source>Phys. Rev. Lett.</source>,
+					<volume>103</volume>,
 					<fpage>091303</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R35">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Sugiyama</surname>, 
+						<surname>Sugiyama</surname>,
 						<given-names>S.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Miyatake</surname>, 
+						<surname>Miyatake</surname>,
 						<given-names>H.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>More</surname>, 
+						<surname>More</surname>,
 						<given-names>S.</given-names>
-					</string-name>, et al. 
-					<year>2023</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>108</volume>, 
+					</string-name>, et al.
+					<year>2023</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>108</volume>,
 					<fpage>123521</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R36">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Tanidis</surname>, 
+						<surname>Tanidis</surname>,
 						<given-names>K.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Camera</surname>, 
+						<surname>Camera</surname>,
 						<given-names>S.</given-names>
 					</string-name>
-					<year>2021</year>, 
-					<source>MNRAS</source>, 
-					<volume>502</volume>, 
+					<year>2021</year>,
+					<source>MNRAS</source>,
+					<volume>502</volume>,
 					<fpage>2952</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R37">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Tanidis</surname>, 
+						<surname>Tanidis</surname>,
 						<given-names>K.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Cardone</surname>, 
+						<surname>Cardone</surname>,
 						<given-names>V. F.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Martinelli</surname>, 
+						<surname>Martinelli</surname>,
 						<given-names>M.</given-names>
-					</string-name>, et al. 
-					<year>2024</year>, 
-					<source>A&amp;A</source>, 
-					<volume>683</volume>, 
+					</string-name>, et al.
+					<year>2024</year>,
+					<source>A&amp;A</source>,
+					<volume>683</volume>,
 					<fpage>A17</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R38">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Taylor</surname>, 
+						<surname>Taylor</surname>,
 						<given-names>P. L.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Markovic</surname>, 
+						<surname>Markovic</surname>,
 						<given-names>K.</given-names>
 					</string-name>
-					<year>2022</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>106</volume>, 
+					<year>2022</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>106</volume>,
 					<fpage>063536</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R39">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Tessore</surname>, 
+						<surname>Tessore</surname>,
 						<given-names>N.</given-names>
 					</string-name>
-					<year>2017</year>, 
-					<source>MNRAS</source>, 
-					<volume>471</volume>, 
+					<year>2017</year>,
+					<source>MNRAS</source>,
+					<volume>471</volume>,
 					<fpage>L57</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R40">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Tutusaus</surname>, 
+						<surname>Tutusaus</surname>,
 						<given-names>I.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Martinelli</surname>, 
+						<surname>Martinelli</surname>,
 						<given-names>M.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Cardone</surname>, 
+						<surname>Cardone</surname>,
 						<given-names>V. F.</given-names>
-					</string-name>, et al. 
-					<year>2020</year>, 
-					<source>A&amp;A</source>, 
-					<volume>643</volume>, 
+					</string-name>, et al.
+					<year>2020</year>,
+					<source>A&amp;A</source>,
+					<volume>643</volume>,
 					<fpage>A70</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R41">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Wang</surname>, 
+						<surname>Wang</surname>,
 						<given-names>Y.</given-names>
 					</string-name>
-					<year>2008</year>, 
-					<source>Phys. Rev. D</source>, 
-					<volume>77</volume>, 
+					<year>2008</year>,
+					<source>Phys. Rev. D</source>,
+					<volume>77</volume>,
 					<fpage>123525</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R42">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Wang</surname>, 
+						<surname>Wang</surname>,
 						<given-names>Y.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Zhao</surname>, 
+						<surname>Zhao</surname>,
 						<given-names>G.-B.</given-names>
 					</string-name>
-					<year>2020</year>, 
-					<source>Res. Astron. Astrophys.</source>, 
-					<volume>20</volume>, 
+					<year>2020</year>,
+					<source>Res. Astron. Astrophys.</source>,
+					<volume>20</volume>,
 					<fpage>158</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R43">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Wang</surname>, 
+						<surname>Wang</surname>,
 						<given-names>M. S.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Avila</surname>, 
+						<surname>Avila</surname>,
 						<given-names>S.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Bianchi</surname>, 
+						<surname>Bianchi</surname>,
 						<given-names>D.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Crittenden</surname>, 
+						<surname>Crittenden</surname>,
 						<given-names>R.</given-names>
-					</string-name>, &amp; 
+					</string-name>, &amp;
 					<string-name>
-						<surname>Percival</surname>, 
+						<surname>Percival</surname>,
 						<given-names>W. J.</given-names>
 					</string-name>
-					<year>2020</year>, 
+					<year>2020</year>,
 					<source>JCAP</source>
-					<volume>10</volume>, 
+					<volume>10</volume>,
 					<fpage>022</fpage>
 				</mixed-citation>
 			</ref>
 			<ref id="R44">
 				<mixed-citation publication-type="journal">
 					<string-name>
-						<surname>Yahia-Cherif</surname>, 
+						<surname>Yahia-Cherif</surname>,
 						<given-names>S.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Blanchard</surname>, 
+						<surname>Blanchard</surname>,
 						<given-names>A.</given-names>
-					</string-name>, 
+					</string-name>,
 					<string-name>
-						<surname>Camera</surname>, 
+						<surname>Camera</surname>,
 						<given-names>S.</given-names>
-					</string-name>, et al. 
-					<year>2021</year>, 
-					<source>A&amp;A</source>, 
-					<volume>649</volume>, 
+					</string-name>, et al.
+					<year>2021</year>,
+					<source>A&amp;A</source>,
+					<volume>649</volume>,
 					<fpage>A52</fpage>
 				</mixed-citation>
 			</ref>
