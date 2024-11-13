@@ -4198,19 +4198,6 @@
     "licenseURL": "https://www.edpsciences.org/en/",
     "open": true
   },
-  "otherContributor": [
-    {
-      "contrib": {
-        "attrib": {
-          "collab": true
-        },
-        "name": {
-          "collab": "Euclid Collaboration"
-        }
-      },
-      "role": "collab"
-    }
-  ],
   "pagination": {
     "electronicID": "A30",
     "pageCount": "16"
