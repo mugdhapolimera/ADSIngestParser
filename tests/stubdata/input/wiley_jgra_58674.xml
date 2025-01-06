@@ -98,27 +98,27 @@
 			<selfCitationGroup>
 				<citation type="self" xml:id="jgra58674-cit-0072">
 					<author>
-						<familyName>Morita</familyName>, 
+						<familyName>Morita</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Nishitani</familyName>, 
+						<familyName>Nishitani</familyName>,
 						<givenNames>N.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Hori</familyName>, 
+						<familyName>Hori</familyName>,
 						<givenNames>T.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Shepherd</familyName>, 
+						<familyName>Shepherd</familyName>,
 						<givenNames>S. G.</givenNames>
 					</author> (
-					<pubYear year="2024">2024</pubYear>). 
-					<articleTitle>Polarization and 
+					<pubYear year="2024">2024</pubYear>).
+					<articleTitle>Polarization and
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0001" wiley:location="equation/jgra58674-math-0001.png">
 							<semantics>
@@ -128,10 +128,10 @@
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
 						</math>‐number characteristics of mid‐latitude Pc5 ULF waves observed by SuperDARN radars
-					</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
-					<vol>129</vol>, 
-					<eLocator>e2024JA032592</eLocator>. 
+					</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
+					<vol>129</vol>,
+					<eLocator>e2024JA032592</eLocator>.
 					<url href="https://doi.org/10.1029/2024JA032592">https://doi.org/10.1029/2024JA032592</url>
 				</citation>
 			</selfCitationGroup>
@@ -146,7 +146,7 @@
 				<count type="wordTotal" number="9374"/>
 			</countGroup>
 			<titleGroup>
-				<title type="main" xml:lang="en">Polarization and 
+				<title type="main" xml:lang="en">Polarization and
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0002" wiley:location="equation/jgra58674-math-0002.png">
 						<semantics>
@@ -255,7 +255,7 @@
 			<abstractGroup>
 				<abstract type="main" xml:lang="en">
 					<title type="main">Abstract</title>
-					<p>Polarization and propagation characteristics of ultra‐low frequency (ULF, 
+					<p>Polarization and propagation characteristics of ultra‐low frequency (ULF,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0003" wiley:location="equation/jgra58674-math-0003.png">
 							<semantics>
@@ -272,7 +272,7 @@
 				</abstract>
 				<abstract type="synopsis" xml:lang="en">
 					<title type="main">Plain Language Summary</title>
-					<p>Ultra‐low frequency waves (ULF, 
+					<p>Ultra‐low frequency waves (ULF,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0004" wiley:location="equation/jgra58674-math-0004.png">
 							<semantics>
@@ -295,7 +295,7 @@
 								<p>Statistical characteristics of Pc5 ultra‐low frequency (ULF) waves at mid‐latitude and sub‐auroral ionosphere was studied using Super Dual Auroral Radar Network radars</p>
 							</listItem>
 							<listItem>
-								<p>Observed occurrence rate, frequency, polarization, and azimuthal 
+								<p>Observed occurrence rate, frequency, polarization, and azimuthal
 									<math
 										xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0005" wiley:location="equation/jgra58674-math-0005.png">
 										<semantics>
@@ -341,7 +341,7 @@
 				<link href="#jgra58674-bib-0012">2012</link>; Oliveira et al., 
 				<link href="#jgra58674-bib-0030">2020</link>).
 			</p>
-			<p>As ULF waves are generally generated through the solar wind interaction with the near‐Earth's plasma and propagate through the magnetosphere, they represent a natural tool for remote sensing of the magnetospheric and solar wind conditions. For example, a technique dubbed 
+			<p>As ULF waves are generally generated through the solar wind interaction with the near‐Earth's plasma and propagate through the magnetosphere, they represent a natural tool for remote sensing of the magnetospheric and solar wind conditions. For example, a technique dubbed
 				<i>magnetoseismology</i> utilizes FLR frequencies and their harmonics for estimating the ion mass density distribution within the magnetosphere (Chi &amp; Russell, 
 				<link href="#jgra58674-bib-0003">2005</link>). Another diagnostic capability arises from the dependence of Pc3‐4 frequencies on solar wind parameters, which allows monitoring the interplanetary magnetic field strength at the bow shock (Takahashi et al., 
 				<link href="#jgra58674-bib-0063">1984</link>). Conventional studies of ULF waves are performed by arrays of ground‐based magnetometers like MAGDAS (
@@ -360,10 +360,10 @@
 				<link href="#jgra58674-bib-0019">2004</link>).
 			</p>
 			<p>While the bulk of ULF wave studies are performed using ground‐based magnetometers, the wave parameters derived from their data may be considerably distorted by the transition of the MHD wave into an electromagnetic (EM) wave at the boundary between the ionosphere and the neutral atmosphere (Hughes &amp; Southwood, 
-				<link href="#jgra58674-bib-0014">1976</link>). Another shortcoming is related to the fact that the ground magnetometer coverage is essentially confined to the land surface. In contrast, satellite‐based instrumentation can provide in‐situ ULF wave monitoring free from the above distortions, and these observations can be performed over any geographic region. However, the fast orbital movement makes continuous monitoring over fixed geospace regions practically impossible. From this perspective, high‐frequency (HF, 
+				<link href="#jgra58674-bib-0014">1976</link>). Another shortcoming is related to the fact that the ground magnetometer coverage is essentially confined to the land surface. In contrast, satellite‐based instrumentation can provide in‐situ ULF wave monitoring free from the above distortions, and these observations can be performed over any geographic region. However, the fast orbital movement makes continuous monitoring over fixed geospace regions practically impossible. From this perspective, high‐frequency (HF,
 				<i>f</i> = 3–30 MHz) ionospheric radars comprising the Super Dual Auroral Radar Network (SuperDARN, Chisham et al., 
 				<link href="#jgra58674-bib-0004">2007</link>; Nishitani et al., 
-				<link href="#jgra58674-bib-0026">2019</link>) represent a viable alternative to both ground‐ and satellite‐based magnetometer observations as they provide persistent sounding of the ionosphere above fixed geographic regions. Indeed, such radars regularly observe ULF oscillations in ionospheric plasma velocity manifesting 
+				<link href="#jgra58674-bib-0026">2019</link>) represent a viable alternative to both ground‐ and satellite‐based magnetometer observations as they provide persistent sounding of the ionosphere above fixed geographic regions. Indeed, such radars regularly observe ULF oscillations in ionospheric plasma velocity manifesting
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0007" wiley:location="equation/jgra58674-math-0007.png">
 					<semantics>
@@ -378,7 +378,7 @@
 				<link href="#jgra58674-bib-0034">2003</link>). Compared to ground‐based magnetometers, SuperDARN radars provide a superior spatial resolution, while the HF radio waves' ability for over‐the‐horizon propagation allows them to cover much larger geographic areas and to observe the ionosphere over inaccessible regions like mountains, seas/oceans, or ice sheets (Yeoman et al., 
 				<link href="#jgra58674-bib-0069">2000</link>). However, besides these advantages, SuperDARN radars also have certain shortcomings. First of all, their basic sampling rate during the conventional observation mode is only 1 min, which restricts the frequency of the observed processes to below 8.3 mHz, that is, essentially to the Pc5 frequency range. Another limitation of SuperDARN measurements is that a single radar can only observe a line‐of‐sight (LoS) component of Doppler velocity oscillations and does not permit the determination of the ULF wave polarization, which can provide important information about the wave's origin and propagation mechanism (Hasegawa &amp; Lanzerotti, 
 				<link href="#jgra58674-bib-0013">1978</link>). While the majority of the SuperDARN radars are arranged in pairs with overlapping fields of view (FoV), the situation when both radars receive persistent ionospheric echoes with ULF wave signatures from the intersection of their beams is quite rare (e.g., Ponomarenko &amp; Waters, 
-				<link href="#jgra58674-bib-0035">2013</link>). To address this issue, additional assumptions must be made to extract information about the wave's polarization. In this work, we utilized the fact that the LoS direction within a single field‐of‐view changes with respect to the geomagnetic coordinates and developed a technique for qualitative evaluation of the dominant polarization component from a single radar. We also performed a quantitative estimation of the azimuthal 
+				<link href="#jgra58674-bib-0035">2013</link>). To address this issue, additional assumptions must be made to extract information about the wave's polarization. In this work, we utilized the fact that the LoS direction within a single field‐of‐view changes with respect to the geomagnetic coordinates and developed a technique for qualitative evaluation of the dominant polarization component from a single radar. We also performed a quantitative estimation of the azimuthal
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0008" wiley:location="equation/jgra58674-math-0008.png">
 					<semantics>
@@ -416,7 +416,7 @@
 							</mrow>
 							<annotation encoding="application/x-tex"> ${}^{\circ}$</annotation>
 						</semantics>
-					</math> in azimuth (total azimuthal span 
+					</math> in azimuth (total azimuthal span
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0011" wiley:location="equation/jgra58674-math-0011.png">
 						<semantics>
@@ -427,7 +427,7 @@
 							</mrow>
 							<annotation encoding="application/x-tex"> $\simeq 50{}^{\circ}$</annotation>
 						</semantics>
-					</math>) every universal time (UT) minute. Data for each beam are normally segmented in group range into 70–110 range cells (range gates) of 45 km in size (maximum group rage 
+					</math>) every universal time (UT) minute. Data for each beam are normally segmented in group range into 70–110 range cells (range gates) of 45 km in size (maximum group rage
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0012" wiley:location="equation/jgra58674-math-0012.png">
 						<semantics>
@@ -439,7 +439,7 @@
 					</math>3,300–4,500 km). The conventional scan duration of 1 minute provides 3–3.5 s integration time per beam direction, subject to computing and hardware overhead time. The SuperDARN radars utilize a sequence of unevenly spaced emission pulses to generate an autocovariance function (ACF) for each range gate. The ACF data are postprocessed using the conventional package FITACF2.5, which fits model functions to ACF power and phase to estimate signal‐to‐noise ratio, spectral width, and Doppler velocity shift of the radar echoes (Ponomarenko et al., 
 					<link href="#jgra58674-bib-0031">2021</link>). In addition to the backscatter from the electron density irregularities (ionospheric scatter, IS), the SuperDARN radars also regularly observe scatter from the ground or water surface (ground scatter, GS), which is conventionally discarded from the analysis based on empirical criteria utilizing the relatively narrow spectral width and low Doppler velocity of these echoes (e.g., Section 4.1 in Ponomarenko et al., 
 					<link href="#jgra58674-bib-0036">2007</link>). The fitted data are validated against a set of quality criteria, and only those that satisfy these criteria are stored for further analysis (Ponomarenko et al., 
-					<link href="#jgra58674-bib-0031">2021</link>, 
+					<link href="#jgra58674-bib-0031">2021</link>,
 					<link href="#jgra58674-bib-0032">2022</link>).
 				</p>
 				<figure xml:id="jgra58674-fig-0001">
@@ -487,7 +487,7 @@
 				</figure>
 				<p>Preliminary high‐pass filtering was performed over individual time series of the Doppler velocity variations for each range gate in each beam. Figure 
 					<link href="#jgra58674-fig-0002">2b</link> shows an example of such a time series for range gate 19 in beam 4 of HOK radar, which is highlighted by the horizontal black lines in Figure 
-					<link href="#jgra58674-fig-0002">2a</link>. To remove longer‐period components with frequencies below the Pc5 band, 
+					<link href="#jgra58674-fig-0002">2a</link>. To remove longer‐period components with frequencies below the Pc5 band,
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0013" wiley:location="equation/jgra58674-math-0013.png">
 						<semantics>
@@ -505,7 +505,7 @@
 					<link href="#jgra58674-bib-0041">1982</link>). It was applied to overlapping one‐hour windows of data that were progressively shifted by 15 min. Only intervals with at least two‐thirds of valid data points (i.e., 40 or more valid points for a 1‐hr interval with a one‐minute sampling rate) have been analyzed. Figure 
 					<link href="#jgra58674-fig-0002">2d</link> shows a normalized power spectrum for the detrended time series from Figure 
 					<link href="#jgra58674-fig-0002">2c</link>. If the normalized power exceeded the 90% confidence level (dashed line in Figure 
-					<link href="#jgra58674-fig-0002">2d</link>) in the Pc5 frequency range, the respective frequency component was identified as a statistically significant Pc5 variation. If significant Pc5 variations at close frequencies (within 
+					<link href="#jgra58674-fig-0002">2d</link>) in the Pc5 frequency range, the respective frequency component was identified as a statistically significant Pc5 variation. If significant Pc5 variations at close frequencies (within
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0014" wiley:location="equation/jgra58674-math-0014.png">
 						<semantics>
@@ -515,7 +515,7 @@
 							<annotation encoding="application/x-tex"> $\pm $</annotation>
 						</semantics>
 					</math>0.2 mHz of the median value) were seen in three or more beams at range gates with the same integer value of MLAT, this one‐hour interval was defined as one containing a Pc5 wave signature (Pc5 interval). To ensure that the Pc5 oscillations were indeed present in the data, each selected interval has been inspected visually for the presence of the consecutive nearly vertical “stripes” in the time‐range plot for the Doppler velocity similar to the ones shown in Figure 
-					<link href="#jgra58674-fig-0002">2a</link>. The amplitude (square root from spectral power) and phase values from this interval were used to identify the pre‐dominant polarization mode and estimate the 
+					<link href="#jgra58674-fig-0002">2a</link>. The amplitude (square root from spectral power) and phase values from this interval were used to identify the pre‐dominant polarization mode and estimate the
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0015" wiley:location="equation/jgra58674-math-0015.png">
 						<semantics>
@@ -529,7 +529,7 @@
 			</section>
 			<section xml:id="jgra58674-sec-0050">
 				<title type="main">Estimation of ULF Wave Characteristics</title>
-				<p>In order to assess ULF wave dominant polarization mode and its azimuthal 
+				<p>In order to assess ULF wave dominant polarization mode and its azimuthal
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0016" wiley:location="equation/jgra58674-math-0016.png">
 						<semantics>
@@ -544,7 +544,7 @@
 							<p>The LoS vectors observed by the radars are parallel to the Earth's surface.</p>
 						</listItem>
 						<listItem>
-							<p>For any given ULF wave, its polarization structure and 
+							<p>For any given ULF wave, its polarization structure and
 								<math
 									xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0017" wiley:location="equation/jgra58674-math-0017.png">
 									<semantics>
@@ -600,7 +600,7 @@
 									<annotation encoding="application/x-tex"> ${\sigma }_{A}=\sigma \sqrt{\frac{2}{N}},$</annotation>
 								</semantics>
 							</math>
-						</displayedItem>where 
+						</displayedItem>where
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0019" wiley:location="equation/jgra58674-math-0019.png">
 							<semantics>
@@ -609,7 +609,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\sigma $</annotation>
 							</semantics>
-						</math> is the standard deviation of the analyzed time series of Doppler velocity values and 
+						</math> is the standard deviation of the analyzed time series of Doppler velocity values and
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0020" wiley:location="equation/jgra58674-math-0020.png">
 							<semantics>
@@ -624,7 +624,7 @@
 					</p>
 				</section>
 				<section xml:id="jgra58674-sec-0070">
-					<title type="main">Azimuthal 
+					<title type="main">Azimuthal
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0021" wiley:location="equation/jgra58674-math-0021.png">
 							<semantics>
@@ -635,7 +635,7 @@
 							</semantics>
 						</math>‐Number
 					</title>
-					<p>The azimuthal 
+					<p>The azimuthal
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0022" wiley:location="equation/jgra58674-math-0022.png">
 							<semantics>
@@ -644,7 +644,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math>‐number values were identified from the slope of a linear fit to the phase versus magnetic longitude (MLON) dependence. As the angle between the LoS velocity and ULF wave field changes with the beam direction, this procedure requires an additional assumption about a linear wave polarization so that the phase measurements are not affected by the phase difference between the poloidal and toroidal components. To ensure that the phase progression with MLON is indeed nearly linear, we only analyzed the 
+						</math>‐number values were identified from the slope of a linear fit to the phase versus magnetic longitude (MLON) dependence. As the angle between the LoS velocity and ULF wave field changes with the beam direction, this procedure requires an additional assumption about a linear wave polarization so that the phase measurements are not affected by the phase difference between the poloidal and toroidal components. To ensure that the phase progression with MLON is indeed nearly linear, we only analyzed the
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0023" wiley:location="equation/jgra58674-math-0023.png">
 							<semantics>
@@ -685,7 +685,7 @@
 									<annotation encoding="application/x-tex"> ${\sigma }_{P}=\frac{\sigma }{A}\sqrt{\frac{2}{N}},$</annotation>
 								</semantics>
 							</math>
-						</displayedItem>where 
+						</displayedItem>where
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0025" wiley:location="equation/jgra58674-math-0025.png">
 							<semantics>
@@ -695,7 +695,7 @@
 								<annotation encoding="application/x-tex"> $A$</annotation>
 							</semantics>
 						</math> is the wave amplitude (Nozawa &amp; Brekke, 
-						<link href="#jgra58674-bib-0028">1995</link>). Positive (negative) 
+						<link href="#jgra58674-bib-0028">1995</link>). Positive (negative)
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0026" wiley:location="equation/jgra58674-math-0026.png">
 							<semantics>
@@ -713,7 +713,7 @@
 							<mediaResource alt="image" href="urn:x-wiley:21699380:media:jgra58674:jgra58674-fig-0004"/>
 						</mediaResourceGroup>
 						<caption>
-							<p>Example plots of magnetic longitude and phase of the Pc5 wave observed by the Super Dual Auroral Radar Network Hokkaido East radar. The red line represents the fitting line, and the error bar represents 
+							<p>Example plots of magnetic longitude and phase of the Pc5 wave observed by the Super Dual Auroral Radar Network Hokkaido East radar. The red line represents the fitting line, and the error bar represents
 								<math
 									xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0027" wiley:location="equation/jgra58674-math-0027.png">
 									<semantics>
@@ -750,7 +750,7 @@
 					</figure>
 				</section>
 				<section xml:id="jgra58674-sec-0080">
-					<title type="main">Accuracy of 
+					<title type="main">Accuracy of
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0030" wiley:location="equation/jgra58674-math-0030.png">
 							<semantics>
@@ -762,7 +762,7 @@
 						</math>‐Number Estimates
 					</title>
 					<p>By estimating the azimuthal wave numbers from the observed phase difference between the data from different radar beams, we automatically assume a linearly polarized wave. However, in reality, we would deal with an elliptically polarized wave for which the observed LoS velocity oscillations represent a superposition of toroidal and poloidal component projections on the beam direction (Figure 
-						<link href="#jgra58674-fig-0005">5</link>). It is, therefore, important to know how much we may err by neglecting the elliptical polarization effects on the 
+						<link href="#jgra58674-fig-0005">5</link>). It is, therefore, important to know how much we may err by neglecting the elliptical polarization effects on the
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0031" wiley:location="equation/jgra58674-math-0031.png">
 							<semantics>
@@ -771,7 +771,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math>‐number estimates. For the elliptically polarized wave, the oscillation phase includes an unknown phase offset 
+						</math>‐number estimates. For the elliptically polarized wave, the oscillation phase includes an unknown phase offset
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0032" wiley:location="equation/jgra58674-math-0032.png">
 							<semantics>
@@ -787,7 +787,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${\Delta }{\phi }_{PT}$</annotation>
 							</semantics>
-						</math> between the toroidal and poloidal components: 
+						</math> between the toroidal and poloidal components:
 
 
 						<displayedItem type="mathematics" xml:id="jgra58674-disp-0003" numbered="yes">
@@ -930,7 +930,7 @@
 							<p>Sketch illustrating contributions from toroidal and poloidal wave components to line‐of‐sight velocity variations (see text for details).</p>
 						</caption>
 					</figure>
-					<p>Here 
+					<p>Here
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0034" wiley:location="equation/jgra58674-math-0034.png">
 							<semantics>
@@ -946,7 +946,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${V}_{P,T}$</annotation>
 							</semantics>
-						</math> are poloidal (meridional plane) and toroidal (longitudinal direction) components of the Doppler velocity, 
+						</math> are poloidal (meridional plane) and toroidal (longitudinal direction) components of the Doppler velocity,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0035" wiley:location="equation/jgra58674-math-0035.png">
 							<semantics>
@@ -964,7 +964,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${V}_{P0,T0}$</annotation>
 							</semantics>
-						</math> their amplitudes, 
+						</math> their amplitudes,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0036" wiley:location="equation/jgra58674-math-0036.png">
 							<semantics>
@@ -973,7 +973,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\omega $</annotation>
 							</semantics>
-						</math> the wave frequency, 
+						</math> the wave frequency,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0037" wiley:location="equation/jgra58674-math-0037.png">
 							<semantics>
@@ -982,7 +982,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $t$</annotation>
 							</semantics>
-						</math> time, 
+						</math> time,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0038" wiley:location="equation/jgra58674-math-0038.png">
 							<semantics>
@@ -991,7 +991,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math> the azimuthal wavenumber, 
+						</math> the azimuthal wavenumber,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0039" wiley:location="equation/jgra58674-math-0039.png">
 							<semantics>
@@ -1000,7 +1000,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${\Lambda }$</annotation>
 							</semantics>
-						</math> the MLON, 
+						</math> the MLON,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0040" wiley:location="equation/jgra58674-math-0040.png">
 							<semantics>
@@ -1009,7 +1009,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\alpha $</annotation>
 							</semantics>
-						</math> the azimuthal angle measured clockwise from the magnetic North direction, and 
+						</math> the azimuthal angle measured clockwise from the magnetic North direction, and
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0041" wiley:location="equation/jgra58674-math-0041.png">
 							<semantics>
@@ -1020,7 +1020,7 @@
 							</semantics>
 						</math> the measured phase of LoS velocity.
 					</p>
-					<p>As one can see, 
+					<p>As one can see,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0042" wiley:location="equation/jgra58674-math-0042.png">
 							<semantics>
@@ -1029,7 +1029,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\phi $</annotation>
 							</semantics>
-						</math> is a rather complex function of the amplitude ratio and phase offset between the poloidal and toroidal projections on the beam direction. For a purely meridional beam orientation, 
+						</math> is a rather complex function of the amplitude ratio and phase offset between the poloidal and toroidal projections on the beam direction. For a purely meridional beam orientation,
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0043" wiley:location="equation/jgra58674-math-0043.png">
 							<semantics>
@@ -1038,7 +1038,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\phi $</annotation>
 							</semantics>
-						</math> is fully determined by the poloidal component, while for a purely longitudinal beam orientation, it characterizes the toroidal component. As we have had no way of knowing the exact wave polarization parameters, we had to assume that it is linearly polarized, and for a correct interpretation of the observed 
+						</math> is fully determined by the poloidal component, while for a purely longitudinal beam orientation, it characterizes the toroidal component. As we have had no way of knowing the exact wave polarization parameters, we had to assume that it is linearly polarized, and for a correct interpretation of the observed
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0044" wiley:location="equation/jgra58674-math-0044.png">
 							<semantics>
@@ -1047,7 +1047,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math>‐numbers, it is important to estimate the related error. For a fixed beam azimuth, the contribution from 
+						</math>‐numbers, it is important to estimate the related error. For a fixed beam azimuth, the contribution from
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0045" wiley:location="equation/jgra58674-math-0045.png">
 							<semantics>
@@ -1063,7 +1063,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${\Delta }{\phi }_{PT}$</annotation>
 							</semantics>
-						</math> is also fixed, but if the azimuth changes from beam to beam, which is the case with SuperDARN, this contribution also changes from beam to beam and introduces an error in estimating the 
+						</math> is also fixed, but if the azimuth changes from beam to beam, which is the case with SuperDARN, this contribution also changes from beam to beam and introduces an error in estimating the
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0046" wiley:location="equation/jgra58674-math-0046.png">
 							<semantics>
@@ -1073,7 +1073,7 @@
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
 						</math>‐number. As one can see from Equation 
-						<link href="#jgra58674-disp-0003">3</link>, this error does not depend on 
+						<link href="#jgra58674-disp-0003">3</link>, this error does not depend on
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0047" wiley:location="equation/jgra58674-math-0047.png">
 							<semantics>
@@ -1082,7 +1082,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math> or 
+						</math> or
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0048" wiley:location="equation/jgra58674-math-0048.png">
 							<semantics>
@@ -1094,7 +1094,7 @@
 						</math> because the phase contributions from both these parameters to poloidal and toroidal components are identical.
 					</p>
 					<p>Figure 
-						<link href="#jgra58674-fig-0006">6</link> shows simulated 
+						<link href="#jgra58674-fig-0006">6</link> shows simulated
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0049" wiley:location="equation/jgra58674-math-0049.png">
 							<semantics>
@@ -1103,7 +1103,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math>‐number error 
+						</math>‐number error
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0050" wiley:location="equation/jgra58674-math-0050.png">
 							<semantics>
@@ -1113,7 +1113,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${\Delta }m$</annotation>
 							</semantics>
-						</math> for HOK radar as a function of a toroidal/poloidal amplitude ratio 
+						</math> for HOK radar as a function of a toroidal/poloidal amplitude ratio
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0051" wiley:location="equation/jgra58674-math-0051.png">
 							<semantics>
@@ -1136,7 +1136,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${V}_{P0}/{V}_{T0}$</annotation>
 							</semantics>
-						</math> and 
+						</math> and
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0052" wiley:location="equation/jgra58674-math-0052.png">
 							<semantics>
@@ -1152,7 +1152,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${\Delta }{\phi }_{PT}$</annotation>
 							</semantics>
-						</math>. In these simulations, we assumed a planar geometry (“flat” Earth) with the constant latitude contour located at 1,000 km north of the radar and radar beam 1 pointing toward magnetic North (this approximately resembles the scatter geometry for the HOK radar). The 
+						</math>. In these simulations, we assumed a planar geometry (“flat” Earth) with the constant latitude contour located at 1,000 km north of the radar and radar beam 1 pointing toward magnetic North (this approximately resembles the scatter geometry for the HOK radar). The
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0053" wiley:location="equation/jgra58674-math-0053.png">
 							<semantics>
@@ -1161,7 +1161,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math>‐number was estimated from a linear fit to simulated 
+						</math>‐number was estimated from a linear fit to simulated
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0054" wiley:location="equation/jgra58674-math-0054.png">
 							<semantics>
@@ -1173,7 +1173,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${V}_{\mathit{los}}$</annotation>
 							</semantics>
-						</math> phase variations from all 16 beams. The amplitude ratio was binned using a logarithmic scale between 0.1 and 10 in order to equalize the representation of poloidal‐dominated (bottom half of the plot) and toroidal‐dominated oscillations (top half). The color‐coded image shows the actual value of 
+						</math> phase variations from all 16 beams. The amplitude ratio was binned using a logarithmic scale between 0.1 and 10 in order to equalize the representation of poloidal‐dominated (bottom half of the plot) and toroidal‐dominated oscillations (top half). The color‐coded image shows the actual value of
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0055" wiley:location="equation/jgra58674-math-0055.png">
 							<semantics>
@@ -1183,7 +1183,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${\Delta }m$</annotation>
 							</semantics>
-						</math> (red‐yellow for positive values and green‐blue for negative values), while the contours correspond to its absolute values 
+						</math> (red‐yellow for positive values and green‐blue for negative values), while the contours correspond to its absolute values
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0056" wiley:location="equation/jgra58674-math-0056.png">
 							<semantics>
@@ -1196,7 +1196,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\vert {\Delta }m\vert =$</annotation>
 							</semantics>
-						</math> 5 and 10. As one can see, for most of the situations, the error's magnitude is restricted to 
+						</math> 5 and 10. As one can see, for most of the situations, the error's magnitude is restricted to
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0057" wiley:location="equation/jgra58674-math-0057.png">
 							<semantics>
@@ -1209,7 +1209,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\vert {\Delta }m\vert \le $</annotation>
 							</semantics>
-						</math> 5, with the largest values of 
+						</math> 5, with the largest values of
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0058" wiley:location="equation/jgra58674-math-0058.png">
 							<semantics>
@@ -1223,7 +1223,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\vert {\Delta }m\vert \simeq \pm $</annotation>
 							</semantics>
-						</math>12 reached at 
+						</math>12 reached at
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0059" wiley:location="equation/jgra58674-math-0059.png">
 							<semantics>
@@ -1247,7 +1247,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${V}_{P0}/{V}_{T0}\simeq $</annotation>
 							</semantics>
-						</math> 3 and 
+						</math> 3 and
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0060" wiley:location="equation/jgra58674-math-0060.png">
 							<semantics>
@@ -1266,7 +1266,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${\Delta }{\phi }_{PT}=180{}^{\circ}$</annotation>
 							</semantics>
-						</math>. The mean magnitude of error for the toroidal/poloidal amplitude ratio between 0.1 and 10 and phase offset between 0 and 
+						</math>. The mean magnitude of error for the toroidal/poloidal amplitude ratio between 0.1 and 10 and phase offset between 0 and
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0061" wiley:location="equation/jgra58674-math-0061.png">
 							<semantics>
@@ -1278,7 +1278,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> ${360}^{\mathrm{o}}$</annotation>
 							</semantics>
-						</math> is 
+						</math> is
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0062" wiley:location="equation/jgra58674-math-0062.png">
 							<semantics>
@@ -1292,7 +1292,7 @@
 								<annotation encoding="application/x-tex"> $\vert {\Delta }m\vert =$</annotation>
 							</semantics>
 						</math> 2.23. Further analysis showed that application of the 0.7 correlation coefficient cutoff described in Section 
-						<link href="#jgra58674-sec-0070">2.3.2</link> effectively removed approximately half of the data with 
+						<link href="#jgra58674-sec-0070">2.3.2</link> effectively removed approximately half of the data with
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0063" wiley:location="equation/jgra58674-math-0063.png">
 							<semantics>
@@ -1306,7 +1306,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\vert {\Delta }m\vert \ge 7$</annotation>
 							</semantics>
-						</math>, which decreased the mean error to 
+						</math>, which decreased the mean error to
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0064" wiley:location="equation/jgra58674-math-0064.png">
 							<semantics>
@@ -1328,7 +1328,7 @@
 							<mediaResource alt="image" href="urn:x-wiley:21699380:media:jgra58674:jgra58674-fig-0006"/>
 						</mediaResourceGroup>
 						<caption>
-							<p>Simulated dependence of error in estimating 
+							<p>Simulated dependence of error in estimating
 								<math
 									xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0065" wiley:location="equation/jgra58674-math-0065.png">
 									<semantics>
@@ -1341,7 +1341,7 @@
 							</p>
 						</caption>
 					</figure>
-					<p>Another source of errors is related to the fact that different beams of the SuperDARN radars are sampled consecutively so that their data samples are shifted in time with respect to each other. This leads to an incremental phase offset between the beams and introduces some errors in estimating 
+					<p>Another source of errors is related to the fact that different beams of the SuperDARN radars are sampled consecutively so that their data samples are shifted in time with respect to each other. This leads to an incremental phase offset between the beams and introduces some errors in estimating
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0066" wiley:location="equation/jgra58674-math-0066.png">
 							<semantics>
@@ -1350,7 +1350,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math>‐numbers. Our calculations show that for the typical integration time value of 
+						</math>‐numbers. Our calculations show that for the typical integration time value of
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0067" wiley:location="equation/jgra58674-math-0067.png">
 							<semantics>
@@ -1359,7 +1359,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $\simeq $</annotation>
 							</semantics>
-						</math>3 s/beam the corresponding errors for Pc5 waves are restricted to 
+						</math>3 s/beam the corresponding errors for Pc5 waves are restricted to
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0068" wiley:location="equation/jgra58674-math-0068.png">
 							<semantics>
@@ -1374,7 +1374,7 @@
 							</semantics>
 						</math> 3.5 with the mean value between 2.0 and 2.5.
 					</p>
-					<p>In summary, the magnitude of a cumulative mean error in estimating 
+					<p>In summary, the magnitude of a cumulative mean error in estimating
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0069" wiley:location="equation/jgra58674-math-0069.png">
 							<semantics>
@@ -1383,7 +1383,7 @@
 								</mrow>
 								<annotation encoding="application/x-tex"> $m$</annotation>
 							</semantics>
-						</math>‐number caused by the non‐even sampling and the assumption about linear polarization of the ULF wave should be restricted to 
+						</math>‐number caused by the non‐even sampling and the assumption about linear polarization of the ULF wave should be restricted to
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0070" wiley:location="equation/jgra58674-math-0070.png">
 							<semantics>
@@ -1398,7 +1398,7 @@
 								<annotation encoding="application/x-tex"> $\vert {\Delta }m\vert \le 5$</annotation>
 							</semantics>
 						</math>. Furthermore, the assumption about a linear wave polarization causes both positive and negative errors with equal probability (see Figure 
-						<link href="#jgra58674-fig-0006">6</link>), which increase the statistical variance of the 
+						<link href="#jgra58674-fig-0006">6</link>), which increase the statistical variance of the
 						<math
 							xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0071" wiley:location="equation/jgra58674-math-0071.png">
 							<semantics>
@@ -1478,7 +1478,7 @@
 						<mediaResource alt="image" href="urn:x-wiley:21699380:media:jgra58674:jgra58674-fig-0008"/>
 					</mediaResourceGroup>
 					<caption>
-						<p>MLT‐MLAT maps of (a) number of intervals with 
+						<p>MLT‐MLAT maps of (a) number of intervals with
 							<math
 								xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0075" wiley:location="equation/jgra58674-math-0075.png">
 								<semantics>
@@ -1526,7 +1526,7 @@
 							<annotation encoding="application/x-tex"> ${}^{\circ}$</annotation>
 						</semantics>
 					</math> MLAT), Pc5 waves were rarely observed despite the high number of ionospheric backscatter echo occurrences because the backscatter was provided by the combination of the E‐layer and meteor/near‐range echoes (e.g., Ponomarenko et al., 
-					<link href="#jgra58674-bib-0033">2016</link>) for which the 
+					<link href="#jgra58674-bib-0033">2016</link>) for which the
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0079" wiley:location="equation/jgra58674-math-0079.png">
 						<semantics>
@@ -1542,7 +1542,7 @@
 				<p>The results of CVW occurrence analysis are shown in Figure 
 					<link href="#jgra58674-fig-0009">9</link> in the same format as in Figure 
 					<link href="#jgra58674-fig-0008">8</link>. The overall MLT/MLAT distribution of ionospheric scatter for CVW (Figure 
-					<link href="#jgra58674-fig-0009">9a</link>) is similar to that for the HOP pair, but the whole pattern is shifted by 
+					<link href="#jgra58674-fig-0009">9a</link>) is similar to that for the HOP pair, but the whole pattern is shifted by
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0080" wiley:location="equation/jgra58674-math-0080.png">
 						<semantics>
@@ -1586,7 +1586,7 @@
 				</figure>
 			</section>
 			<section xml:id="jgra58674-sec-0120">
-				<title type="main">Azimuthal 
+				<title type="main">Azimuthal
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0083" wiley:location="equation/jgra58674-math-0083.png">
 						<semantics>
@@ -1598,7 +1598,7 @@
 					</math>‐Numbers
 				</title>
 				<p>Figure 
-					<link href="#jgra58674-fig-0010">10</link> shows histograms of the 
+					<link href="#jgra58674-fig-0010">10</link> shows histograms of the
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0084" wiley:location="equation/jgra58674-math-0084.png">
 						<semantics>
@@ -1607,7 +1607,7 @@
 							</mrow>
 							<annotation encoding="application/x-tex"> $m$</annotation>
 						</semantics>
-					</math>‐number absolute values for the Pc5 waves observed by HOP and CVW radars. While both data sets show modes at 
+					</math>‐number absolute values for the Pc5 waves observed by HOP and CVW radars. While both data sets show modes at
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0085" wiley:location="equation/jgra58674-math-0085.png">
 						<semantics>
@@ -1628,7 +1628,7 @@
 						<mediaResource alt="image" href="urn:x-wiley:21699380:media:jgra58674:jgra58674-fig-0010"/>
 					</mediaResourceGroup>
 					<caption>
-						<p>Histograms of absolute 
+						<p>Histograms of absolute
 							<math
 								xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0086" wiley:location="equation/jgra58674-math-0086.png">
 								<semantics>
@@ -1651,7 +1651,7 @@
 							</mrow>
 							<annotation encoding="application/x-tex"> $m$</annotation>
 						</semantics>
-					</math>‐number occurrence maps for HOP (a) and CVW (b). In the HOP results, the pre‐midnight patterns for eastward and westward propagation are very similar, but after midnight, eastward propagation is prevailing. In contrast, for CVW in the pre‐midnight sector, the number of Pc5 events with eastward propagation is significantly higher than that for westward‐propagating waves, but after midnight, the probabilities for positive and negative 
+					</math>‐number occurrence maps for HOP (a) and CVW (b). In the HOP results, the pre‐midnight patterns for eastward and westward propagation are very similar, but after midnight, eastward propagation is prevailing. In contrast, for CVW in the pre‐midnight sector, the number of Pc5 events with eastward propagation is significantly higher than that for westward‐propagating waves, but after midnight, the probabilities for positive and negative
 					<math
 						xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0088" wiley:location="equation/jgra58674-math-0088.png">
 						<semantics>
@@ -1679,7 +1679,7 @@
 									</mrow>
 									<annotation encoding="application/x-tex"> $m$</annotation>
 								</semantics>
-							</math>‐number histograms of Pc5 events for HOkkaido Pair (a) and Christmas Valley West (b). Positive 
+							</math>‐number histograms of Pc5 events for HOkkaido Pair (a) and Christmas Valley West (b). Positive
 							<math
 								xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0090" wiley:location="equation/jgra58674-math-0090.png">
 								<semantics>
@@ -1766,7 +1766,7 @@
 						</list>
 					</listItem>
 					<listItem>
-						<p>Azimuthal 
+						<p>Azimuthal
 							<math
 								xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0094" wiley:location="equation/jgra58674-math-0094.png">
 								<semantics>
@@ -1780,7 +1780,7 @@
 						<list style="custom">
 							<listItem>
 								<label>‐</label>
-								<p>The 
+								<p>The
 									<math
 										xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0095" wiley:location="equation/jgra58674-math-0095.png">
 										<semantics>
@@ -1789,7 +1789,7 @@
 											</mrow>
 											<annotation encoding="application/x-tex"> $m$</annotation>
 										</semantics>
-									</math>‐number magnitude showed similar statistical distributions for both HOP and CVW data sets, with the mode at 
+									</math>‐number magnitude showed similar statistical distributions for both HOP and CVW data sets, with the mode at
 									<math
 										xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0096" wiley:location="equation/jgra58674-math-0096.png">
 										<semantics>
@@ -1840,7 +1840,7 @@
 					</listItem>
 				</list>
 			</p>
-			<p>The apparent absence of the latitudinal dependence in the wave's frequency and the 
+			<p>The apparent absence of the latitudinal dependence in the wave's frequency and the
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0097" wiley:location="equation/jgra58674-math-0097.png">
 					<semantics>
@@ -1853,7 +1853,7 @@
 				<link href="#jgra58674-bib-0065">1994</link>), these frequencies would exceed 10 mHz), so we are most probably dealing with transient Pc5 waves, which are generated as (or converted into) fast mode waves propagating isotropically inside the magnetosphere. Here, part of their energy is converted into a field‐aligned mode like shear Alfvén waves. These waves then propagate earthward and reach ionospheric heights, where they are observed by SuperDARN radars as variations in the plasma drift velocity.
 			</p>
 			<p>The KHI produces surface Pc5 waves at the flanks of the magnetopause. This means that their amplitude and occurrence are expected to maximize in the dawn and dusk sectors, and the propagation direction is antisunward (eastward at dusk and westward at dawn). The KHI‐generated waves at the flanks of the magnetosphere are believed to be associated with toroidal modes (W. Liu et al., 
-				<link href="#jgra58674-bib-0023">2009</link>). These characteristics fit well with the dusk toroidal population at CVW, except that it is commonly assumed that the KHI‐driven waves are characterized by relatively low 
+				<link href="#jgra58674-bib-0023">2009</link>). These characteristics fit well with the dusk toroidal population at CVW, except that it is commonly assumed that the KHI‐driven waves are characterized by relatively low
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0098" wiley:location="equation/jgra58674-math-0098.png">
 					<semantics>
@@ -1865,7 +1865,7 @@
 						<annotation encoding="application/x-tex"> $m\le 5$</annotation>
 					</semantics>
 				</math> (e.g., Figure 2f from Sarris et al., 
-				<link href="#jgra58674-bib-0040">2013</link>). However, these estimates are mostly based on ground magnetometer measurements and may be significantly reduced by spatial integration effects as compared to the actual 
+				<link href="#jgra58674-bib-0040">2013</link>). However, these estimates are mostly based on ground magnetometer measurements and may be significantly reduced by spatial integration effects as compared to the actual
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0099" wiley:location="equation/jgra58674-math-0099.png">
 					<semantics>
@@ -1877,7 +1877,7 @@
 				</math>‐numbers at the ionospheric heights (Ponomarenko et al., 
 				<link href="#jgra58674-bib-0037">2001</link>; Sarris et al., 
 				<link href="#jgra58674-bib-0040">2013</link>). Furthermore, simulations by Claudepierre et al. (
-				<link href="#jgra58674-bib-0005">2008</link>) show that the expected azimuthal wavenumbers are much higher 
+				<link href="#jgra58674-bib-0005">2008</link>) show that the expected azimuthal wavenumbers are much higher
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0100" wiley:location="equation/jgra58674-math-0100.png">
 					<semantics>
@@ -1898,7 +1898,7 @@
 				<link href="#jgra58674-bib-0022">2008</link>). The compressional waves have magnetic field variation mostly in the radial direction (Hartinger et al., 
 				<link href="#jgra58674-bib-0012">2012</link>), which corresponds to the predominantly poloidal modes. One would expect that the azimuthal wavenumbers of the fundamental modes are rather low as the cavity extent and, therefore, the phase coherence scale should be comparable with the size of the magnetosphere. However, we were unable to locate relevant experimental works that would help to test this assumption.
 			</p>
-			<p>The particle‐driven instabilities, drift‐ or bounce‐resonance, are conventionally characterized by very high azimuthal wavenumbers 
+			<p>The particle‐driven instabilities, drift‐ or bounce‐resonance, are conventionally characterized by very high azimuthal wavenumbers
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0101" wiley:location="equation/jgra58674-math-0101.png">
 					<semantics>
@@ -1915,9 +1915,9 @@
 					</semantics>
 				</math>, poloidal polarization, and westward propagation (Dai et al., 
 				<link href="#jgra58674-bib-0007">2013</link>; Takahashi et al., 
-				<link href="#jgra58674-bib-0061">1985</link>, 
+				<link href="#jgra58674-bib-0061">1985</link>,
 				<link href="#jgra58674-bib-0060">2013</link>; Yamakawa et al., 
-				<link href="#jgra58674-bib-0067">2020</link>), although there are indications that some drift resonance waves may possess relatively low 
+				<link href="#jgra58674-bib-0067">2020</link>), although there are indications that some drift resonance waves may possess relatively low
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0102" wiley:location="equation/jgra58674-math-0102.png">
 					<semantics>
@@ -1938,7 +1938,7 @@
 						</mrow>
 						<annotation encoding="application/x-tex"> $m$</annotation>
 					</semantics>
-				</math> part of the detected Pc5 wave population but could not represent the main source because the majority of the observed waves possess significantly lower 
+				</math> part of the detected Pc5 wave population but could not represent the main source because the majority of the observed waves possess significantly lower
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0104" wiley:location="equation/jgra58674-math-0104.png">
 					<semantics>
@@ -1951,8 +1951,8 @@
 				<link href="#jgra58674-fig-0010">10</link>).
 			</p>
 			<p>On the propagation mechanisms, the lower overall Pc5 wave occurrence in HOP data may be related to the fact that the respective FoVs cover lower magnetic latitudes that are located farther from the wave source at the magnetopause or inside the magnetosphere as compared to those for CVW. Furthermore, the noticeable difference in the MLT distribution of the wave occurrence between HOP and CVW (compare panels (b–d) in Figures 
-				<link href="#jgra58674-fig-0008">8</link> and 
-				<link href="#jgra58674-fig-0009">9</link>) signifies at least some difference in the respective propagation mechanisms. From the first glance, the nearly symmetric pre‐ and post‐midnight wave populations with the minimum near the local magnetic midnight observed by CVW can be interpreted in terms of wave propagation from dayside to nightside along the flanks of the magnetosphere, but the anticipated anti‐sunward propagation (positive 
+				<link href="#jgra58674-fig-0008">8</link> and
+				<link href="#jgra58674-fig-0009">9</link>) signifies at least some difference in the respective propagation mechanisms. From the first glance, the nearly symmetric pre‐ and post‐midnight wave populations with the minimum near the local magnetic midnight observed by CVW can be interpreted in terms of wave propagation from dayside to nightside along the flanks of the magnetosphere, but the anticipated anti‐sunward propagation (positive
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0105" wiley:location="equation/jgra58674-math-0105.png">
 					<semantics>
@@ -1968,7 +1968,7 @@
 		<section xml:id="jgra58674-sec-0140">
 			<title type="main">Conclusion and Future Research</title>
 			<p>To our knowledge, this work represents a first attempt to use common mode data from a single SuperDARN radar for determining a dominant polarization mode (poloidal vs. toroidal) and estimating the magnitude and sign of the azimuthal m‐number of Pc5 ULF waves at ionospheric heights. We devised a technique that utilizes the Shi et al. (
-				<link href="#jgra58674-bib-0042">2018</link>) approach for detecting ULF waves in radar data and then determines the polarization mode and azimuthal 
+				<link href="#jgra58674-bib-0042">2018</link>) approach for detecting ULF waves in radar data and then determines the polarization mode and azimuthal
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0106" wiley:location="equation/jgra58674-math-0106.png">
 					<semantics>
@@ -1987,7 +1987,7 @@
 						</mrow>
 						<annotation encoding="application/x-tex"> $\simeq 2$</annotation>
 					</semantics>
-				</math> mHz) and 
+				</math> mHz) and
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0108" wiley:location="equation/jgra58674-math-0108.png">
 					<semantics>
@@ -1996,7 +1996,7 @@
 						</mrow>
 						<annotation encoding="application/x-tex"> $m$</annotation>
 					</semantics>
-				</math>‐number magnitudes 
+				</math>‐number magnitudes
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0109" wiley:location="equation/jgra58674-math-0109.png">
 					<semantics>
@@ -2023,7 +2023,7 @@
 						</mrow>
 						<annotation encoding="application/x-tex"> $m$</annotation>
 					</semantics>
-				</math> parts of the observed ULF wave populations. These might be associated with the drift‐bounce instability involving westward‐propagating electrons and eastward‐propagating protons, which would contribute to both positive and negative 
+				</math> parts of the observed ULF wave populations. These might be associated with the drift‐bounce instability involving westward‐propagating electrons and eastward‐propagating protons, which would contribute to both positive and negative
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0111" wiley:location="equation/jgra58674-math-0111.png">
 					<semantics>
@@ -2032,7 +2032,7 @@
 						</mrow>
 						<annotation encoding="application/x-tex"> $m$</annotation>
 					</semantics>
-				</math>‐numbers on either side of the local midnight. Besides that, there are several other scientific questions to be addressed. For example, it is unclear why the diurnal wave occurrence variation at HOP is essentially the inverse of that at CVW, that is, the HOP occurrence is at its maximum near 24 UT while the CVW occurrence shows a pronounced minimum at that time. In order to resolve these and other similar issues, we plan to perform a systematic comparison of the radar data with other instrumentation, both ground‐ and space‐based. On a methodological side, we plan to improve the analysis technique by fitting model ULF wave characteristics to the experimental dependence of the wave's amplitude and phase on MLAT. If successful, this approach will allow to quantify the polarization characteristics (toroidal/poloidal amplitude ratio, polarization ellipse orientation, polarization rotation direction) and to improve the accuracy of 
+				</math>‐numbers on either side of the local midnight. Besides that, there are several other scientific questions to be addressed. For example, it is unclear why the diurnal wave occurrence variation at HOP is essentially the inverse of that at CVW, that is, the HOP occurrence is at its maximum near 24 UT while the CVW occurrence shows a pronounced minimum at that time. In order to resolve these and other similar issues, we plan to perform a systematic comparison of the radar data with other instrumentation, both ground‐ and space‐based. On a methodological side, we plan to improve the analysis technique by fitting model ULF wave characteristics to the experimental dependence of the wave's amplitude and phase on MLAT. If successful, this approach will allow to quantify the polarization characteristics (toroidal/poloidal amplitude ratio, polarization ellipse orientation, polarization rotation direction) and to improve the accuracy of
 				<math
 					xmlns="http://www.w3.org/1998/Math/MathML" display="inline" altimg="urn:x-wiley:21699380:media:jgra58674:jgra58674-math-0112" wiley:location="equation/jgra58674-math-0112.png">
 					<semantics>
@@ -2052,19 +2052,19 @@
 			<section type="dataAvailability" numbered="no" xml:id="jgra58674-sec-0170">
 				<title type="main">Data Availability Statement</title>
 				<p>Raw SuperDARN data used in this study together with the licensing information and data description are available from Federated Research Data Repository (FRDR), Canada, at (Super Dual Auroral Radar Network, 
-					<link href="#jgra58674-bib-0046">2021a</link>, 
-					<link href="#jgra58674-bib-0047">2021b</link>, 
-					<link href="#jgra58674-bib-0048">2021c</link>, 
-					<link href="#jgra58674-bib-0049">2021d</link>, 
-					<link href="#jgra58674-bib-0050">2021e</link>, 
-					<link href="#jgra58674-bib-0051">2021f</link>, 
-					<link href="#jgra58674-bib-0052">2021g</link>, 
-					<link href="#jgra58674-bib-0053">2021h</link>, 
-					<link href="#jgra58674-bib-0054">2021i</link>, 
-					<link href="#jgra58674-bib-0055">2021j</link>, 
-					<link href="#jgra58674-bib-0056">2021k</link>, 
-					<link href="#jgra58674-bib-0057">2021l</link>, 
-					<link href="#jgra58674-bib-0058">2022a</link>, 
+					<link href="#jgra58674-bib-0046">2021a</link>,
+					<link href="#jgra58674-bib-0047">2021b</link>,
+					<link href="#jgra58674-bib-0048">2021c</link>,
+					<link href="#jgra58674-bib-0049">2021d</link>,
+					<link href="#jgra58674-bib-0050">2021e</link>,
+					<link href="#jgra58674-bib-0051">2021f</link>,
+					<link href="#jgra58674-bib-0052">2021g</link>,
+					<link href="#jgra58674-bib-0053">2021h</link>,
+					<link href="#jgra58674-bib-0054">2021i</link>,
+					<link href="#jgra58674-bib-0055">2021j</link>,
+					<link href="#jgra58674-bib-0056">2021k</link>,
+					<link href="#jgra58674-bib-0057">2021l</link>,
+					<link href="#jgra58674-bib-0058">2022a</link>,
 					<link href="#jgra58674-bib-0059">2022b</link>).
 				</p>
 				<p>The Doppler velocity values and other related parameters analyzed in this study were obtained by processing RAWACF data using the Radar Software Toolkit (RST) package written in C (SuperDARN Data Analysis Working Group, 
@@ -2077,178 +2077,178 @@
 			<bib xml:id="jgra58674-bib-0001">
 				<citation type="journal" xml:id="jgra58674-cit-0001">
 					<author>
-						<familyName>Allan</familyName>, 
+						<familyName>Allan</familyName>,
 						<givenNames>W.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Poulter</familyName>, 
+						<familyName>Poulter</familyName>,
 						<givenNames>E. M.</givenNames>
 					</author> (
-					<pubYear year="1992">1992</pubYear>). 
-					<articleTitle>ULF waves—Their relationship to the structure of the Earth’s magnetosphere</articleTitle>. 
-					<journalTitle>Reports on Progress in Physics</journalTitle>, 
+					<pubYear year="1992">1992</pubYear>).
+					<articleTitle>ULF waves—Their relationship to the structure of the Earth’s magnetosphere</articleTitle>.
+					<journalTitle>Reports on Progress in Physics</journalTitle>,
 					<vol>55</vol>(
-					<issue>5</issue>), 
+					<issue>5</issue>),
 					<pageFirst>533</pageFirst>–
-					<pageLast>598</pageLast>. 
+					<pageLast>598</pageLast>.
 					<url href="https://doi.org/10.1088/0034-4885/55/5/001">https://doi.org/10.1088/0034‐4885/55/5/001</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0002">
 				<citation type="journal" xml:id="jgra58674-cit-0002">
 					<author>
-						<familyName>Allan</familyName>, 
+						<familyName>Allan</familyName>,
 						<givenNames>W.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>White</familyName>, 
+						<familyName>White</familyName>,
 						<givenNames>S.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Poulter</familyName>, 
+						<familyName>Poulter</familyName>,
 						<givenNames>E.</givenNames>
 					</author> (
-					<pubYear year="1986">1986</pubYear>). 
-					<articleTitle>Impulse‐excited hydromagnetic cavity and field‐line resonances in the magnetosphere</articleTitle>. 
-					<journalTitle>Planetary and Space Science</journalTitle>, 
+					<pubYear year="1986">1986</pubYear>).
+					<articleTitle>Impulse‐excited hydromagnetic cavity and field‐line resonances in the magnetosphere</articleTitle>.
+					<journalTitle>Planetary and Space Science</journalTitle>,
 					<vol>34</vol>(
-					<issue>4</issue>), 
+					<issue>4</issue>),
 					<pageFirst>371</pageFirst>–
-					<pageLast>385</pageLast>. 
+					<pageLast>385</pageLast>.
 					<url href="https://doi.org/10.1016/0032-0633(86)90144-3">https://doi.org/10.1016/0032‐0633(86)90144‐3</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0003">
 				<citation type="journal" xml:id="jgra58674-cit-0003">
 					<author>
-						<familyName>Chi</familyName>, 
+						<familyName>Chi</familyName>,
 						<givenNames>P. J.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Russell</familyName>, 
+						<familyName>Russell</familyName>,
 						<givenNames>C. T.</givenNames>
 					</author> (
-					<pubYear year="2005">2005</pubYear>). 
-					<articleTitle>Travel‐time magnetoseismology: Magnetospheric sounding by timing the tremors in space</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2005">2005</pubYear>).
+					<articleTitle>Travel‐time magnetoseismology: Magnetospheric sounding by timing the tremors in space</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>32</vol>(
-					<issue>18</issue>), 
-					<eLocator>412</eLocator>. 
+					<issue>18</issue>),
+					<eLocator>412</eLocator>.
 					<url href="https://doi.org/10.1029/2005GL023441">https://doi.org/10.1029/2005GL023441</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0004">
 				<citation type="journal" xml:id="jgra58674-cit-0004">
 					<author>
-						<familyName>Chisham</familyName>, 
+						<familyName>Chisham</familyName>,
 						<givenNames>G.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Lester</familyName>, 
+						<familyName>Lester</familyName>,
 						<givenNames>M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Milan</familyName>, 
+						<familyName>Milan</familyName>,
 						<givenNames>S. E.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Freeman</familyName>, 
+						<familyName>Freeman</familyName>,
 						<givenNames>M. P.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Bristow</familyName>, 
+						<familyName>Bristow</familyName>,
 						<givenNames>W. A.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Grocott</familyName>, 
+						<familyName>Grocott</familyName>,
 						<givenNames>A.</givenNames>
 					</author>, et al. (
-					<pubYear year="2007">2007</pubYear>). 
-					<articleTitle>A decade of the Super Dual Auroral Radar Network (SuperDARN): Scientific achievements, new techniques and future directions</articleTitle>. 
-					<journalTitle>Surveys in Geophysics</journalTitle>, 
+					<pubYear year="2007">2007</pubYear>).
+					<articleTitle>A decade of the Super Dual Auroral Radar Network (SuperDARN): Scientific achievements, new techniques and future directions</articleTitle>.
+					<journalTitle>Surveys in Geophysics</journalTitle>,
 					<vol>28</vol>(
-					<issue>1</issue>), 
+					<issue>1</issue>),
 					<pageFirst>33</pageFirst>–
-					<pageLast>109</pageLast>. 
+					<pageLast>109</pageLast>.
 					<url href="https://doi.org/10.1007/s10712-007-9017-8">https://doi.org/10.1007/s10712‐007‐9017‐8</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0005">
 				<citation type="journal" xml:id="jgra58674-cit-0005">
 					<author>
-						<familyName>Claudepierre</familyName>, 
+						<familyName>Claudepierre</familyName>,
 						<givenNames>S. G.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Elkington</familyName>, 
+						<familyName>Elkington</familyName>,
 						<givenNames>S. R.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Wiltberger</familyName>, 
+						<familyName>Wiltberger</familyName>,
 						<givenNames>M.</givenNames>
 					</author> (
-					<pubYear year="2008">2008</pubYear>). 
-					<articleTitle>Solar wind driving of magnetospheric ULF waves: Pulsations driven by velocity shear at the magnetopause</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="2008">2008</pubYear>).
+					<articleTitle>Solar wind driving of magnetospheric ULF waves: Pulsations driven by velocity shear at the magnetopause</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>113</vol>(
-					<issue>A5</issue>), 
-					<eLocator>A05218</eLocator>. 
+					<issue>A5</issue>),
+					<eLocator>A05218</eLocator>.
 					<url href="https://doi.org/10.1029/2007JA012890">https://doi.org/10.1029/2007JA012890</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0006">
 				<citation type="journal" xml:id="jgra58674-cit-0006">
 					<author>
-						<familyName>Clausen</familyName>, 
+						<familyName>Clausen</familyName>,
 						<givenNames>L. B. N.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Yeoman</familyName>, 
+						<familyName>Yeoman</familyName>,
 						<givenNames>T. K.</givenNames>
 					</author> (
-					<pubYear year="2009">2009</pubYear>). 
-					<articleTitle>Comprehensive survey of Pc4 and Pc5 band spectral content in Cluster magnetic field data</articleTitle>. 
-					<journalTitle>Annales Geophysicae</journalTitle>, 
+					<pubYear year="2009">2009</pubYear>).
+					<articleTitle>Comprehensive survey of Pc4 and Pc5 band spectral content in Cluster magnetic field data</articleTitle>.
+					<journalTitle>Annales Geophysicae</journalTitle>,
 					<vol>27</vol>(
-					<issue>8</issue>), 
+					<issue>8</issue>),
 					<pageFirst>3237</pageFirst>–
-					<pageLast>3248</pageLast>. 
+					<pageLast>3248</pageLast>.
 					<url href="https://doi.org/10.5194/angeo-27-3237-2009">https://doi.org/10.5194/angeo‐27‐3237‐2009</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0007">
 				<citation type="journal" xml:id="jgra58674-cit-0007">
 					<author>
-						<familyName>Dai</familyName>, 
+						<familyName>Dai</familyName>,
 						<givenNames>L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Takahashi</familyName>, 
+						<familyName>Takahashi</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Wygant</familyName>, 
+						<familyName>Wygant</familyName>,
 						<givenNames>J. R.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Chen</familyName>, 
+						<familyName>Chen</familyName>,
 						<givenNames>L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Bonnell</familyName>, 
+						<familyName>Bonnell</familyName>,
 						<givenNames>J.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Cattell</familyName>, 
+						<familyName>Cattell</familyName>,
 						<givenNames>C. A.</givenNames>
 					</author>, et al. (
-					<pubYear year="2013">2013</pubYear>). 
-					<articleTitle>Excitation of poloidal standing Alfvén waves through drift resonance wave‐particle interaction</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2013">2013</pubYear>).
+					<articleTitle>Excitation of poloidal standing Alfvén waves through drift resonance wave‐particle interaction</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>40</vol>(
-					<issue>16</issue>), 
+					<issue>16</issue>),
 					<pageFirst>4127</pageFirst>–
-					<pageLast>4132</pageLast>. 
+					<pageLast>4132</pageLast>.
 					<url href="https://doi.org/10.1002/grl.50800">https://doi.org/10.1002/grl.50800</url>
 				</citation>
 			</bib>
@@ -2256,1430 +2256,1430 @@
 				<citation type="journal" xml:id="jgra58674-cit-0008">
 					<author>
 						<familyNamePrefix>de</familyNamePrefix>
-						<familyName>Larquier</familyName>, 
+						<familyName>Larquier</familyName>,
 						<givenNames>S.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Ribeiro</familyName>, 
+						<familyName>Ribeiro</familyName>,
 						<givenNames>A. J.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Ruohoniemi</familyName>, 
+						<familyName>Ruohoniemi</familyName>,
 						<givenNames>J. M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Baker</familyName>, 
+						<familyName>Baker</familyName>,
 						<givenNames>J. B. H.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Sterne</familyName>, 
+						<familyName>Sterne</familyName>,
 						<givenNames>K. T.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Lester</familyName>, 
+						<familyName>Lester</familyName>,
 						<givenNames>M.</givenNames>
 					</author> (
-					<pubYear year="2013">2013</pubYear>). 
-					<articleTitle>On the spatial distribution of decameter‒scale subauroral ionospheric irregularities observed by SuperDARN radars</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
+					<pubYear year="2013">2013</pubYear>).
+					<articleTitle>On the spatial distribution of decameter‒scale subauroral ionospheric irregularities observed by SuperDARN radars</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
 					<vol>118</vol>(
-					<issue>8</issue>), 
+					<issue>8</issue>),
 					<pageFirst>5244</pageFirst>–
-					<pageLast>5254</pageLast>. 
+					<pageLast>5254</pageLast>.
 					<url href="https://doi.org/10.1002/jgra.50475">https://doi.org/10.1002/jgra.50475</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0009">
 				<citation type="journal" xml:id="jgra58674-cit-0009">
 					<author>
-						<familyName>Fairfield</familyName>, 
+						<familyName>Fairfield</familyName>,
 						<givenNames>D. H.</givenNames>
 					</author> (
-					<pubYear year="1969">1969</pubYear>). 
-					<articleTitle>Bow shock associated waves observed in the far upstream interplanetary medium</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1969">1969</pubYear>).
+					<articleTitle>Bow shock associated waves observed in the far upstream interplanetary medium</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>74</vol>(
-					<issue>14</issue>), 
+					<issue>14</issue>),
 					<pageFirst>3541</pageFirst>–
-					<pageLast>3553</pageLast>. 
+					<pageLast>3553</pageLast>.
 					<url href="https://doi.org/10.1029/JA074i014p03541">https://doi.org/10.1029/JA074i014p03541</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0010">
 				<citation type="book" xml:id="jgra58674-cit-0010">
 					<author>
-						<familyName>Fairfield</familyName>, 
+						<familyName>Fairfield</familyName>,
 						<givenNames>D. H.</givenNames>
 					</author> (
-					<pubYear year="1979">1979</pubYear>). 
-					<chapterTitle>Global aspects of the Earth’s magnetopause</chapterTitle>. In 
+					<pubYear year="1979">1979</pubYear>).
+					<chapterTitle>Global aspects of the Earth’s magnetopause</chapterTitle>. In
 					<editor>
 						<givenNames>J.</givenNames>
 						<familyName>Lemaire</familyName>
-					</editor> (Ed.), 
-					<bookTitle>Magnetospheric boundary layers</bookTitle> (Vol. 
-					<vol>148</vol>, pp. 
+					</editor> (Ed.),
+					<bookTitle>Magnetospheric boundary layers</bookTitle> (Vol.
+					<vol>148</vol>, pp.
 					<pageFirst>5</pageFirst>–
-					<pageLast>13</pageLast>). 
+					<pageLast>13</pageLast>).
 					<publisherName>European Space Agency Special Publication</publisherName>.
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0011">
 				<citation type="journal" xml:id="jgra58674-cit-0011">
 					<author>
-						<familyName>Hao</familyName>, 
+						<familyName>Hao</familyName>,
 						<givenNames>Y. X.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zhao</familyName>, 
+						<familyName>Zhao</familyName>,
 						<givenNames>X. X.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zong</familyName>, 
+						<familyName>Zong</familyName>,
 						<givenNames>Q.‐G.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zhou</familyName>, 
+						<familyName>Zhou</familyName>,
 						<givenNames>X.‐Z.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Rankin</familyName>, 
+						<familyName>Rankin</familyName>,
 						<givenNames>R.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Chen</familyName>, 
+						<familyName>Chen</familyName>,
 						<givenNames>X. R.</givenNames>
 					</author>, et al. (
-					<pubYear year="2020">2020</pubYear>). 
-					<articleTitle>Simultaneous observations of localized and global drift resonance</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2020">2020</pubYear>).
+					<articleTitle>Simultaneous observations of localized and global drift resonance</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>47</vol>(
-					<issue>17</issue>), 
-					<eLocator>e2020GL088019</eLocator>. 
+					<issue>17</issue>),
+					<eLocator>e2020GL088019</eLocator>.
 					<url href="https://doi.org/10.1029/2020GL088019">https://doi.org/10.1029/2020GL088019</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0012">
 				<citation type="journal" xml:id="jgra58674-cit-0012">
 					<author>
-						<familyName>Hartinger</familyName>, 
+						<familyName>Hartinger</familyName>,
 						<givenNames>M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Angelopoulos</familyName>, 
+						<familyName>Angelopoulos</familyName>,
 						<givenNames>V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Moldwin</familyName>, 
+						<familyName>Moldwin</familyName>,
 						<givenNames>M. B.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Nishimura</familyName>, 
+						<familyName>Nishimura</familyName>,
 						<givenNames>Y.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Turner</familyName>, 
+						<familyName>Turner</familyName>,
 						<givenNames>D. L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Glassmeier</familyName>, 
+						<familyName>Glassmeier</familyName>,
 						<givenNames>K.‐H.</givenNames>
 					</author>, et al. (
-					<pubYear year="2012">2012</pubYear>). 
-					<articleTitle>Observations of a Pc5 global (cavity/waveguide) mode outside the plasmasphere by THEMIS</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="2012">2012</pubYear>).
+					<articleTitle>Observations of a Pc5 global (cavity/waveguide) mode outside the plasmasphere by THEMIS</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>117</vol>(
-					<issue>A6</issue>), 
-					<eLocator>A06202</eLocator>. 
+					<issue>A6</issue>),
+					<eLocator>A06202</eLocator>.
 					<url href="https://doi.org/10.1029/2011JA017266">https://doi.org/10.1029/2011JA017266</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0013">
 				<citation type="journal" xml:id="jgra58674-cit-0013">
 					<author>
-						<familyName>Hasegawa</familyName>, 
+						<familyName>Hasegawa</familyName>,
 						<givenNames>A.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Lanzerotti</familyName>, 
+						<familyName>Lanzerotti</familyName>,
 						<givenNames>L. J.</givenNames>
 					</author> (
-					<pubYear year="1978">1978</pubYear>). 
-					<articleTitle>On the orientation of hydromagnetic waves in the magnetosphere</articleTitle>. 
-					<journalTitle>Reviews of Geophysics</journalTitle>, 
+					<pubYear year="1978">1978</pubYear>).
+					<articleTitle>On the orientation of hydromagnetic waves in the magnetosphere</articleTitle>.
+					<journalTitle>Reviews of Geophysics</journalTitle>,
 					<vol>16</vol>(
-					<issue>2</issue>), 
+					<issue>2</issue>),
 					<pageFirst>263</pageFirst>–
-					<pageLast>266</pageLast>. 
+					<pageLast>266</pageLast>.
 					<url href="https://doi.org/10.1029/RG016i002p00263">https://doi.org/10.1029/RG016i002p00263</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0014">
 				<citation type="journal" xml:id="jgra58674-cit-0014">
 					<author>
-						<familyName>Hughes</familyName>, 
+						<familyName>Hughes</familyName>,
 						<givenNames>W. J.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Southwood</familyName>, 
+						<familyName>Southwood</familyName>,
 						<givenNames>D. J.</givenNames>
 					</author> (
-					<pubYear year="1976">1976</pubYear>). 
-					<articleTitle>The screening of micropulsation signals by the atmosphere and ionosphere</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1976">1976</pubYear>).
+					<articleTitle>The screening of micropulsation signals by the atmosphere and ionosphere</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>81</vol>(
-					<issue>19</issue>), 
+					<issue>19</issue>),
 					<pageFirst>3234</pageFirst>–
-					<pageLast>3240</pageLast>. 
+					<pageLast>3240</pageLast>.
 					<url href="https://doi.org/10.1029/JA081i019p03234">https://doi.org/10.1029/JA081i019p03234</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0015">
 				<citation type="journal" xml:id="jgra58674-cit-0015">
 					<author>
-						<familyName>Jacobs</familyName>, 
+						<familyName>Jacobs</familyName>,
 						<givenNames>J. A.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Kato</familyName>, 
+						<familyName>Kato</familyName>,
 						<givenNames>Y.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Matsushita</familyName>, 
+						<familyName>Matsushita</familyName>,
 						<givenNames>S.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Troitskaya</familyName>, 
+						<familyName>Troitskaya</familyName>,
 						<givenNames>V. A.</givenNames>
 					</author> (
-					<pubYear year="1964">1964</pubYear>). 
-					<articleTitle>Classification of geomagnetic micropulsations</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1964">1964</pubYear>).
+					<articleTitle>Classification of geomagnetic micropulsations</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>69</vol>(
-					<issue>1</issue>), 
+					<issue>1</issue>),
 					<pageFirst>180</pageFirst>–
-					<pageLast>181</pageLast>. 
+					<pageLast>181</pageLast>.
 					<url href="https://doi.org/10.1029/JZ069i001p00180">https://doi.org/10.1029/JZ069i001p00180</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0016">
 				<citation type="journal" xml:id="jgra58674-cit-0016">
 					<author>
-						<familyName>James</familyName>, 
+						<familyName>James</familyName>,
 						<givenNames>M. K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Yeoman</familyName>, 
+						<familyName>Yeoman</familyName>,
 						<givenNames>T. K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Mager</familyName>, 
+						<familyName>Mager</familyName>,
 						<givenNames>P. N.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Klimushkin</familyName>, 
+						<familyName>Klimushkin</familyName>,
 						<givenNames>D. Y.</givenNames>
 					</author> (
-					<pubYear year="2016">2016</pubYear>). 
-					<articleTitle>Multiradar observations of substorm‐driven ULF waves</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
+					<pubYear year="2016">2016</pubYear>).
+					<articleTitle>Multiradar observations of substorm‐driven ULF waves</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
 					<vol>121</vol>(
-					<issue>6</issue>), 
+					<issue>6</issue>),
 					<pageFirst>5213</pageFirst>–
-					<pageLast>5232</pageLast>. 
+					<pageLast>5232</pageLast>.
 					<url href="https://doi.org/10.1002/2015JA022102">https://doi.org/10.1002/2015JA022102</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0017">
 				<citation type="journal" xml:id="jgra58674-cit-0017">
 					<author>
-						<familyName>Kepko</familyName>, 
+						<familyName>Kepko</familyName>,
 						<givenNames>L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Spence</familyName>, 
+						<familyName>Spence</familyName>,
 						<givenNames>H. E.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Singer</familyName>, 
+						<familyName>Singer</familyName>,
 						<givenNames>H. J.</givenNames>
 					</author> (
-					<pubYear year="2002">2002</pubYear>). 
-					<articleTitle>ULF waves in the solar wind as direct drivers of magnetospheric pulsations</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2002">2002</pubYear>).
+					<articleTitle>ULF waves in the solar wind as direct drivers of magnetospheric pulsations</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>29</vol>(
-					<issue>8</issue>), 
+					<issue>8</issue>),
 					<pageFirst>39‐1</pageFirst>–
-					<pageLast>39‐4</pageLast>. 
+					<pageLast>39‐4</pageLast>.
 					<url href="https://doi.org/10.1029/2001GL014405">https://doi.org/10.1029/2001GL014405</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0018">
 				<citation type="journal" xml:id="jgra58674-cit-0018">
 					<author>
-						<familyName>Kivelson</familyName>, 
+						<familyName>Kivelson</familyName>,
 						<givenNames>M. G.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Southwood</familyName>, 
+						<familyName>Southwood</familyName>,
 						<givenNames>D. J.</givenNames>
 					</author> (
-					<pubYear year="1986">1986</pubYear>). 
-					<articleTitle>Coupling of global magnetospheric MHD eigenmodes to field line resonances</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1986">1986</pubYear>).
+					<articleTitle>Coupling of global magnetospheric MHD eigenmodes to field line resonances</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>91</vol>(
-					<issue>A4</issue>), 
+					<issue>A4</issue>),
 					<pageFirst>4345</pageFirst>–
-					<pageLast>4351</pageLast>. 
+					<pageLast>4351</pageLast>.
 					<url href="https://doi.org/10.1029/JA091iA04p04345">https://doi.org/10.1029/JA091iA04p04345</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0019">
 				<citation type="journal" xml:id="jgra58674-cit-0019">
 					<author>
-						<familyName>Klimushkin</familyName>, 
+						<familyName>Klimushkin</familyName>,
 						<givenNames>D. Y.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Mager</familyName>, 
+						<familyName>Mager</familyName>,
 						<givenNames>P. N.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Glassmeier</familyName>, 
+						<familyName>Glassmeier</familyName>,
 						<givenNames>K.‐H.</givenNames>
 					</author> (
-					<pubYear year="2004">2004</pubYear>). 
-					<articleTitle>Toroidal and poloidal Alfvén waves with arbitrary azimuthal wavenumbers in a finite pressure plasma in the earth’s magnetosphere</articleTitle>. 
-					<journalTitle>Annales Geophysicae</journalTitle>, 
+					<pubYear year="2004">2004</pubYear>).
+					<articleTitle>Toroidal and poloidal Alfvén waves with arbitrary azimuthal wavenumbers in a finite pressure plasma in the earth’s magnetosphere</articleTitle>.
+					<journalTitle>Annales Geophysicae</journalTitle>,
 					<vol>22</vol>(
-					<issue>1</issue>), 
+					<issue>1</issue>),
 					<pageFirst>267</pageFirst>–
-					<pageLast>287</pageLast>. 
+					<pageLast>287</pageLast>.
 					<url href="https://doi.org/10.5194/angeo-22-267-2004">https://doi.org/10.5194/angeo‐22‐267‐2004</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0020">
 				<citation type="journal" xml:id="jgra58674-cit-0020">
 					<author>
-						<familyName>Lee</familyName>, 
+						<familyName>Lee</familyName>,
 						<givenNames>D.‐H.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Lysak</familyName>, 
+						<familyName>Lysak</familyName>,
 						<givenNames>R. L.</givenNames>
 					</author> (
-					<pubYear year="1989">1989</pubYear>). 
-					<articleTitle>Magnetospheric ULF wave coupling in the dipole model: The impulsive excitation</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1989">1989</pubYear>).
+					<articleTitle>Magnetospheric ULF wave coupling in the dipole model: The impulsive excitation</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>94</vol>(
-					<issue>A12</issue>), 
+					<issue>A12</issue>),
 					<pageFirst>17097</pageFirst>–
-					<pageLast>17103</pageLast>. 
+					<pageLast>17103</pageLast>.
 					<url href="https://doi.org/10.1029/JA094iA12p17097">https://doi.org/10.1029/JA094iA12p17097</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0021">
 				<citation type="journal" xml:id="jgra58674-cit-0021">
 					<author>
-						<familyName>Lee</familyName>, 
+						<familyName>Lee</familyName>,
 						<givenNames>L. C.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Olson</familyName>, 
+						<familyName>Olson</familyName>,
 						<givenNames>J. V.</givenNames>
 					</author> (
-					<pubYear year="1980">1980</pubYear>). 
-					<articleTitle>Kelvin‐Helmholtz instability and the variation of geomagnetic pulsation activity</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="1980">1980</pubYear>).
+					<articleTitle>Kelvin‐Helmholtz instability and the variation of geomagnetic pulsation activity</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>7</vol>(
-					<issue>10</issue>), 
+					<issue>10</issue>),
 					<pageFirst>777</pageFirst>–
-					<pageLast>780</pageLast>. 
+					<pageLast>780</pageLast>.
 					<url href="https://doi.org/10.1029/GL007i010p00777">https://doi.org/10.1029/GL007i010p00777</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0022">
 				<citation type="journal" xml:id="jgra58674-cit-0022">
 					<author>
-						<familyName>Liou</familyName>, 
+						<familyName>Liou</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Takahashi</familyName>, 
+						<familyName>Takahashi</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Newell</familyName>, 
+						<familyName>Newell</familyName>,
 						<givenNames>P. T.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Yumoto</familyName>, 
+						<familyName>Yumoto</familyName>,
 						<givenNames>K.</givenNames>
 					</author> (
-					<pubYear year="2008">2008</pubYear>). 
-					<articleTitle>Polar ultraviolet imager observations of solar wind‐driven ULF auroral pulsations</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2008">2008</pubYear>).
+					<articleTitle>Polar ultraviolet imager observations of solar wind‐driven ULF auroral pulsations</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>35</vol>(
-					<issue>16</issue>), 
-					<eLocator>L16101</eLocator>. 
+					<issue>16</issue>),
+					<eLocator>L16101</eLocator>.
 					<url href="https://doi.org/10.1029/2008GL034953">https://doi.org/10.1029/2008GL034953</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0023">
 				<citation type="journal" xml:id="jgra58674-cit-0023">
 					<author>
-						<familyName>Liu</familyName>, 
+						<familyName>Liu</familyName>,
 						<givenNames>W.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Sarris</familyName>, 
+						<familyName>Sarris</familyName>,
 						<givenNames>T. E.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Li</familyName>, 
+						<familyName>Li</familyName>,
 						<givenNames>X.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Elkington</familyName>, 
+						<familyName>Elkington</familyName>,
 						<givenNames>S. R.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Ergun</familyName>, 
+						<familyName>Ergun</familyName>,
 						<givenNames>R.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Angelopoulos</familyName>, 
+						<familyName>Angelopoulos</familyName>,
 						<givenNames>V.</givenNames>
 					</author>, et al. (
-					<pubYear year="2009">2009</pubYear>). 
-					<articleTitle>Electric and magnetic field observations of Pc4 and Pc5 pulsations in the inner magnetosphere: A statistical study</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="2009">2009</pubYear>).
+					<articleTitle>Electric and magnetic field observations of Pc4 and Pc5 pulsations in the inner magnetosphere: A statistical study</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>114</vol>(
-					<issue>A12</issue>), 
-					<eLocator>A12206</eLocator>. 
+					<issue>A12</issue>),
+					<eLocator>A12206</eLocator>.
 					<url href="https://doi.org/10.1029/2009JA014243">https://doi.org/10.1029/2009JA014243</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0024">
 				<citation type="journal" xml:id="jgra58674-cit-0024">
 					<author>
-						<familyName>Liu</familyName>, 
+						<familyName>Liu</familyName>,
 						<givenNames>Z.‐Y.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zong</familyName>, 
+						<familyName>Zong</familyName>,
 						<givenNames>Q.‐G.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zhou</familyName>, 
+						<familyName>Zhou</familyName>,
 						<givenNames>X.‐Z.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zhu</familyName>, 
+						<familyName>Zhu</familyName>,
 						<givenNames>Y.‐F.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Gu</familyName>, 
+						<familyName>Gu</familyName>,
 						<givenNames>S.‐J.</givenNames>
 					</author> (
-					<pubYear year="2020">2020</pubYear>). 
-					<articleTitle>Pitch angle structures of ring current ions induced by evolving poloidal ultra‐low frequency waves</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2020">2020</pubYear>).
+					<articleTitle>Pitch angle structures of ring current ions induced by evolving poloidal ultra‐low frequency waves</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>47</vol>(
-					<issue>4</issue>), 
-					<eLocator>e2020GL087203</eLocator>. 
+					<issue>4</issue>),
+					<eLocator>e2020GL087203</eLocator>.
 					<url href="https://doi.org/10.1029/2020GL087203">https://doi.org/10.1029/2020GL087203</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0025">
 				<citation type="journal" xml:id="jgra58674-cit-0025">
 					<author>
-						<familyName>Lomb</familyName>, 
+						<familyName>Lomb</familyName>,
 						<givenNames>N. R.</givenNames>
 					</author> (
-					<pubYear year="1976">1976</pubYear>). 
-					<articleTitle>Least‐squares frequency analysis of unequally spaced data</articleTitle>. 
-					<journalTitle>Astrophysics and Space Science</journalTitle>, 
+					<pubYear year="1976">1976</pubYear>).
+					<articleTitle>Least‐squares frequency analysis of unequally spaced data</articleTitle>.
+					<journalTitle>Astrophysics and Space Science</journalTitle>,
 					<vol>39</vol>(
-					<issue>2</issue>), 
+					<issue>2</issue>),
 					<pageFirst>447</pageFirst>–
-					<pageLast>462</pageLast>. 
+					<pageLast>462</pageLast>.
 					<url href="https://doi.org/10.1007/BF00648343">https://doi.org/10.1007/BF00648343</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0026">
 				<citation type="journal" xml:id="jgra58674-cit-0026">
 					<author>
-						<familyName>Nishitani</familyName>, 
+						<familyName>Nishitani</familyName>,
 						<givenNames>N.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Ruohoniemi</familyName>, 
+						<familyName>Ruohoniemi</familyName>,
 						<givenNames>J. M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Lester</familyName>, 
+						<familyName>Lester</familyName>,
 						<givenNames>M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Baker</familyName>, 
+						<familyName>Baker</familyName>,
 						<givenNames>J. B. H.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Koustov</familyName>, 
+						<familyName>Koustov</familyName>,
 						<givenNames>A. V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Shepherd</familyName>, 
+						<familyName>Shepherd</familyName>,
 						<givenNames>S. G.</givenNames>
 					</author>, et al. (
-					<pubYear year="2019">2019</pubYear>). 
-					<articleTitle>Review of the accomplishments of mid‐latitude Super Dual Auroral Radar Network (SuperDARN) HF radars</articleTitle>. 
-					<journalTitle>Progress in Earth and Planetary Science</journalTitle>, 
+					<pubYear year="2019">2019</pubYear>).
+					<articleTitle>Review of the accomplishments of mid‐latitude Super Dual Auroral Radar Network (SuperDARN) HF radars</articleTitle>.
+					<journalTitle>Progress in Earth and Planetary Science</journalTitle>,
 					<vol>6</vol>(
-					<issue>27</issue>), 
-					<eLocator>27</eLocator>. 
+					<issue>27</issue>),
+					<eLocator>27</eLocator>.
 					<url href="https://doi.org/10.1186/s40645-019-0270-5">https://doi.org/10.1186/s40645‐019‐0270‐5</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0027">
 				<citation type="journal" xml:id="jgra58674-cit-0027">
 					<author>
-						<familyName>Norouzi‐Sedeh</familyName>, 
+						<familyName>Norouzi‐Sedeh</familyName>,
 						<givenNames>L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Waters</familyName>, 
+						<familyName>Waters</familyName>,
 						<givenNames>C. L.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Menk</familyName>, 
+						<familyName>Menk</familyName>,
 						<givenNames>F. W.</givenNames>
 					</author> (
-					<pubYear year="2015">2015</pubYear>). 
-					<articleTitle>Survey of ULF wave signatures seen in the Tasman International geospace environment radars data</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
+					<pubYear year="2015">2015</pubYear>).
+					<articleTitle>Survey of ULF wave signatures seen in the Tasman International geospace environment radars data</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
 					<vol>120</vol>(
-					<issue>2</issue>), 
+					<issue>2</issue>),
 					<pageFirst>949</pageFirst>–
-					<pageLast>963</pageLast>. 
+					<pageLast>963</pageLast>.
 					<url href="https://doi.org/10.1002/2014JA020652">https://doi.org/10.1002/2014JA020652</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0028">
 				<citation type="journal" xml:id="jgra58674-cit-0028">
 					<author>
-						<familyName>Nozawa</familyName>, 
+						<familyName>Nozawa</familyName>,
 						<givenNames>S.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Brekke</familyName>, 
+						<familyName>Brekke</familyName>,
 						<givenNames>A.</givenNames>
 					</author> (
-					<pubYear year="1995">1995</pubYear>). 
-					<articleTitle>Studies of the E region neutral wind in the disturbed auroral ionosphere</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1995">1995</pubYear>).
+					<articleTitle>Studies of the E region neutral wind in the disturbed auroral ionosphere</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>100</vol>(
-					<issue>A8</issue>), 
+					<issue>A8</issue>),
 					<pageFirst>14717</pageFirst>–
-					<pageLast>14734</pageLast>. 
+					<pageLast>14734</pageLast>.
 					<url href="https://doi.org/10.1029/95JA00676">https://doi.org/10.1029/95JA00676</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0029">
 				<citation type="journal" xml:id="jgra58674-cit-0029">
 					<author>
-						<familyName>Odera</familyName>, 
+						<familyName>Odera</familyName>,
 						<givenNames>T. J.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Van Swol</familyName>, 
+						<familyName>Van Swol</familyName>,
 						<givenNames>D.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Russell</familyName>, 
+						<familyName>Russell</familyName>,
 						<givenNames>C. T.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Green</familyName>, 
+						<familyName>Green</familyName>,
 						<givenNames>C. A.</givenNames>
 					</author> (
-					<pubYear year="1991">1991</pubYear>). 
-					<articleTitle>PC 3,4 magnetic pulsations observed simultaneously in the magnetosphere and at multiple ground stations</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="1991">1991</pubYear>).
+					<articleTitle>PC 3,4 magnetic pulsations observed simultaneously in the magnetosphere and at multiple ground stations</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>18</vol>(
-					<issue>9</issue>), 
+					<issue>9</issue>),
 					<pageFirst>1671</pageFirst>–
-					<pageLast>1674</pageLast>. 
+					<pageLast>1674</pageLast>.
 					<url href="https://doi.org/10.1029/91GL01297">https://doi.org/10.1029/91GL01297</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0030">
 				<citation type="journal" xml:id="jgra58674-cit-0030">
 					<author>
-						<familyName>Oliveira</familyName>, 
+						<familyName>Oliveira</familyName>,
 						<givenNames>D. M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Hartinger</familyName>, 
+						<familyName>Hartinger</familyName>,
 						<givenNames>M. D.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Xu</familyName>, 
+						<familyName>Xu</familyName>,
 						<givenNames>Z.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zesta</familyName>, 
+						<familyName>Zesta</familyName>,
 						<givenNames>E.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Pilipenko</familyName>, 
+						<familyName>Pilipenko</familyName>,
 						<givenNames>V. A.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Giles</familyName>, 
+						<familyName>Giles</familyName>,
 						<givenNames>B. L.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Silveira</familyName>, 
+						<familyName>Silveira</familyName>,
 						<givenNames>M. V. D.</givenNames>
 					</author> (
-					<pubYear year="2020">2020</pubYear>). 
-					<articleTitle>Interplanetary shock impact angles control magnetospheric ULF wave activity: Wave amplitude, frequency, and power spectra</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2020">2020</pubYear>).
+					<articleTitle>Interplanetary shock impact angles control magnetospheric ULF wave activity: Wave amplitude, frequency, and power spectra</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>47</vol>(
-					<issue>24</issue>), 
-					<eLocator>e2020GL090857</eLocator>. 
+					<issue>24</issue>),
+					<eLocator>e2020GL090857</eLocator>.
 					<url href="https://doi.org/10.1029/2020GL090857">https://doi.org/10.1029/2020GL090857</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0031">
 				<citation type="other" xml:id="jgra58674-cit-0031">
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P. V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Bland</familyName>, 
+						<familyName>Bland</familyName>,
 						<givenNames>E.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Kotyk</familyName>, 
+						<familyName>Kotyk</familyName>,
 						<givenNames>K.</givenNames>
 					</author> (
-					<pubYear year="2021">2021</pubYear>). 
-					<otherTitle>White paper on FITACF3</otherTitle>. Retrieved from 
+					<pubYear year="2021">2021</pubYear>).
+					<otherTitle>White paper on FITACF3</otherTitle>. Retrieved from
 					<url href="https://superdarn.github.io/dawg/files/sup_material/FITACF3_white_paper.pdf">https://superdarn.github.io/dawg/files/sup_material/FITACF3_white_paper.pdf</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0032">
 				<citation type="journal" xml:id="jgra58674-cit-0032">
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P. V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Bland</familyName>, 
+						<familyName>Bland</familyName>,
 						<givenNames>E. C.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>McWilliams</familyName>, 
+						<familyName>McWilliams</familyName>,
 						<givenNames>K. A.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Nishitani</familyName>, 
+						<familyName>Nishitani</familyName>,
 						<givenNames>N.</givenNames>
 					</author> (
-					<pubYear year="2022">2022</pubYear>). 
-					<articleTitle>On the noise estimation in Super Dual Auroral Radar Network data</articleTitle>. 
-					<journalTitle>Radio Science</journalTitle>, 
+					<pubYear year="2022">2022</pubYear>).
+					<articleTitle>On the noise estimation in Super Dual Auroral Radar Network data</articleTitle>.
+					<journalTitle>Radio Science</journalTitle>,
 					<vol>57</vol>(
-					<issue>6</issue>), 
-					<eLocator>e2022RS007449</eLocator>. 
+					<issue>6</issue>),
+					<eLocator>e2022RS007449</eLocator>.
 					<url href="https://doi.org/10.1029/2022RS007449">https://doi.org/10.1029/2022RS007449</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0033">
 				<citation type="journal" xml:id="jgra58674-cit-0033">
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P. V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Iserhienrhien</familyName>, 
+						<familyName>Iserhienrhien</familyName>,
 						<givenNames>B.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>St‐Maurice</familyName>, 
+						<familyName>St‐Maurice</familyName>,
 						<givenNames>J.‐P.</givenNames>
 					</author> (
-					<pubYear year="2016">2016</pubYear>). 
-					<articleTitle>Morphology and possible origins of near‐range oblique HF backscatter at high and midlatitudes</articleTitle>. 
-					<journalTitle>Radio Science</journalTitle>, 
+					<pubYear year="2016">2016</pubYear>).
+					<articleTitle>Morphology and possible origins of near‐range oblique HF backscatter at high and midlatitudes</articleTitle>.
+					<journalTitle>Radio Science</journalTitle>,
 					<vol>51</vol>(
-					<issue>6</issue>), 
+					<issue>6</issue>),
 					<pageFirst>718</pageFirst>–
-					<pageLast>730</pageLast>. 
+					<pageLast>730</pageLast>.
 					<url href="https://doi.org/10.1002/2016rs006088">https://doi.org/10.1002/2016rs006088</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0034">
 				<citation type="journal" xml:id="jgra58674-cit-0034">
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P. V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Menk</familyName>, 
+						<familyName>Menk</familyName>,
 						<givenNames>F. W.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Waters</familyName>, 
+						<familyName>Waters</familyName>,
 						<givenNames>C. L.</givenNames>
 					</author> (
-					<pubYear year="2003">2003</pubYear>). 
-					<articleTitle>Visualization of ULF waves in SuperDARN data</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2003">2003</pubYear>).
+					<articleTitle>Visualization of ULF waves in SuperDARN data</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>30</vol>(
-					<issue>18</issue>), 
+					<issue>18</issue>),
 					<pageFirst>1926</pageFirst>–
-					<pageLast>1929</pageLast>. 
+					<pageLast>1929</pageLast>.
 					<url href="https://doi.org/10.1029/2003gl017757">https://doi.org/10.1029/2003gl017757</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0035">
 				<citation type="journal" xml:id="jgra58674-cit-0035">
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P. V.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Waters</familyName>, 
+						<familyName>Waters</familyName>,
 						<givenNames>C. L.</givenNames>
 					</author> (
-					<pubYear year="2013">2013</pubYear>). 
-					<articleTitle>Transition of Pi2 ULF wave polarization structure from the ionosphere to the ground</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2013">2013</pubYear>).
+					<articleTitle>Transition of Pi2 ULF wave polarization structure from the ionosphere to the ground</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>40</vol>(
-					<issue>8</issue>), 
+					<issue>8</issue>),
 					<pageFirst>1474</pageFirst>–
-					<pageLast>1478</pageLast>. 
+					<pageLast>1478</pageLast>.
 					<url href="https://doi.org/10.1002/grl.50271">https://doi.org/10.1002/grl.50271</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0036">
 				<citation type="journal" xml:id="jgra58674-cit-0036">
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P. V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Waters</familyName>, 
+						<familyName>Waters</familyName>,
 						<givenNames>C. L.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Menk</familyName>, 
+						<familyName>Menk</familyName>,
 						<givenNames>F. W.</givenNames>
 					</author> (
-					<pubYear year="2007">2007</pubYear>). 
-					<articleTitle>Factors determining spectral width of HF echoes from high latitudes</articleTitle>. 
-					<journalTitle>Annales Geophysicae</journalTitle>, 
+					<pubYear year="2007">2007</pubYear>).
+					<articleTitle>Factors determining spectral width of HF echoes from high latitudes</articleTitle>.
+					<journalTitle>Annales Geophysicae</journalTitle>,
 					<vol>25</vol>(
-					<issue>3</issue>), 
+					<issue>3</issue>),
 					<pageFirst>675</pageFirst>–
-					<pageLast>687</pageLast>. 
+					<pageLast>687</pageLast>.
 					<url href="https://doi.org/10.5194/angeo-25-675-2007">https://doi.org/10.5194/angeo‐25‐675‐2007</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0037">
 				<citation type="journal" xml:id="jgra58674-cit-0037">
 					<author>
-						<familyName>Ponomarenko</familyName>, 
+						<familyName>Ponomarenko</familyName>,
 						<givenNames>P. V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Waters</familyName>, 
+						<familyName>Waters</familyName>,
 						<givenNames>C. L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Sciffer</familyName>, 
+						<familyName>Sciffer</familyName>,
 						<givenNames>M. D.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Fraser</familyName>, 
+						<familyName>Fraser</familyName>,
 						<givenNames>B. J.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Samson</familyName>, 
+						<familyName>Samson</familyName>,
 						<givenNames>J. C.</givenNames>
 					</author> (
-					<pubYear year="2001">2001</pubYear>). 
-					<articleTitle>Spatial structure of ULF waves: Comparison of magnetometer and Super Dual Auroral Radar Network data</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="2001">2001</pubYear>).
+					<articleTitle>Spatial structure of ULF waves: Comparison of magnetometer and Super Dual Auroral Radar Network data</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>106</vol>(
-					<issue>A6</issue>), 
+					<issue>A6</issue>),
 					<pageFirst>10509</pageFirst>–
-					<pageLast>10517</pageLast>. 
+					<pageLast>10517</pageLast>.
 					<url href="https://doi.org/10.1029/2000JA000281">https://doi.org/10.1029/2000JA000281</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0038">
 				<citation type="journal" xml:id="jgra58674-cit-0038">
 					<author>
-						<familyName>Ruohoniemi</familyName>, 
+						<familyName>Ruohoniemi</familyName>,
 						<givenNames>J. M.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Baker</familyName>, 
+						<familyName>Baker</familyName>,
 						<givenNames>K. B.</givenNames>
 					</author> (
-					<pubYear year="1998">1998</pubYear>). 
-					<articleTitle>Large‐scale imaging of high‐latitude convection with Super Dual Auroral Radar Network HF radar observations</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1998">1998</pubYear>).
+					<articleTitle>Large‐scale imaging of high‐latitude convection with Super Dual Auroral Radar Network HF radar observations</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>103</vol>(
-					<issue>A9</issue>), 
+					<issue>A9</issue>),
 					<pageFirst>20797</pageFirst>–
-					<pageLast>20811</pageLast>. 
+					<pageLast>20811</pageLast>.
 					<url href="https://doi.org/10.1029/98ja01288">https://doi.org/10.1029/98ja01288</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0039">
 				<citation type="journal" xml:id="jgra58674-cit-0039">
 					<author>
-						<familyName>Samson</familyName>, 
+						<familyName>Samson</familyName>,
 						<givenNames>J. C.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Greenwald</familyName>, 
+						<familyName>Greenwald</familyName>,
 						<givenNames>R. A.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Ruohoniemi</familyName>, 
+						<familyName>Ruohoniemi</familyName>,
 						<givenNames>J. M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Hughes</familyName>, 
+						<familyName>Hughes</familyName>,
 						<givenNames>T. J.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Wallis</familyName>, 
+						<familyName>Wallis</familyName>,
 						<givenNames>D. D.</givenNames>
 					</author> (
-					<pubYear year="1991">1991</pubYear>). 
-					<articleTitle>Magnetometer and radar observations of magnetohydrodynamic cavity modes in the Earth’s magnetosphere</articleTitle>. 
-					<journalTitle>Canadian Journal of Physics</journalTitle>, 
+					<pubYear year="1991">1991</pubYear>).
+					<articleTitle>Magnetometer and radar observations of magnetohydrodynamic cavity modes in the Earth’s magnetosphere</articleTitle>.
+					<journalTitle>Canadian Journal of Physics</journalTitle>,
 					<vol>69</vol>(
-					<issue>8–9</issue>), 
+					<issue>8–9</issue>),
 					<pageFirst>929</pageFirst>–
-					<pageLast>937</pageLast>. 
+					<pageLast>937</pageLast>.
 					<url href="https://doi.org/10.1139/p91-147">https://doi.org/10.1139/p91‐147</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0040">
 				<citation type="journal" xml:id="jgra58674-cit-0040">
 					<author>
-						<familyName>Sarris</familyName>, 
+						<familyName>Sarris</familyName>,
 						<givenNames>T. E.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Li</familyName>, 
+						<familyName>Li</familyName>,
 						<givenNames>X.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Liu</familyName>, 
+						<familyName>Liu</familyName>,
 						<givenNames>W.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Argyriadis</familyName>, 
+						<familyName>Argyriadis</familyName>,
 						<givenNames>E.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Boudouridis</familyName>, 
+						<familyName>Boudouridis</familyName>,
 						<givenNames>A.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Ergun</familyName>, 
+						<familyName>Ergun</familyName>,
 						<givenNames>R.</givenNames>
 					</author> (
-					<pubYear year="2013">2013</pubYear>). 
-					<articleTitle>Mode number calculations of ULF field‐line resonances using ground magnetometers and themis measurements</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
+					<pubYear year="2013">2013</pubYear>).
+					<articleTitle>Mode number calculations of ULF field‐line resonances using ground magnetometers and themis measurements</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
 					<vol>118</vol>(
-					<issue>11</issue>), 
+					<issue>11</issue>),
 					<pageFirst>6986</pageFirst>–
-					<pageLast>6997</pageLast>. 
+					<pageLast>6997</pageLast>.
 					<url href="https://doi.org/10.1002/2012JA018307">https://doi.org/10.1002/2012JA018307</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0041">
 				<citation type="journal" xml:id="jgra58674-cit-0041">
 					<author>
-						<familyName>Scargle</familyName>, 
+						<familyName>Scargle</familyName>,
 						<givenNames>J. D.</givenNames>
 					</author> (
-					<pubYear year="1982">1982</pubYear>). 
-					<articleTitle>Studies in astronomical time series analysis. II. Statistical aspects of spectral analysis of unevenly spaced data</articleTitle>. 
-					<journalTitle>The Astrophysical Journal</journalTitle>, 
-					<vol>263</vol>, 
+					<pubYear year="1982">1982</pubYear>).
+					<articleTitle>Studies in astronomical time series analysis. II. Statistical aspects of spectral analysis of unevenly spaced data</articleTitle>.
+					<journalTitle>The Astrophysical Journal</journalTitle>,
+					<vol>263</vol>,
 					<pageFirst>835</pageFirst>–
-					<pageLast>853</pageLast>. 
+					<pageLast>853</pageLast>.
 					<url href="https://doi.org/10.1086/160554">https://doi.org/10.1086/160554</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0042">
 				<citation type="journal" xml:id="jgra58674-cit-0042">
 					<author>
-						<familyName>Shi</familyName>, 
+						<familyName>Shi</familyName>,
 						<givenNames>X.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Ruohoniemi</familyName>, 
+						<familyName>Ruohoniemi</familyName>,
 						<givenNames>J. M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Baker</familyName>, 
+						<familyName>Baker</familyName>,
 						<givenNames>J. B. H.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Lin</familyName>, 
+						<familyName>Lin</familyName>,
 						<givenNames>D.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Bland</familyName>, 
+						<familyName>Bland</familyName>,
 						<givenNames>E. C.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Hartinger</familyName>, 
+						<familyName>Hartinger</familyName>,
 						<givenNames>M. D.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Scales</familyName>, 
+						<familyName>Scales</familyName>,
 						<givenNames>W. A.</givenNames>
 					</author> (
-					<pubYear year="2018">2018</pubYear>). 
-					<articleTitle>Survey of ionospheric Pc3‐5 ULF wave signatures in SuperDARN high time resolution data</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
+					<pubYear year="2018">2018</pubYear>).
+					<articleTitle>Survey of ionospheric Pc3‐5 ULF wave signatures in SuperDARN high time resolution data</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
 					<vol>123</vol>(
-					<issue>5</issue>), 
+					<issue>5</issue>),
 					<pageFirst>4215</pageFirst>–
-					<pageLast>4231</pageLast>. 
+					<pageLast>4231</pageLast>.
 					<url href="https://doi.org/10.1029/2017JA025033">https://doi.org/10.1029/2017JA025033</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0043">
 				<citation type="journal" xml:id="jgra58674-cit-0043">
 					<author>
-						<familyName>Southwood</familyName>, 
+						<familyName>Southwood</familyName>,
 						<givenNames>D. J.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Kivelson</familyName>, 
+						<familyName>Kivelson</familyName>,
 						<givenNames>M. G.</givenNames>
 					</author> (
-					<pubYear year="1981">1981</pubYear>). 
-					<articleTitle>Charged particle behavior in low‐frequency geomagnetic pulsations 1. Transverse waves</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1981">1981</pubYear>).
+					<articleTitle>Charged particle behavior in low‐frequency geomagnetic pulsations 1. Transverse waves</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>86</vol>(
-					<issue>A7</issue>), 
+					<issue>A7</issue>),
 					<pageFirst>5643</pageFirst>–
-					<pageLast>5655</pageLast>. 
+					<pageLast>5655</pageLast>.
 					<url href="https://doi.org/10.1029/JA086iA07p05643">https://doi.org/10.1029/JA086iA07p05643</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0044">
 				<citation type="journal" xml:id="jgra58674-cit-0044">
 					<author>
-						<familyName>Stephenson</familyName>, 
+						<familyName>Stephenson</familyName>,
 						<givenNames>J. A. E.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Walker</familyName>, 
+						<familyName>Walker</familyName>,
 						<givenNames>A. D. M.</givenNames>
 					</author> (
-					<pubYear year="2002">2002</pubYear>). 
-					<articleTitle>HF radar observations of Pc5 ULF pulsations driven by the solar wind</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2002">2002</pubYear>).
+					<articleTitle>HF radar observations of Pc5 ULF pulsations driven by the solar wind</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>29</vol>(
-					<issue>9</issue>), 
+					<issue>9</issue>),
 					<pageFirst>8‐1</pageFirst>–
-					<pageLast>8‐4</pageLast>. 
+					<pageLast>8‐4</pageLast>.
 					<url href="https://doi.org/10.1029/2001GL014291">https://doi.org/10.1029/2001GL014291</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0045">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0045">
 					<groupName>SuperDARN Data Analysis Working Group</groupName>. (
-					<pubYear year="2021">2021</pubYear>). 
-					<dataTitle>SuperDARN radar Software Toolkit (version 4.6)</dataTitle> [Software]. 
-					<dataRepository>Zenodo</dataRepository>. (Participating members: Schmidt, M.T., Bland, E.C., Thomas, E.G., Burrell, A.G., Coco, I., Ponomarenko, P. V., Reimer, A.S., Sterne, K.T., and Walach, M.‐T.). 
+					<pubYear year="2021">2021</pubYear>).
+					<dataTitle>SuperDARN radar Software Toolkit (version 4.6)</dataTitle> [Software].
+					<dataRepository>Zenodo</dataRepository>. (Participating members: Schmidt, M.T., Bland, E.C., Thomas, E.G., Burrell, A.G., Coco, I., Ponomarenko, P. V., Reimer, A.S., Sterne, K.T., and Walach, M.‐T.).
 					<url href="https://doi.org/10.5281/zenodo.5156752">https://doi.org/10.5281/zenodo.5156752</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0046">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0046">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021a</pubYear>). 
-					<dataTitle>SuperDARN 2007 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021a</pubYear>).
+					<dataTitle>SuperDARN 2007 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0455">https://doi.org/10.20383/102.0455</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0047">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0047">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021b</pubYear>). 
-					<dataTitle>SuperDARN 2008 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021b</pubYear>).
+					<dataTitle>SuperDARN 2008 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0454">https://doi.org/10.20383/102.0454</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0048">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0048">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021c</pubYear>). 
-					<dataTitle>SuperDARN 2009 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021c</pubYear>).
+					<dataTitle>SuperDARN 2009 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0453">https://doi.org/10.20383/102.0453</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0049">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0049">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021d</pubYear>). 
-					<dataTitle>SuperDARN 2010 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021d</pubYear>).
+					<dataTitle>SuperDARN 2010 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0448">https://doi.org/10.20383/102.0448</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0050">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0050">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021e</pubYear>). 
-					<dataTitle>SuperDARN 2011 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021e</pubYear>).
+					<dataTitle>SuperDARN 2011 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0451">https://doi.org/10.20383/102.0451</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0051">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0051">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021f</pubYear>). 
-					<dataTitle>SuperDARN 2012 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021f</pubYear>).
+					<dataTitle>SuperDARN 2012 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0450">https://doi.org/10.20383/102.0450</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0052">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0052">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021g</pubYear>). 
-					<dataTitle>SuperDARN 2013 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021g</pubYear>).
+					<dataTitle>SuperDARN 2013 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0449">https://doi.org/10.20383/102.0449</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0053">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0053">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021h</pubYear>). 
-					<dataTitle>SuperDARN 2014 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021h</pubYear>).
+					<dataTitle>SuperDARN 2014 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0452">https://doi.org/10.20383/102.0452</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0054">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0054">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021i</pubYear>). 
-					<dataTitle>SuperDARN 2015 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021i</pubYear>).
+					<dataTitle>SuperDARN 2015 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0447">https://doi.org/10.20383/102.0447</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0055">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0055">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021j</pubYear>). 
-					<dataTitle>SuperDARN 2016 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021j</pubYear>).
+					<dataTitle>SuperDARN 2016 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0446">https://doi.org/10.20383/102.0446</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0056">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0056">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021k</pubYear>). 
-					<dataTitle>SuperDARN 2017 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021k</pubYear>).
+					<dataTitle>SuperDARN 2017 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/101.0289">https://doi.org/10.20383/101.0289</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0057">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0057">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2021">2021l</pubYear>). 
-					<dataTitle>SuperDARN 2018 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2021">2021l</pubYear>).
+					<dataTitle>SuperDARN 2018 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/101.0290">https://doi.org/10.20383/101.0290</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0058">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0058">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2022">2022a</pubYear>). 
-					<dataTitle>SuperDARN 2019 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2022">2022a</pubYear>).
+					<dataTitle>SuperDARN 2019 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/102.0558">https://doi.org/10.20383/102.0558</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0059">
 				<citation type="dataRelates" xml:id="jgra58674-cit-0059">
 					<groupName>Super Dual Auroral Radar Network</groupName>. (
-					<pubYear year="2022">2022b</pubYear>). 
-					<dataTitle>SuperDARN 2020 RAWACF</dataTitle> [Dataset]. 
-					<dataRepository>Federated Research Data Repository</dataRepository>. 
+					<pubYear year="2022">2022b</pubYear>).
+					<dataTitle>SuperDARN 2020 RAWACF</dataTitle> [Dataset].
+					<dataRepository>Federated Research Data Repository</dataRepository>.
 					<url href="https://doi.org/10.20383/103.0573">https://doi.org/10.20383/103.0573</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0060">
 				<citation type="journal" xml:id="jgra58674-cit-0060">
 					<author>
-						<familyName>Takahashi</familyName>, 
+						<familyName>Takahashi</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Hartinger</familyName>, 
+						<familyName>Hartinger</familyName>,
 						<givenNames>M. D.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Angelopoulos</familyName>, 
+						<familyName>Angelopoulos</familyName>,
 						<givenNames>V.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Glassmeier</familyName>, 
+						<familyName>Glassmeier</familyName>,
 						<givenNames>K.‐H.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Singer</familyName>, 
+						<familyName>Singer</familyName>,
 						<givenNames>H. J.</givenNames>
 					</author> (
-					<pubYear year="2013">2013</pubYear>). 
-					<articleTitle>Multispacecraft observations of fundamental poloidal waves without ground magnetic signatures</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
+					<pubYear year="2013">2013</pubYear>).
+					<articleTitle>Multispacecraft observations of fundamental poloidal waves without ground magnetic signatures</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
 					<vol>118</vol>(
-					<issue>7</issue>), 
+					<issue>7</issue>),
 					<pageFirst>4319</pageFirst>–
-					<pageLast>4334</pageLast>. 
+					<pageLast>4334</pageLast>.
 					<url href="https://doi.org/10.1002/jgra.50405">https://doi.org/10.1002/jgra.50405</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0061">
 				<citation type="journal" xml:id="jgra58674-cit-0061">
 					<author>
-						<familyName>Takahashi</familyName>, 
+						<familyName>Takahashi</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Higbie</familyName>, 
+						<familyName>Higbie</familyName>,
 						<givenNames>P. R.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Baker</familyName>, 
+						<familyName>Baker</familyName>,
 						<givenNames>D. N.</givenNames>
 					</author> (
-					<pubYear year="1985">1985</pubYear>). 
-					<articleTitle>Azimuthal propagation and frequency characteristic of compressional Pc 5 waves observed at geostationary orbit</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1985">1985</pubYear>).
+					<articleTitle>Azimuthal propagation and frequency characteristic of compressional Pc 5 waves observed at geostationary orbit</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>90</vol>(
-					<issue>A2</issue>), 
+					<issue>A2</issue>),
 					<pageFirst>1473</pageFirst>–
-					<pageLast>1485</pageLast>. 
+					<pageLast>1485</pageLast>.
 					<url href="https://doi.org/10.1029/JA090iA02p01473">https://doi.org/10.1029/JA090iA02p01473</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0062">
 				<citation type="journal" xml:id="jgra58674-cit-0062">
 					<author>
-						<familyName>Takahashi</familyName>, 
+						<familyName>Takahashi</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>McEntire</familyName>, 
+						<familyName>McEntire</familyName>,
 						<givenNames>R. W.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Lui</familyName>, 
+						<familyName>Lui</familyName>,
 						<givenNames>A. T. Y.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Potemra</familyName>, 
+						<familyName>Potemra</familyName>,
 						<givenNames>T. A.</givenNames>
 					</author> (
-					<pubYear year="1990">1990</pubYear>). 
-					<articleTitle>Ion flux oscillations associated with a radially polarized transverse Pc 5 magnetic pulsation</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1990">1990</pubYear>).
+					<articleTitle>Ion flux oscillations associated with a radially polarized transverse Pc 5 magnetic pulsation</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>95</vol>(
-					<issue>A4</issue>), 
+					<issue>A4</issue>),
 					<pageFirst>3717</pageFirst>–
-					<pageLast>3731</pageLast>. 
+					<pageLast>3731</pageLast>.
 					<url href="https://doi.org/10.1029/JA095iA04p03717">https://doi.org/10.1029/JA095iA04p03717</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0063">
 				<citation type="journal" xml:id="jgra58674-cit-0063">
 					<author>
-						<familyName>Takahashi</familyName>, 
+						<familyName>Takahashi</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>McPherron</familyName>, 
+						<familyName>McPherron</familyName>,
 						<givenNames>R. L.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Terasawa</familyName>, 
+						<familyName>Terasawa</familyName>,
 						<givenNames>T.</givenNames>
 					</author> (
-					<pubYear year="1984">1984</pubYear>). 
-					<articleTitle>Dependence of the spectrum of Pc 3–4 pulsations on the interplanetary magnetic field</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1984">1984</pubYear>).
+					<articleTitle>Dependence of the spectrum of Pc 3–4 pulsations on the interplanetary magnetic field</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>89</vol>(
-					<issue>A5</issue>), 
+					<issue>A5</issue>),
 					<pageFirst>2770</pageFirst>–
-					<pageLast>2780</pageLast>. 
+					<pageLast>2780</pageLast>.
 					<url href="https://doi.org/10.1029/ja089ia05p02770">https://doi.org/10.1029/ja089ia05p02770</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0064">
 				<citation type="journal" xml:id="jgra58674-cit-0064">
 					<author>
-						<familyName>Wang</familyName>, 
+						<familyName>Wang</familyName>,
 						<givenNames>B.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zhang</familyName>, 
+						<familyName>Zhang</familyName>,
 						<givenNames>H.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Liu</familyName>, 
+						<familyName>Liu</familyName>,
 						<givenNames>Z.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Liu</familyName>, 
+						<familyName>Liu</familyName>,
 						<givenNames>T.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Li</familyName>, 
+						<familyName>Li</familyName>,
 						<givenNames>X.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Angelopoulos</familyName>, 
+						<familyName>Angelopoulos</familyName>,
 						<givenNames>V.</givenNames>
 					</author> (
-					<pubYear year="2021">2021</pubYear>). 
-					<articleTitle>Energy modulations of magnetospheric ions induced by foreshock transient‐driven ultralow‐frequency waves</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2021">2021</pubYear>).
+					<articleTitle>Energy modulations of magnetospheric ions induced by foreshock transient‐driven ultralow‐frequency waves</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>48</vol>(
-					<issue>10</issue>), 
-					<eLocator>e2021GL093913</eLocator>. 
+					<issue>10</issue>),
+					<eLocator>e2021GL093913</eLocator>.
 					<url href="https://doi.org/10.1029/2021GL093913">https://doi.org/10.1029/2021GL093913</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0065">
 				<citation type="journal" xml:id="jgra58674-cit-0065">
 					<author>
-						<familyName>Waters</familyName>, 
+						<familyName>Waters</familyName>,
 						<givenNames>C. L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Menk</familyName>, 
+						<familyName>Menk</familyName>,
 						<givenNames>F. W.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Fraser</familyName>, 
+						<familyName>Fraser</familyName>,
 						<givenNames>B. J.</givenNames>
 					</author> (
-					<pubYear year="1994">1994</pubYear>). 
-					<articleTitle>Low latitude geomagnetic field line resonance: Experiment and modeling</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="1994">1994</pubYear>).
+					<articleTitle>Low latitude geomagnetic field line resonance: Experiment and modeling</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>99</vol>(
-					<issue>A9</issue>), 
+					<issue>A9</issue>),
 					<pageFirst>17547</pageFirst>–
-					<pageLast>17558</pageLast>. 
+					<pageLast>17558</pageLast>.
 					<url href="https://doi.org/10.1029/94JA00252">https://doi.org/10.1029/94JA00252</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0066">
 				<citation type="journal" xml:id="jgra58674-cit-0066">
 					<author>
-						<familyName>Waters</familyName>, 
+						<familyName>Waters</familyName>,
 						<givenNames>C. L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Takahashi</familyName>, 
+						<familyName>Takahashi</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Lee</familyName>, 
+						<familyName>Lee</familyName>,
 						<givenNames>D.‐H.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Anderson</familyName>, 
+						<familyName>Anderson</familyName>,
 						<givenNames>B. J.</givenNames>
 					</author> (
-					<pubYear year="2002">2002</pubYear>). 
-					<articleTitle>Detection of ultralow‐frequency cavity modes using spacecraft data</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="2002">2002</pubYear>).
+					<articleTitle>Detection of ultralow‐frequency cavity modes using spacecraft data</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>107</vol>(
-					<issue>A10</issue>), 
+					<issue>A10</issue>),
 					<pageFirst>SMP7‐1</pageFirst>–
-					<pageLast>SMP7‐20</pageLast>. 
+					<pageLast>SMP7‐20</pageLast>.
 					<url href="https://doi.org/10.1029/2001JA000224">https://doi.org/10.1029/2001JA000224</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0067">
 				<citation type="journal" xml:id="jgra58674-cit-0067">
 					<author>
-						<familyName>Yamakawa</familyName>, 
+						<familyName>Yamakawa</familyName>,
 						<givenNames>T.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Seki</familyName>, 
+						<familyName>Seki</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Amano</familyName>, 
+						<familyName>Amano</familyName>,
 						<givenNames>T.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Takahashi</familyName>, 
+						<familyName>Takahashi</familyName>,
 						<givenNames>N.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Miyoshi</familyName>, 
+						<familyName>Miyoshi</familyName>,
 						<givenNames>Y.</givenNames>
 					</author> (
-					<pubYear year="2020">2020</pubYear>). 
-					<articleTitle>Excitation of internally driven ULF waves by the drift‐bounce resonance with ring current ions based on the drift‐kinetic simulation</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
+					<pubYear year="2020">2020</pubYear>).
+					<articleTitle>Excitation of internally driven ULF waves by the drift‐bounce resonance with ring current ions based on the drift‐kinetic simulation</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
 					<vol>125</vol>(
-					<issue>11</issue>), 
-					<eLocator>e2020JA028231</eLocator>. 
+					<issue>11</issue>),
+					<eLocator>e2020JA028231</eLocator>.
 					<url href="https://doi.org/10.1029/2020JA028231">https://doi.org/10.1029/2020JA028231</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0068">
 				<citation type="journal" xml:id="jgra58674-cit-0068">
 					<author>
-						<familyName>Yamamoto</familyName>, 
+						<familyName>Yamamoto</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Nosé</familyName>, 
+						<familyName>Nosé</familyName>,
 						<givenNames>M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Keika</familyName>, 
+						<familyName>Keika</familyName>,
 						<givenNames>K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Hartley</familyName>, 
+						<familyName>Hartley</familyName>,
 						<givenNames>D. P.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Smith</familyName>, 
+						<familyName>Smith</familyName>,
 						<givenNames>C. W.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>MacDowall</familyName>, 
+						<familyName>MacDowall</familyName>,
 						<givenNames>R. J.</givenNames>
 					</author>, et al. (
-					<pubYear year="2019">2019</pubYear>). 
-					<articleTitle>Eastward propagating second harmonic poloidal waves triggered by temporary outward gradient of proton phase space density: Van Allen probe a observation</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>, 
+					<pubYear year="2019">2019</pubYear>).
+					<articleTitle>Eastward propagating second harmonic poloidal waves triggered by temporary outward gradient of proton phase space density: Van Allen probe a observation</articleTitle>.
+					<journalTitle>Journal of Geophysical Research: Space Physics</journalTitle>,
 					<vol>124</vol>(
-					<issue>12</issue>), 
+					<issue>12</issue>),
 					<pageFirst>9904</pageFirst>–
-					<pageLast>9923</pageLast>. 
+					<pageLast>9923</pageLast>.
 					<url href="https://doi.org/10.1029/2019JA027158">https://doi.org/10.1029/2019JA027158</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0069">
 				<citation type="journal" xml:id="jgra58674-cit-0069">
 					<author>
-						<familyName>Yeoman</familyName>, 
+						<familyName>Yeoman</familyName>,
 						<givenNames>T. K.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Wright</familyName>, 
+						<familyName>Wright</familyName>,
 						<givenNames>D. M.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Chapman</familyName>, 
+						<familyName>Chapman</familyName>,
 						<givenNames>P. J.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Stockton‐Chalk</familyName>, 
+						<familyName>Stockton‐Chalk</familyName>,
 						<givenNames>A. B.</givenNames>
 					</author> (
-					<pubYear year="2000">2000</pubYear>). 
-					<articleTitle>High‐latitude observations of ULF waves with large azimuthal wavenumbers</articleTitle>. 
-					<journalTitle>Journal of Geophysical Research</journalTitle>, 
+					<pubYear year="2000">2000</pubYear>).
+					<articleTitle>High‐latitude observations of ULF waves with large azimuthal wavenumbers</articleTitle>.
+					<journalTitle>Journal of Geophysical Research</journalTitle>,
 					<vol>105</vol>(
-					<issue>A3</issue>), 
+					<issue>A3</issue>),
 					<pageFirst>5453</pageFirst>–
-					<pageLast>5462</pageLast>. 
+					<pageLast>5462</pageLast>.
 					<url href="https://doi.org/10.1029/1999JA005081">https://doi.org/10.1029/1999JA005081</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0070">
 				<citation type="journal" xml:id="jgra58674-cit-0070">
 					<author>
-						<familyName>Zhao</familyName>, 
+						<familyName>Zhao</familyName>,
 						<givenNames>L. L.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Zhang</familyName>, 
+						<familyName>Zhang</familyName>,
 						<givenNames>H.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Zong</familyName>, 
+						<familyName>Zong</familyName>,
 						<givenNames>Q. G.</givenNames>
 					</author> (
-					<pubYear year="2017">2017</pubYear>). 
-					<articleTitle>Global ULF waves generated by a hot flow anomaly</articleTitle>. 
-					<journalTitle>Geophysical Research Letters</journalTitle>, 
+					<pubYear year="2017">2017</pubYear>).
+					<articleTitle>Global ULF waves generated by a hot flow anomaly</articleTitle>.
+					<journalTitle>Geophysical Research Letters</journalTitle>,
 					<vol>44</vol>(
-					<issue>11</issue>), 
+					<issue>11</issue>),
 					<pageFirst>5283</pageFirst>–
-					<pageLast>5291</pageLast>. 
+					<pageLast>5291</pageLast>.
 					<url href="https://doi.org/10.1002/2017GL073249">https://doi.org/10.1002/2017GL073249</url>
 				</citation>
 			</bib>
 			<bib xml:id="jgra58674-bib-0071">
 				<citation type="journal" xml:id="jgra58674-cit-0071">
 					<author>
-						<familyName>Zong</familyName>, 
+						<familyName>Zong</familyName>,
 						<givenNames>Q.</givenNames>
-					</author>, 
+					</author>,
 					<author>
-						<familyName>Rankin</familyName>, 
+						<familyName>Rankin</familyName>,
 						<givenNames>R.</givenNames>
-					</author>, &amp; 
+					</author>, &amp;
 					<author>
-						<familyName>Zhou</familyName>, 
+						<familyName>Zhou</familyName>,
 						<givenNames>X.</givenNames>
 					</author> (
-					<pubYear year="2017">2017</pubYear>). 
-					<articleTitle>The interaction of ultra‐low‐frequency Pc3‐5 waves with charged particles in Earth’s magnetosphere</articleTitle>. 
-					<journalTitle>Reviews of Modern Plasma Physics</journalTitle>, 
+					<pubYear year="2017">2017</pubYear>).
+					<articleTitle>The interaction of ultra‐low‐frequency Pc3‐5 waves with charged particles in Earth’s magnetosphere</articleTitle>.
+					<journalTitle>Reviews of Modern Plasma Physics</journalTitle>,
 					<vol>1</vol>(
-					<issue>1</issue>), 
+					<issue>1</issue>),
 					<pageFirst>5453</pageFirst>–
-					<pageLast>5462</pageLast>. 
+					<pageLast>5462</pageLast>.
 					<url href="https://doi.org/10.1007/s41614-017-0011-4">https://doi.org/10.1007/s41614‐017‐0011‐4</url>
 				</citation>
 			</bib>

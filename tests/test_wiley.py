@@ -40,10 +40,6 @@ class TestWiley(unittest.TestCase):
 
             parsed = parser.parse(input_data)
 
-            # with open(test_outfile+"tmp", "w") as fp:
-            #     parsed["recordData"]["parsedTime"] = ""
-            #     json.dump(parsed,fp, indent = 2, sort_keys=True)
-
             with open(test_outfile, "rb") as fp:
                 output_text = fp.read()
                 output_data = json.loads(output_text)
