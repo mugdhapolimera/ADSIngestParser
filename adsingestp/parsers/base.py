@@ -572,8 +572,22 @@ class BaseBeautifulSoupParser(IngestBase):
                 if ins.previous_sibling and isinstance(ins.previous_sibling, str):
                     ins.previous_sibling.replace_with(ins.previous_sibling.rstrip())
                 ins.extract()
+        
+        # Modify the semantics tag before unwrapping newr
+        if "annotation" in tag_list and "semantics" in tag_list:
+            semantics_element = newr.find("semantics")
+            annotation_element = newr.find("annotation")
+            if annotation_element:
+                if annotation_element.parent.name == "semantics":
+                    # Replace the contents of <semantics> with the contents of the child <annotation> tag 
+                    semantics_element.clear()  
+                    semantics_element.append(annotation_element.text.strip())
+            
+            #reset tag list
+            tag_list = list(set([x.name for x in newr.find_all()]))
+
         for t in tag_list:
-            elements = newr.find_all(t)
+            elements = newr.find_all(t)        
             for e in elements:
                 if t in self.HTML_TAGS_DANGER:
                     e.decompose()

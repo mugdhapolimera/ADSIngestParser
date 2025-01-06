@@ -28,6 +28,7 @@ class TestWiley(unittest.TestCase):
             "wiley_subsup_1",
             "wiley_subsup_2",
             "wiley_missing_open_attr",
+            "wiley_jgra_58674",
         ]
         for f in filenames:
             test_infile = os.path.join(self.inputdir, f + ".xml")
@@ -38,6 +39,10 @@ class TestWiley(unittest.TestCase):
                 input_data = fp.read()
 
             parsed = parser.parse(input_data)
+
+            # with open(test_outfile+"tmp", "w") as fp:
+            #     parsed["recordData"]["parsedTime"] = ""
+            #     json.dump(parsed,fp, indent = 2, sort_keys=True)
 
             with open(test_outfile, "rb") as fp:
                 output_text = fp.read()
