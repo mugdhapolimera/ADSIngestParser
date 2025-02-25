@@ -299,6 +299,23 @@ class IngestBase(object):
             "electronicID": input_dict.get("electronic_id", ""),
         }
 
+        # import pdb; pdb.set_trace()
+        # for i in input_dict.get("authors", []):
+        #         for idx, j in enumerate(i.get("aff", [])):
+        #             affiliation = [
+        #             {"affPubRaw": j, "affPubID": i.get("affid")[idx] if i.get("affid") else []}
+
+        #                 ],
+        #         attrib = {
+        #             "collab": True if i.get("collab", "") else False,
+        #             # "deceased": True or False, # TODO need an example
+        #             # "coauthor": True or False, # TODO need an example
+        #             "email": i.get("email", ""),
+        #             # "funding": "XXX", # TODO need an example
+        #             "orcid": i.get("orcid", ""),
+        #         }
+
+        #         pdb.set_trace()
         output["authors"] = [
             {
                 "name": {
