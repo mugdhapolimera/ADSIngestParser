@@ -1,0 +1,83 @@
+{
+  "abstract": {
+    "textEnglish": "Global warming is shifting rainfall patterns across South Asia, and each area will be affected differently \u2014 local approaches are needed to track and respond to these changes."
+  },
+  "authors": [
+    {
+      "name": {
+        "given_name": "Shravan",
+        "surname": "Prabhu"
+      }
+    }
+  ],
+  "copyright": {
+    "statement": "\u00a9 Springer Nature Limited 2024",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "Climate change",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Society",
+      "keySystem": "misc"
+    },
+    {
+      "keyString": "Government",
+      "keySystem": "misc"
+    }
+  ],
+  "pagination": {
+    "firstPage": "973",
+    "lastPage": "973",
+    "pageRange": "973-973"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1038/d41586-024-01517-3"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2024-05-28",
+    "printDate": "2024-05-30"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0028-0836",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1476-4687",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "8014",
+    "pubName": "Nature",
+    "pubYear": "2024",
+    "publisher": "Nature Publishing Group UK",
+    "volumeNum": "629"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "d41586-024-01517-3",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "CM27114166",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "title": {
+    "textEnglish": "Monsoons are changing in India \u2014 here\u2019s how to climate-proof the economy"
+  }
+}

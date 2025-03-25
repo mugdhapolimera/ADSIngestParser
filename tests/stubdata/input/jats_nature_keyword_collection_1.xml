@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="news" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">41586</journal-id>
+			<journal-title-group>
+				<journal-title>Nature</journal-title>
+				<journal-subtitle>International weekly journal of science</journal-subtitle>
+				<abbrev-journal-title abbrev-type="publisher">Nature</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0028-0836</issn>
+			<issn pub-type="epub">1476-4687</issn>
+			<publisher>
+				<publisher-name>Nature Publishing Group UK</publisher-name>
+				<publisher-loc>London</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">d41586-024-01401-0</article-id>
+			<article-id pub-id-type="manuscript">CM27072058</article-id>
+			<article-id pub-id-type="doi">10.1038/d41586-024-01401-0</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research Highlight</subject>
+				</subj-group>
+				<subj-group subj-group-type="NatureArticleTypeID">
+					<subject>research-highlight</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/639/33/34</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Is that a giant sandwich? No, it’s the biggest protoplanetary disk in the sky</article-title>
+			</title-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>23</day>
+				<month>5</month>
+				<year>2024</year>
+			</pub-date>
+			<pub-date date-type="pub" publication-format="print">
+				<day>30</day>
+				<month>5</month>
+				<year>2024</year>
+			</pub-date>
+			<volume>629</volume>
+			<issue seq="0">8014</issue>
+			<fpage>975</fpage>
+			<lpage>975</lpage>
+			<history>
+				<date date-type="registration">
+					<day>9</day>
+					<month>5</month>
+					<year>2024</year>
+				</date>
+				<date date-type="online">
+					<day>23</day>
+					<month>5</month>
+					<year>2024</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© Springer Nature Limited 2024</copyright-statement>
+				<copyright-year>2024</copyright-year>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<p>A colossal object called Dracula’s Chivito, referring to an well-stuffed sandwich popular in Uruguay, is the chunkiest planetary nursery known.</p>
+			</abstract>
+			<abstract id="Abs2" xml:lang="en">
+				<p>A colossal object called Dracula’s Chivito, referring to an well-stuffed sandwich popular in Uruguay, is the chunkiest planetary nursery known.</p>
+				<fig id="Fig0" position="anchor">
+					<p>
+						<graphic position="anchor" specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/41586_2024_CM27072058_Fig0_HTML.jpg"/>
+					</p>
+				</fig>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<kwd>Astronomy and astrophysics</kwd>
+			</kwd-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>5</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>Springer Nature Limited</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>No</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>5</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>9</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>Magazine</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/41586_2024_Article_CM27072058.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>News</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+	</front>
+	<body>
+		<fig id="Fig1" position="anchor">
+			<caption xml:lang="en">
+				<p>A protoplanetary disk (artist’s impression) comprises dust and gas circling a young star. Such disks serve as nurseries for planets.</p>
+				<p>Credit: M. Kornmesser/ESO/SPL</p>
+			</caption>
+			<p>
+				<graphic position="anchor" specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/41586_2024_CM27072058_Fig1_HTML.jpg">
+					<caption xml:lang="en">
+						<p>Illustration of the disc of protoplanetary material around the nearby young star TW Hydrae. Yellow core and orange rings on a black background.</p>
+					</caption>
+				</graphic>
+			</p>
+		</fig>
+		<sec id="Sec1">
+			<title>Is that a giant sandwich? No, it’s the biggest protoplanetary disk in the sky</title>
+			<p>New observations have revealed the identity of a curious sandwich-shaped object in space that has long puzzled astronomers — and it’s not a sandwich after all. Instead, it is the largest known planetary nursery in the sky
+				<sup>
+					<xref ref-type="bibr" rid="CR1">1</xref>
+				</sup>. 
+			</p>
+			<p>Planets are usually born from dust- and gas-rich disks surrounding newborn stars. Several such protoplanetary disks have been observed in our galactic neighbourhood. From our point of view, these disks are oriented in many ways, from edge-on to face-on. </p>
+			<p>Kristina Monsch at the Harvard–Smithsonian Center for Astrophysics in Cambridge, Massachusetts, and her colleagues pointed telescopes towards Dracula’s Chivito, an object in the sky whose name refers to a thick, meaty sandwich that is Uruguay’s national dish. They found that the object’s dark ‘steak patty’, which sits between two bright ‘buns’, is the central lane of a protoplanetary disk that’s obscuring starlight coming from behind. </p>
+			<p>Studying how edge-on protoplanetary disks absorb starlight offers clues about the composition of these disks, and, in turn, about the building blocks of planets. The size of Dracula’s Chivito makes it the largest such disk discovered so far.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list id="Bib1">
+			<title>References</title>
+			<ref-list>
+				<ref id="CR1">
+					<label>1.</label>
+					<mixed-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Monsch</surname>
+								<given-names>K.</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<source>Astrophys. J.</source>
+						<year>2024</year>
+						<volume>967</volume>
+						<fpage>L2</fpage>
+						<pub-id pub-id-type="doi">10.3847/2041-8213/ad3bb0</pub-id>
+					</mixed-citation>
+				</ref>
+			</ref-list>
+		</ref-list>
+	</back>
+</article>

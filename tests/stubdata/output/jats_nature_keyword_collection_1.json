@@ -1,0 +1,70 @@
+{
+  "abstract": {
+    "textEnglish": "A colossal object called Dracula\u2019s Chivito, referring to an well-stuffed sandwich popular in Uruguay, is the chunkiest planetary nursery known."
+  },
+  "copyright": {
+    "statement": "\u00a9 Springer Nature Limited 2024",
+    "status": true
+  },
+  "keywords": [
+    {
+      "keyString": "Astronomy and astrophysics",
+      "keySystem": "misc"
+    }
+  ],
+  "pagination": {
+    "firstPage": "975",
+    "lastPage": "975",
+    "pageRange": "975-975"
+  },
+  "persistentIDs": [
+    {
+      "DOI": "10.1038/d41586-024-01401-0"
+    }
+  ],
+  "pubDate": {
+    "electrDate": "2024-05-23",
+    "printDate": "2024-05-30"
+  },
+  "publication": {
+    "ISSN": [
+      {
+        "issnString": "0028-0836",
+        "pubtype": "ppub"
+      },
+      {
+        "issnString": "1476-4687",
+        "pubtype": "epub"
+      }
+    ],
+    "issueNum": "8014",
+    "pubName": "Nature",
+    "pubYear": "2024",
+    "publisher": "Nature Publishing Group UK",
+    "volumeNum": "629"
+  },
+  "publisherIDs": [
+    {
+      "Identifier": "d41586-024-01401-0",
+      "attribute": "publisher-id"
+    },
+    {
+      "Identifier": "CM27072058",
+      "attribute": "manuscript"
+    }
+  ],
+  "recordData": {
+    "createdTime": "",
+    "loadFormat": "JATS",
+    "loadLocation": "",
+    "loadType": "fromFile",
+    "parsedTime": "",
+    "recordOrigin": ""
+  },
+  "references": [
+    "<ref id=\"CR1\"> <label>1.</label> <mixed-citation publication-type=\"journal\"> <person-group person-group-type=\"author\"> <name> <surname>Monsch</surname> <given-names>K.</given-names> </name> <etal/> </person-group> <source>Astrophys. J.</source> <year>2024</year> <volume>967</volume> <fpage>L2</fpage> <pub-id pub-id-type=\"doi\">10.3847/2041-8213/ad3bb0</pub-id> </mixed-citation> </ref>"
+  ],
+  "title": {
+    "textEnglish": "Is that a giant sandwich? No, it\u2019s the biggest protoplanetary disk in the sky"
+  }
+}

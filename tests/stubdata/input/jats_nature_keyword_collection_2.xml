@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd">
+<article
+	xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="news" xml:lang="en">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">41586</journal-id>
+			<journal-title-group>
+				<journal-title>Nature</journal-title>
+				<journal-subtitle>International weekly journal of science</journal-subtitle>
+				<abbrev-journal-title abbrev-type="publisher">Nature</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0028-0836</issn>
+			<issn pub-type="epub">1476-4687</issn>
+			<publisher>
+				<publisher-name>Nature Publishing Group UK</publisher-name>
+				<publisher-loc>London</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">d41586-024-01517-3</article-id>
+			<article-id pub-id-type="manuscript">CM27114166</article-id>
+			<article-id pub-id-type="doi">10.1038/d41586-024-01517-3</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>World View</subject>
+				</subj-group>
+				<subj-group subj-group-type="NatureArticleTypeID">
+					<subject>world-view</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/704/106/694</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/706/689/522</subject>
+				</subj-group>
+				<subj-group subj-group-type="SubjectPath">
+					<subject>/706/689/222</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Monsoons are changing in India — here’s how to climate-proof the economy</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Prabhu</surname>
+						<given-names>Shravan</given-names>
+					</name>
+					<bio>
+						<p>
+							<fig id="Fig0" position="anchor">
+								<caption xml:lang="en">
+									<p>Credit: Council on Energy, Environment and Water</p>
+								</caption>
+								<p>
+									<graphic position="anchor" specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/41586_2024_CM27114166_Fig0_HTML.jpg">
+										<caption xml:lang="en">
+											<p>Shravan Prabhu</p>
+										</caption>
+									</graphic>
+								</p>
+							</fig>Shravan Prabhu is a climate and sustainability researcher and programme associate at the Council on Energy, Environment and Water in New Delhi, India. X: 
+							<ext-link xlink:href="https://twitter.com/Shravanverse" ext-link-type="url">@shravanverse</ext-link>
+						</p>
+					</bio>
+				</contrib>
+			</contrib-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>28</day>
+				<month>5</month>
+				<year>2024</year>
+			</pub-date>
+			<pub-date date-type="pub" publication-format="print">
+				<day>30</day>
+				<month>5</month>
+				<year>2024</year>
+			</pub-date>
+			<volume>629</volume>
+			<issue seq="0">8014</issue>
+			<fpage>973</fpage>
+			<lpage>973</lpage>
+			<history>
+				<date date-type="registration">
+					<day>21</day>
+					<month>5</month>
+					<year>2024</year>
+				</date>
+				<date date-type="online">
+					<day>28</day>
+					<month>5</month>
+					<year>2024</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>© Springer Nature Limited 2024</copyright-statement>
+				<copyright-year>2024</copyright-year>
+			</permissions>
+			<abstract id="Abs1" xml:lang="en">
+				<p>Global warming is shifting rainfall patterns across South Asia, and each area will be affected differently — local approaches are needed to track and respond to these changes.</p>
+			</abstract>
+			<abstract id="Abs2" xml:lang="en">
+				<p>Global warming is shifting rainfall patterns across South Asia, and each area will be affected differently — local approaches are needed to track and respond to these changes.</p>
+				<fig id="Fig1" position="anchor">
+					<p>
+						<graphic position="anchor" specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/41586_2024_CM27114166_Fig1_HTML.jpg"/>
+					</p>
+				</fig>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<kwd>Climate change</kwd>
+				<kwd>Society</kwd>
+				<kwd>Government</kwd>
+			</kwd-group>
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>volume-issue-count</meta-name>
+					<meta-value>5</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-holder</meta-name>
+					<meta-value>Springer Nature Limited</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-copyright-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-contains-esm</meta-name>
+					<meta-value>No</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-year</meta-name>
+					<meta-value>2024</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-month</meta-name>
+					<meta-value>5</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-registration-date-day</meta-name>
+					<meta-value>21</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>toc-levels</meta-name>
+					<meta-value>0</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>volume-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-product</meta-name>
+					<meta-value>Magazine</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>numbering-style</meta-name>
+					<meta-value>Unnumbered</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-grants-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>metadata-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>abstract-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodypdf-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bodyhtml-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>bibliography-grant</meta-name>
+					<meta-value>Restricted</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>esm-grant</meta-name>
+					<meta-value>OpenAccess</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>online-first</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-file-reference</meta-name>
+					<meta-value>BodyRef/PDF/41586_2024_Article_CM27114166.pdf</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>pdf-type</meta-name>
+					<meta-value>Typeset</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>target-type</meta-name>
+					<meta-value>OnlinePDF</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>issue-type</meta-name>
+					<meta-value>Regular</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>article-type</meta-name>
+					<meta-value>News</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-primary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, Humanities and Social Sciences, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>journal-subject-secondary</meta-name>
+					<meta-value>Science, multidisciplinary</meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>open-access</meta-name>
+					<meta-value>false</meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</article-meta>
+	</front>
+	<body>
+		<sec id="Sec1">
+			<title>Monsoons are changing in India — here’s how to climate-proof the economy</title>
+			<p>India’s monsoon season is approaching, and much of the country is experiencing a heatwave. Worse weather, including floods and cyclones, might follow. The India Meteorological Department has 
+				<ext-link xlink:href="https://internal.imd.gov.in/press_release/20240415_pr_2952.pdf" ext-link-type="url">forecast “above normal” monsoon rainfall</ext-link> this year. India is holding general elections, and 
+				<ext-link xlink:href="https://blogs.nature.com/indigenus/2013/04/heat-warning-system-for-indias-harsh-summer.html" ext-link-type="url">dealing with the intensifying impacts of climate change</ext-link> must be at the top of the incoming government’s agenda. Understanding monsoon rainfall is crucial to both people and the economy. Last year, India had significant losses in wheat yields owing to untimely heavy rains.
+			</p>
+			<p>As a data scientist who, with my colleagues, has dissected 40 years of rainfall data across more than 4,500 Indian sub-districts (tehsils), I have seen changes in how and where monsoon rains fall. Monsoons — whose name comes from the Arabic word 
+				<italic>mausim</italic>, meaning season — are periodic changes in wind direction. Typically, between June and September, the Indian subcontinent experiences heavy rains during the southwest monsoon, caused by moist winds drawn up from oceans in the southwest. From October to December, during the northeast monsoon, air flowing from the northeast triggers rains in southern India.
+			</p>
+			<p>
+				<boxed-text id="Sb0">
+					<p>
+						<fig id="Fig2" position="anchor">
+							<p>
+								<graphic position="anchor" specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/41586_2024_CM27114166_Fig2_HTML.jpg"/>
+							</p>
+						</fig>
+						<ext-link xlink:href="https://www.nature.com/articles/d41586-023-03193-1" ext-link-type="url">Grand plan to drought-proof India could reduce rainfall</ext-link>
+					</p>
+				</boxed-text>
+			</p>
+			<p>In January, the Council on Energy, Environment and Water (CEEW), a public-policy research institution in New Delhi where I work, published its 
+				<ext-link xlink:href="https://www.ceew.in/publications/decoding-changing-monsoon-rainfall-patterns-due-to-climate-change-in-india" ext-link-type="url">report detailing how monsoons are becoming more erratic</ext-link> across India. Even adjacent tehsils are seeing different trends in rainfall — hindering grass-roots preparedness at local levels.
+			</p>
+			<p>Many tehsils in historically arid states, such as Rajasthan, Gujarat and central Maharashtra, experienced 10–30% more southwest-monsoon rains in the past ten years (2012–22) than during the three preceding decades (1982–2011). Key sectors, such as agriculture and water management, have been affected. By contrast, around 11% of Indian tehsils have seen a decrease in southwest-monsoon rainfall of more than 10%. Most lie in the agriculturally important Indo-Gangetic plains, the fragile Indian Himalayan region (home to a high number of endemic plant species) and the northeastern states, where some of the world’s wettest places are found.</p>
+			<p>Over the past two decades, Indian governments have invested in weather-forecasting systems and developed national and state-level climate-action plans. These have been helpful. But as the impacts of climate change worsen, more action is needed. It is time to combine a policy push, high-quality research and granular risk assessment to build resilience against increasingly erratic rainfall patterns.</p>
+			<p>
+				<boxed-text id="Sb1">
+					<p>
+						<fig id="Fig3" position="anchor">
+							<p>
+								<graphic position="anchor" specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/41586_2024_CM27114166_Fig3_HTML.jpg"/>
+							</p>
+						</fig>
+						<ext-link xlink:href="https://www.nature.com/articles/d44151-023-00093-1" ext-link-type="url">How a warming Pacific Ocean and climate change will impact agriculture</ext-link>
+					</p>
+				</boxed-text>
+			</p>
+			<p>First, decentralize. India is a vast country with six major climatic zones. The national government has mandated that all states and union territories should assess climate risks and develop mitigation and adaptation strategies for the rest of the decade. All 766 Indian districts should do the same, on the basis of microclimatic changes in monsoon patterns and socio-economic data; these plans should address crop insurance, power supplies and groundwater quality, for example. This year, the CEEW has supported Thane, a coastal city in Maharashtra, in developing its first 
+				<ext-link xlink:href="https://www.ceew.in/publications/how-can-thane-city-tackle-heatwaves-risks-with-heat-action-plan" ext-link-type="url">risk-informed heat action plan</ext-link>. This framework can serve as a model for others.
+			</p>
+			<p>Second, strengthen farming. Agriculture and related sectors are the biggest employers in the Indian economy, and they contributed 18% of the country’s gross domestic product in 2022–23. Government responses to crop losses must move past just 
+				<ext-link xlink:href="https://economictimes.indiatimes.com/news/india/maharashtra-govt-announces-rs-10000-cr-aid-for-rain-affected-farmers/articleshow/86992689.cms?from=mdr" ext-link-type="url">relief</ext-link> and 
+				<ext-link xlink:href="https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-govt-announces-rs-630-crore-relief-package-for-rain-affected-farmers-in-14-districts/articleshow/95145957.cms" ext-link-type="url">compensation</ext-link>. Instead, farmers’ ability to cope must be bolstered, for example by adjusting crop growth and harvest phases, relying on climate-resilient seeds and updating crop calendars, which are developed jointly by agricultural and meteorological agencies and provide farmers with weekly weather information for the planting, sowing and harvesting periods of crops grown in their districts.
+			</p>
+			<p>
+				<boxed-text id="Sb2">
+					<p>
+						<fig id="Fig4" position="anchor">
+							<p>
+								<graphic position="anchor" specific-use="HTML" mime-subtype="JPEG" xlink:href="MediaObjects/41586_2024_CM27114166_Fig4_HTML.jpg"/>
+							</p>
+						</fig>
+						<ext-link xlink:href="https://www.nature.com/articles/d41586-023-00341-5" ext-link-type="url">How India is battling deadly rain storms as climate change bites</ext-link>
+					</p>
+				</boxed-text>
+			</p>
+			<p>These calendars must incorporate shifting monsoon patterns. Efforts are under way in some states, including 
+				<ext-link xlink:href="https://www.downtoearth.org.in/news/agriculture/update-overdue-why-climate-change-should-be-integrated-into-crop-calendars-at-the-hyper-local-level-84806" ext-link-type="url">Assam</ext-link>, which in 2022 asked the Indian Council of Agricultural Research, a research institute in New Delhi, to evaluate rainfall and temperature changes and determine the optimal approach to calendar revision. Others should follow suit.
+			</p>
+			<p>Third, disaggregate data. Scientists studying the South Asian climate must examine monsoon variability with greater granularity and map risks and impacts in different sectors across space and time. The distribution of rainfall throughout the season is more important than the total amount. Adaptation strategies for 2030 currently rely on climate projections for 2050 and 2100 — shorter-term estimates are needed, as has been recognized by the governmental scheme 
+				<ext-link xlink:href="https://moes.gov.in/schemes/atmospheric-climate-science-and-services?language_content_entity=en" ext-link-type="url">Atmosphere &amp; Climate Research-Modelling Observing Systems &amp; Services</ext-link>.
+			</p>
+			<p>Decision makers must recognize that floods and droughts can occur in the same district, in the same season. More local data should be collected through automated weather stations and community-science initiatives. For example, more than 200 public schools in Kerala are 
+				<ext-link xlink:href="https://indianexpress.com/article/education/over-200-govt-schools-kerala-install-weather-stations-train-students-climate-change-8290748/" ext-link-type="url">using weather stations to record 24-hour rain data</ext-link>, humidity, wind speed and direction, in an effort to understand the microclimate.
+			</p>
+			<p>The Indian government, at all levels, must tackle erratic monsoons and ‘climate-proof’ the economy. The lessons learnt could help countries in the global south experiencing extreme rainfall and floods, from 
+				<ext-link xlink:href="https://www.aljazeera.com/news/2024/4/14/dozens-killed-in-afghanistan-as-heavy-rains-set-off-flash-floods" ext-link-type="url">Afghanistan</ext-link> to 
+				<ext-link xlink:href="https://www.firstpost.com/world/death-toll-from-kenya-floods-rises-to-228-13767618.html" ext-link-type="url">Kenya</ext-link>, 
+				<ext-link xlink:href="https://www.bbc.com/news/articles/c0w03627kq4o" ext-link-type="url">Brazil</ext-link> and 
+				<ext-link xlink:href="https://www.aljazeera.com/news/2024/5/4/landslides-floods-sweep-indonesias-south-sulawesi-killing-15-people" ext-link-type="url">Indonesia</ext-link>.
+			</p>
+		</sec>
+		<sec id="Sec2">
+			<title>Related Content</title>
+			<p>
+				<ext-link xlink:href="https://www.nature.com/articles/d41586-023-03193-1" ext-link-type="url">Grand plan to drought-proof India could reduce rainfall</ext-link>
+			</p>
+			<p>
+				<ext-link xlink:href="https://www.nature.com/articles/d44151-023-00093-1" ext-link-type="url">How a warming Pacific Ocean and climate change will impact agriculture</ext-link>
+			</p>
+			<p>
+				<ext-link xlink:href="https://www.nature.com/articles/d41586-023-00341-5" ext-link-type="url">How India is battling deadly rain storms as climate change bites</ext-link>
+			</p>
+			<p>
+				<ext-link xlink:href="https://www.nature.com/articles/nindia.2020.39" ext-link-type="url">Monsoon behind low magnitude earthquakes in India’s west coast</ext-link>
+			</p>
+			<p>
+				<ext-link xlink:href="https://www.nature.com/articles/d41586-022-04150-0" ext-link-type="url">The trees’ lessons: climate records are written in tree rings</ext-link>
+			</p>
+			<p>
+				<ext-link xlink:href="https://www.nature.com/articles/d41586-024-00886-z" ext-link-type="url">How to achieve safe water access for all: work with local communities</ext-link>
+			</p>
+		</sec>
+	</body>
+	<back>
+		<sec sec-type="ethics-statement">
+			<p>The author declares no competing interests.</p>
+		</sec>
+	</back>
+</article>
